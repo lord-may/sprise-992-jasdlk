@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.094328,35.641346],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T17:04:21.43-05:00","outageName":"E141992","outagePoint":{"lat":35.641346180124245,"lng":-87.0943275817754},"outageRecID":"2026-10-12-0108","outageStartTime":"2026-10-12T17:03:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-87.156969,35.610745],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1241,"customersOutNow":1241,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T17:05:11.43-05:00","outageName":"BRK W-234","outagePoint":{"lat":35.61074516860002,"lng":-87.15696850570342},"outageRecID":"2026-10-12-0109","outageStartTime":"2026-10-12T17:05:06-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
