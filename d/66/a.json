@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-85.212921,36.095979],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a possible line down caused by a truck snagging lines. Thank you for your patience.","crewAssigned":true,"id":"1722694","nbrOut":2,"planned":false,"timeOff":1791838924326},"type":"Feature"},
 {"geometry":{"coordinates":[-84.834659,35.715369],"type":"Point"},"properties":{"crewAssigned":true,"id":"1722695","nbrOut":1,"planned":false,"timeOff":1791839769958},"type":"Feature"},
 {"geometry":{"coordinates":[-84.731793,35.664232],"type":"Point"},"properties":{"crewAssigned":true,"id":"1722697","nbrOut":7,"planned":false,"timeOff":1791838932000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.843004,35.019592],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722701","nbrOut":1,"planned":false,"timeOff":1791843614344},"type":"Feature"}
+{"geometry":{"coordinates":[-84.843004,35.019592],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1722701","nbrOut":1,"planned":false,"timeOff":1791843614344},"type":"Feature"},
+{"geometry":{"coordinates":[-84.737865,35.661823],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722702","nbrOut":1,"planned":false,"timeOff":1791844269433},"type":"Feature"},
+{"geometry":{"coordinates":[-84.787156,35.007865],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722710","nbrOut":88,"planned":false,"timeOff":1791844394471},"type":"Feature"}
 ]}
