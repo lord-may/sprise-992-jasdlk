@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.062299,26.643947],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-12T18:26:39-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T15:29:01.12-04:00","outageName":"2605 KELLY LN 2","outagePoint":{"lat":26.643947336100464,"lng":-80.06229935582326},"outageRecID":"2026-10-12-0168","outageStartTime":"2026-10-12T15:26:39-04:00","outageWorkStatus":"","streetsAffected":["KELLY LN"],"verified":false},"type":"Feature"}
 ]}
