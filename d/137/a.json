@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.49344,35.736399],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-13T13:00:32.15-04:00","outageName":"PC-10209","outagePoint":{"lat":35.73639854023811,"lng":-83.49344011979636},"outageRecID":"2026-10-13-0251","outageStartTime":"2026-10-13T13:00:00-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
