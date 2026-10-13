@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.590296,37.053483],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T06:54:08.74-05:00","outageName":"RC-208","outagePoint":{"lat":37.05348270503968,"lng":-88.59029621370443},"outageRecID":"2026-10-13-0048","outageStartTime":"2026-10-13T06:45:53-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-88.589059,37.054436],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T06:51:35.197-05:00","outageName":"RC-208","outagePoint":{"lat":37.05443617761039,"lng":-88.58905909719418},"outageRecID":"2026-10-13-0049","outageStartTime":"2026-10-13T06:45:53-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
