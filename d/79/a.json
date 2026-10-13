@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.687622,35.677419],"type":"Point"},"properties":{"cause":"110 Maintenance planned","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-13T07:35:01.813-05:00","outageName":"XFMRU324716","outagePoint":{"lat":35.67741892060593,"lng":-86.6876224628799},"outageRecID":"2026-10-13-0544","outageStartTime":"2026-10-13T07:25:18-05:00","outageWorkStatus":"Work in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
