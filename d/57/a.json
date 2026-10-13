@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.121504,34.190364],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1791931500000,"id":"1066652","nbrOut":1,"planned":false,"timeOff":1791902487000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.260887,34.103098],"type":"Point"},"properties":{"cause":"URD Service-Dig In","crewAssigned":true,"estimateTime":1791927000000,"id":"1066684","nbrOut":1,"planned":false,"timeOff":1791919297000},"type":"Feature"}
+{"geometry":{"coordinates":[-84.260887,34.103098],"type":"Point"},"properties":{"cause":"URD Service-Dig In","crewAssigned":true,"estimateTime":1791927000000,"id":"1066684","nbrOut":1,"planned":false,"timeOff":1791919297000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.100942,34.324937],"type":"Point"},"properties":{"cause":"Under Review","crewAssigned":false,"estimateTime":1791936900000,"id":"1066686","nbrOut":1,"planned":false,"timeOff":1791929066000},"type":"Feature"}
 ]}

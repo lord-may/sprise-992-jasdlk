@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.493922,32.889046],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T18:05:07.56-04:00","outageName":"13D-5-3","outagePoint":{"lat":32.88904591205822,"lng":-83.49392172194729},"outageRecID":"2026-10-13-0107","outageStartTime":"2026-10-13T18:01:55-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-83.492989,33.00972],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T18:03:35.447-04:00","outageName":"8C-10 1/2-1","outagePoint":{"lat":33.00972016672139,"lng":-83.49298888420644},"outageRecID":"2026-10-13-0108","outageStartTime":"2026-10-13T18:03:00-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
