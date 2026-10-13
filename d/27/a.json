@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-81.985948,29.619084],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791928982000,"id":"490363","nbrOut":2,"planned":true,"timeOff":1791903779516},"type":"Feature"},
 {"geometry":{"coordinates":[-82.643371,30.104434],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791924356000,"id":"490404","nbrOut":2,"planned":false,"timeOff":1791917114000},"type":"Feature"},
-{"geometry":{"coordinates":[-81.880675,29.145602],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791925262000,"id":"490406","nbrOut":1,"planned":true,"timeOff":1791918010000},"type":"Feature"},
 {"geometry":{"coordinates":[-81.987179,30.099352],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791926238088,"id":"490409","nbrOut":36,"planned":false,"timeOff":1791918975000},"type":"Feature"},
 {"geometry":{"coordinates":[-81.906088,29.369213],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791927448888,"id":"490412","nbrOut":2,"planned":false,"timeOff":1791920165000},"type":"Feature"},
-{"geometry":{"coordinates":[-81.868925,29.229799],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791927674000,"id":"490413","nbrOut":1,"planned":true,"timeOff":1791920469766},"type":"Feature"}
+{"geometry":{"coordinates":[-81.868925,29.229799],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791927674000,"id":"490413","nbrOut":1,"planned":true,"timeOff":1791920469766},"type":"Feature"},
+{"geometry":{"coordinates":[-82.164354,29.980239],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791928539000,"id":"490414","nbrOut":1,"planned":false,"timeOff":1791921274000},"type":"Feature"}
 ]}
