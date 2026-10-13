@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-84.219169,30.51035],"type":"Point"},"properties":{"cause":"Transformer Failed","customers":4,"etr":1791895292000,"off":1791877677000,"outagetype":"Small","region":2,"status":"Crew Assigned","ticket":null},"type":"Feature"},
 {"geometry":{"coordinates":[-84.281543,30.406625],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1791897072000,"off":1791886482000,"outagetype":"Small","region":4,"status":"Crew Assigned","ticket":null},"type":"Feature"},
 {"geometry":{"coordinates":[-84.224322,30.47183],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1791897421000,"off":1791890221000,"outagetype":"Small","region":2,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.234301,30.303065],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1791897618000,"off":1791890418000,"outagetype":"Small","region":5,"status":"Reported","ticket":null},"type":"Feature"}
+{"geometry":{"coordinates":[-84.234301,30.303065],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1791897618000,"off":1791890418000,"outagetype":"Small","region":5,"status":"Reported","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.24669,30.413754],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1791897740000,"off":1791890540000,"outagetype":"Small","region":6,"status":"Reported","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.271678,30.385558],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1791898540000,"off":1791891340000,"outagetype":"Small","region":5,"status":"Reported","ticket":null},"type":"Feature"}
 ]}
