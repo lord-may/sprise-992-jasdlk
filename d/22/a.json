@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.315814,35.002127],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":4,"incident_status":"EN_ROUTE","latitude":35.002127,"longitude":-85.315814},"type":"Feature"},
-{"geometry":{"coordinates":[-85.223525,35.008614],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.008614,"longitude":-85.223525},"type":"Feature"},
-{"geometry":{"coordinates":[-85.241414,35.020596],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.020596,"longitude":-85.241414},"type":"Feature"},
-{"geometry":{"coordinates":[-85.146323,35.054452],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.054452,"longitude":-85.146323},"type":"Feature"},
-{"geometry":{"coordinates":[-85.264261,35.131236],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.131236,"longitude":-85.264261},"type":"Feature"}
+{"geometry":{"coordinates":[-85.314814,35.000127],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":4,"incident_status":"EN_ROUTE","latitude":35.000127,"longitude":-85.314814},"type":"Feature"},
+{"geometry":{"coordinates":[-85.145023,35.050552],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":2,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.050552,"longitude":-85.145023},"type":"Feature"},
+{"geometry":{"coordinates":[-85.175941,35.093858],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":55,"incident_status":"EN_ROUTE","latitude":35.093858,"longitude":-85.175941},"type":"Feature"},
+{"geometry":{"coordinates":[-85.262661,35.130636],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.130636,"longitude":-85.262661},"type":"Feature"}
 ]}
