@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.44802,30.414368],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-14T08:15:53.25-05:00","outageName":"T6152","outagePoint":{"lat":30.41436776726018,"lng":-87.44802046163154},"outageRecID":"2026-10-14-0998","outageStartTime":"2026-10-14T08:08:43-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.833751,32.65497],"type":"Point"},"properties":{"id":"192087","nbrOut":1,"planned":false,"timeOff":1791982576000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-82.912956,33.093416],[-82.910009,33.093717],[-82.910063,33.102297],[-82.917654,33.115856],[-82.92422,33.117699],[-82.932575,33.117496],[-82.983195,33.114923],[-82.985764,33.104366],[-82.985611,33.09949],[-82.912956,33.093416]]],"type":"Polygon"},{"coordinates":[-82.946112,33.106051],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Washington EMC has a planned maintenance outage which will affect your electric service. Crews will work to restore power as quickly and as safely as possible. Thank you for your patience while we improve your electric service.","id":"192088","nbrOut":72,"planned":true,"timeOff":1791982993248},"type":"Feature"}
+{"geometry":{"coordinates":[-82.833751,32.65497],"type":"Point"},"properties":{"id":"192087","nbrOut":1,"planned":true,"timeOff":1791982576000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.72987,33.016242],"type":"Point"},"properties":{"id":"192091","nbrOut":2,"planned":false,"timeOff":1791983711000},"type":"Feature"}
 ]}
