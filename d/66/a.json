@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.714994,35.324417],"type":"Point"},"properties":{"crewAssigned":true,"id":"1722879","nbrOut":1,"planned":false,"timeOff":1792014176923},"type":"Feature"},
-{"geometry":{"coordinates":[-84.714509,35.325832],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722880","nbrOut":1,"planned":false,"timeOff":1792014714223},"type":"Feature"},
-{"geometry":{"coordinates":[-84.929988,36.357117],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722881","nbrOut":1,"planned":false,"timeOff":1792014777326},"type":"Feature"},
-{"geometry":{"coordinates":[-84.931183,36.381406],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722882","nbrOut":1,"planned":false,"timeOff":1792014790815},"type":"Feature"},
-{"geometry":{"coordinates":[-85.265607,36.058298],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722883","nbrOut":1,"planned":false,"timeOff":1792014881307},"type":"Feature"},
-{"geometry":{"coordinates":[-84.921454,36.373537],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722884","nbrOut":1,"planned":false,"timeOff":1792014894424},"type":"Feature"}
+{"geometry":{"coordinates":[-84.715749,35.318312],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1722879","nbrOut":2,"planned":false,"timeOff":1792014176923},"type":"Feature"},
+{"geometry":{"coordinates":[-84.932925,36.386917],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1722888","nbrOut":144,"planned":false,"timeOff":1792014777326},"type":"Feature"},
+{"geometry":{"coordinates":[-85.014528,36.264917],"type":"Point"},"properties":{"crewAssigned":false,"id":"1722891","nbrOut":1,"planned":false,"timeOff":1792014970373},"type":"Feature"},
+{"geometry":{"coordinates":[-85.265625,36.056961],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1722898","nbrOut":16,"planned":false,"timeOff":1792014881307},"type":"Feature"}
 ]}
