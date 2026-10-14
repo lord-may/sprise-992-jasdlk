@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.02235,35.02666],"type":"Point"},"properties":{"CUR_CUST_AFF":3,"EST_REPAIR_TIME":"","IMPACT":"Half a Block","OUTAGE_NO":1538216,"OUT_CAUSE":" ","STATUS":"Tree Trimming is clearing debris from the area","TIME_STAMP":"10/13/2026 06:31:47 PM"},"type":"Feature"},
-{"geometry":{"coordinates":[-90.0228,35.02616],"type":"Point"},"properties":{"CUR_CUST_AFF":28,"EST_REPAIR_TIME":"","IMPACT":"A Few Blocks","OUTAGE_NO":1538231,"OUT_CAUSE":" ","STATUS":"Tree Trimming is clearing debris from the area","TIME_STAMP":"10/13/2026 08:47:35 PM"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.02235,35.02666],"type":"Point"},"properties":{"CUR_CUST_AFF":3,"EST_REPAIR_TIME":"","IMPACT":"Half a Block","OUTAGE_NO":1538216,"OUT_CAUSE":" ","STATUS":"Waiting for an available crew to perform repairs","TIME_STAMP":"10/13/2026 06:31:47 PM"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.0228,35.02616],"type":"Point"},"properties":{"CUR_CUST_AFF":28,"EST_REPAIR_TIME":"","IMPACT":"A Few Blocks","OUTAGE_NO":1538231,"OUT_CAUSE":" ","STATUS":"Waiting for an available crew to perform repairs","TIME_STAMP":"10/13/2026 08:47:35 PM"},"type":"Feature"},
 {"geometry":{"coordinates":[-89.98255,35.21235],"type":"Point"},"properties":{"CUR_CUST_AFF":4,"EST_REPAIR_TIME":"10/14/2026 03:00:00 AM","IMPACT":"Half a Block","OUTAGE_NO":1538233,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"10/13/2026 10:10:30 PM"},"type":"Feature"}
 ]}
