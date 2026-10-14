@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.876081,35.636718],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-14T13:34:19.077-04:00","outageName":"23","outagePoint":{"lat":35.636718055451,"lng":-79.87608124196407},"outageRecID":"2026-10-14-0223","outageStartTime":"2026-10-14T13:31:04-04:00","outageWorkStatus":"","streetsAffected":["HOPEWELL FRIENDS RD"],"verified":true},"type":"Feature"}
 ]}
