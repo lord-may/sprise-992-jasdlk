@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.349579,27.507896],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127244,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1791788222000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
+{"geometry":{"coordinates":[-80.349579,27.507896],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127247,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1791788222000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.352781,27.438077],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":8,"EQUIPMENT":"Connector or Splice","OBJECTID":127248,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1791991858000,"TIMERESTORED_EST_UTC":1791999085000},"type":"Feature"}
 ]}
