@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.504846,33.946226],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":2,"Description":"Observation type: Power Out\nObservation range: Only my power is out\n","Duration":115,"EstOutageTimeRemaining":288,"Feeder":"403","OBJECTID":1,"OutageID":63345,"Status":"Crew Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.551128,33.932257],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":27,"Description":"","Duration":0,"EstOutageTimeRemaining":131,"Feeder":"1202","OBJECTID":2,"OutageID":63347,"Status":"Assessing Situation"},"type":"Feature"}
 ]}
