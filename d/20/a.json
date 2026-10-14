@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.80307,36.15156],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 19"]},{"property":"AREA_SERVICE","value":["Green Hills - Midtown"]}],"cause":"","etrTime":1791987300000,"id":2233357,"identifier":"2709163","latitude":36.15156,"longitude":-86.80307,"numPeople":1,"startTime":1791969005000,"status":"Assigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.68129,36.15102],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 15"]},{"property":"AREA_SERVICE","value":["Donelson - Hermitage - Old Hickory"]}],"cause":"","etrTime":1791987300000,"id":2233358,"identifier":"2709164","latitude":36.15102,"longitude":-86.68129,"numPeople":1,"startTime":1791969039000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
