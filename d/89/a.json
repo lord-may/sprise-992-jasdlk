@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.727267,30.407865],"type":"Point"},"properties":{"cause":"Material or equipment fault/failure","code":"300","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T10:37:19.767-05:00","outageName":"186589","outagePoint":{"lat":30.407865351275213,"lng":-87.72726704710647},"outageRecID":"2026-10-14-1003","outageStartTime":"2026-10-14T10:26:54-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
