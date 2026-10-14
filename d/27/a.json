@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.505408,29.924129],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791988610000,"id":"490443","nbrOut":5,"planned":true,"timeOff":1791981407129},"type":"Feature"},
 {"geometry":{"coordinates":[-82.612972,29.887491],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791989188875,"id":"490446","nbrOut":1,"planned":true,"timeOff":1791981982645},"type":"Feature"},
-{"geometry":{"coordinates":[-82.561247,29.950549],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791990000000,"id":"490451","nbrOut":2,"planned":true,"timeOff":1791982731000},"type":"Feature"},
 {"geometry":{"coordinates":[-81.933882,30.10623],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791992351229,"id":"490458","nbrOut":17,"planned":false,"timeOff":1791984997000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.404231,29.870004],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791992672000,"id":"490460","nbrOut":1,"planned":true,"timeOff":1791985468045},"type":"Feature"},
 {"geometry":{"coordinates":[-82.631486,29.90615],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791992928803,"id":"490461","nbrOut":1,"planned":true,"timeOff":1791985722546},"type":"Feature"},
 {"geometry":{"coordinates":[-82.238698,29.724392],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791992975000,"id":"490462","nbrOut":1,"planned":true,"timeOff":1791985773105},"type":"Feature"},
-{"geometry":{"coordinates":[-82.249999,30.215255],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791993658791,"id":"490463","nbrOut":2,"planned":true,"timeOff":1791986452268},"type":"Feature"}
+{"geometry":{"coordinates":[-82.249999,30.215255],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791993658791,"id":"490463","nbrOut":2,"planned":true,"timeOff":1791986452268},"type":"Feature"},
+{"geometry":{"coordinates":[-81.843709,29.633663],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1791994750800,"id":"490465","nbrOut":1,"planned":false,"timeOff":1791987496000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.533795,29.585209],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1791994820886,"id":"490466","nbrOut":24,"planned":false,"timeOff":1791987615163},"type":"Feature"}
 ]}
