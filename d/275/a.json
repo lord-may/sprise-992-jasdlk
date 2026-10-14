@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.102312,30.867201],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T09:04:37.723-05:00","outageName":"","outagePoint":{"lat":30.86720094164377,"lng":-84.10231225852418},"outageRecID":"2026-10-14-0597","outageStartTime":"2026-10-14T08:56:07-05:00","outageWorkStatus":"","streetsAffected":["PINE PARK RD"],"verified":true},"type":"Feature"}
 ]}
