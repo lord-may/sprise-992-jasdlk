@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.291712,33.610088],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T20:07:47.66-05:00","outageName":"DS630C","outagePoint":{"lat":33.61008763093597,"lng":-80.29171210049009},"outageRecID":"2026-10-14-0376","outageStartTime":"2026-10-14T20:04:56-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-80.330954,33.592821],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T20:09:52.71-05:00","outageName":"2121-Y","outagePoint":{"lat":33.59282077852835,"lng":-80.33095386007594},"outageRecID":"2026-10-14-0377","outageStartTime":"2026-10-14T20:09:48-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
