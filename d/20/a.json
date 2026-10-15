@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.74521,36.12071],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 16"]},{"property":"AREA_SERVICE","value":["South Nashville"]}],"cause":"","etrTime":1792077300000,"id":2233866,"identifier":"2709329","latitude":36.12071,"longitude":-86.74521,"numPeople":1,"startTime":1792066413000,"status":"Unassigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.74828,36.12192],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 16"]},{"property":"AREA_SERVICE","value":["South Nashville"]}],"cause":"","id":2233867,"identifier":"2709330","latitude":36.12192,"longitude":-86.74828,"numPeople":1,"startTime":1792066481000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
