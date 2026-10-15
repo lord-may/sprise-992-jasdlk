@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.621351,31.119345],"type":"Point"},"properties":{"cause":"Requested by Crew","code":"115","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-15T11:31:18.87-05:00","outageName":"","outagePoint":{"lat":31.11934500014157,"lng":-85.62135116692401},"outageRecID":"2026-10-15-5235","outageStartTime":"2026-10-15T11:28:34-05:00","outageWorkStatus":"","streetsAffected":["AIRPORT ROAD"],"verified":true},"type":"Feature"}
 ]}
