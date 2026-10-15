@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.458648,34.277038],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-15T13:10:26","oldest_status_change_time":"2026-10-15T13:10:26","public_point_id":"23e441d0fdabaa9896b7bab60acda2e2","substation":"Brashiers Chapel"},"type":"Feature"}
+{"geometry":{"coordinates":[-86.458648,34.277038],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-15T13:10:26","oldest_status_change_time":"2026-10-15T13:10:26","public_point_id":"23e441d0fdabaa9896b7bab60acda2e2","substation":"Brashiers Chapel"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.47972,34.390986],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-15T14:35:17","oldest_status_change_time":"2026-10-15T14:35:17","public_point_id":"978c77faad5279324ceeecd8a0097d00","substation":"Arab Primary/Union Chapel"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.479662,34.390613],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-15T14:35:17","oldest_status_change_time":"2026-10-15T14:35:17","public_point_id":"e90c2f77d9218f3833d09125390f66d6","substation":"Arab Primary/Union Chapel"},"type":"Feature"}
 ]}
