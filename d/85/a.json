@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.16264,32.529005],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T14:51:07.68-04:00","outageName":"19-02","outagePoint":{"lat":32.52900466339527,"lng":-81.16263953146296},"outageRecID":"2026-10-15-0162","outageStartTime":"2026-10-15T14:45:25-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-80.932463,32.314847],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1020,"customersOutNow":1020,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T14:49:02.8-04:00","outageName":"Lockout 12-06","outagePoint":{"lat":32.31484688305102,"lng":-80.93246296569677},"outageRecID":"2026-10-15-0163","outageStartTime":"2026-10-05T01:18:00-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
