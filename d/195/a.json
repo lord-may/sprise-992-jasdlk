@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.061466,26.601318],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T04:20:08-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T01:23:29.77-04:00","outageName":"1213 12TH AVE S","outagePoint":{"lat":26.601317836743537,"lng":-80.06146576195377},"outageRecID":"2026-10-15-0204","outageStartTime":"2026-10-15T01:20:08-04:00","outageWorkStatus":"","streetsAffected":["12TH AVE S"],"verified":false},"type":"Feature"}
 ]}
