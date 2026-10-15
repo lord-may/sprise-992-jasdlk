@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.033228,35.043978],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-15T14:59:49.78-04:00","outageName":"3542 CANEY CREEK RD","outagePoint":{"lat":35.043978056423995,"lng":-84.03322825864156},"outageRecID":"2026-10-15-0994","outageStartTime":"2026-10-15T14:57:52-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
