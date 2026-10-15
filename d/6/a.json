@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.53474,30.39026],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":"A power outage has been identified in your area and a crew is enroute. We apologize for any inconvenience and will provide updates as more information becomes available.","crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"2026-10-15T23:15:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.69949,32.40399],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":"A crew has been assigned to locate and repair the problem reported in your area. We apologize for any inconvenience and will provide updates as more information becomes available.","crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"2026-10-15T23:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
