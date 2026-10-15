@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-79.04081,35.0514],[-79.04069,35.05198],[-79.04098,35.05157],[-79.04081,35.0514]]],"type":"Polygon"},{"coordinates":[-79.04083,35.05165],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Assessing Outage Cause","ES-ES":"Evaluación de la causa de la interrupción","orig":"Unknown"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"mask":5,"val":4},"etr":"2026-10-15T04:53:44Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-15T02:08:44Z","title":"Area Outage"},"type":"Feature"}
 ]}
