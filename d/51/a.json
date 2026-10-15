@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-83.086196,35.861502],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792080000000,"id":"685554","nbrOut":11,"planned":true,"timeOff":1792069200000},"type":"Feature"},
-{"geometry":{"coordinates":[-83.119155,35.997832],"type":"Point"},"properties":{"cause":"Scheduled Construction","crewAssigned":false,"id":"685559","nbrOut":1,"planned":false,"timeOff":1792067659000},"type":"Feature"},
-{"geometry":{"coordinates":[-83.121841,35.997926],"type":"Point"},"properties":{"cause":"Scheduled Construction","crewAssigned":false,"id":"685561","nbrOut":2,"planned":false,"timeOff":1792067659000},"type":"Feature"},
-{"geometry":{"coordinates":[-83.119209,35.996451],"type":"Point"},"properties":{"cause":"Scheduled Construction","crewAssigned":false,"id":"685562","nbrOut":1,"planned":false,"timeOff":1792067758000},"type":"Feature"},
 {"geometry":{"coordinates":[-83.018553,35.8667],"type":"Point"},"properties":{"cause":"Motor vehicles      ","crewAssigned":false,"id":"685563","nbrOut":1,"planned":false,"timeOff":1792075265000},"type":"Feature"},
 {"geometry":{"coordinates":[-83.025991,35.861641],"type":"Point"},"properties":{"cause":"Motor vehicles      ","crewAssigned":false,"id":"685564","nbrOut":1,"planned":false,"timeOff":1792075265000},"type":"Feature"},
 {"geometry":{"coordinates":[-83.019208,35.865616],"type":"Point"},"properties":{"cause":"Motor vehicles      ","crewAssigned":false,"id":"685565","nbrOut":1,"planned":false,"timeOff":1792075265000},"type":"Feature"},
-{"geometry":{"coordinates":[-83.02502,35.857556],"type":"Point"},"properties":{"cause":"Motor vehicles      ","crewAssigned":false,"id":"685566","nbrOut":1,"planned":false,"timeOff":1792075265000},"type":"Feature"}
+{"geometry":{"coordinates":[-83.02502,35.857556],"type":"Point"},"properties":{"cause":"Motor vehicles      ","crewAssigned":false,"id":"685566","nbrOut":1,"planned":false,"timeOff":1792075265000},"type":"Feature"},
+{"geometry":{"coordinates":[-83.028075,35.864305],"type":"Point"},"properties":{"cause":"Motor vehicles      ","crewAssigned":false,"id":"685567","nbrOut":1,"planned":false,"timeOff":1792075268000},"type":"Feature"}
 ]}
