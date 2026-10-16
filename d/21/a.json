@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.01506,35.11662],"type":"Point"},"properties":{"CUR_CUST_AFF":30,"EST_REPAIR_TIME":"","IMPACT":"A Few Blocks","OUTAGE_NO":1538531,"OUT_CAUSE":" ","STATUS":"Customer Svc is working this single customer outage","TIME_STAMP":"10/16/2026 03:47:53 AM"},"type":"Feature"}
+{"geometry":{"coordinates":[-90.01506,35.11662],"type":"Point"},"properties":{"CUR_CUST_AFF":30,"EST_REPAIR_TIME":"","IMPACT":"A Few Blocks","OUTAGE_NO":1538531,"OUT_CAUSE":" ","STATUS":"Trouble Shooter is determining repairs required","TIME_STAMP":"10/16/2026 03:47:53 AM"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.83854,35.22798],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1538532,"OUT_CAUSE":" ","STATUS":"Customer Svc is working this single customer outage","TIME_STAMP":"10/16/2026 04:18:47 AM"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.72464,35.11315],"type":"Point"},"properties":{"CUR_CUST_AFF":3,"EST_REPAIR_TIME":"","IMPACT":"Half a Block","OUTAGE_NO":1538533,"OUT_CAUSE":" ","STATUS":"Waiting for an available crew to perform repairs","TIME_STAMP":"10/16/2026 04:22:06 AM"},"type":"Feature"}
 ]}
