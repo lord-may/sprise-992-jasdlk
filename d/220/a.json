@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.079396,34.737895],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-16T14:37:00","oldest_status_change_time":"2026-10-16T14:37:00","public_point_id":"300101ccfea75a60e04dc2aa5a18dbf6","substation":"HOLLYWOOD"},"type":"Feature"}
+{"geometry":{"coordinates":[-86.079396,34.737895],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-16T14:37:00","oldest_status_change_time":"2026-10-16T14:37:00","public_point_id":"300101ccfea75a60e04dc2aa5a18dbf6","substation":"HOLLYWOOD"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.91896,34.975802],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-16T15:04:00","oldest_status_change_time":"2026-10-16T15:04:00","public_point_id":"eb93a23c1666076da32186104fceba4c","substation":"SHAW"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.96775,34.724398],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-16T14:59:00","oldest_status_change_time":"2026-10-16T14:59:00","public_point_id":"f849541040cbdd0503ad7731bd257611","substation":"HOLLYWOOD"},"type":"Feature"}
 ]}
