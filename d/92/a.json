@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.62059,34.884677],"type":"Point"},"properties":{"cause":"Construction or Maintenance","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T12:31:08.98-04:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-16T10:34:49.23-04:00","outageName":"2-SOUTH RIVER","outagePoint":{"lat":34.88467656029963,"lng":-76.6205899992011},"outageRecID":"2026-10-16-0131","outageStartTime":"2026-10-16T10:29:03-04:00","outageWorkStatus":"Crew On Site","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
