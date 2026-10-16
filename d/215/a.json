@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.486751,31.149997],"type":"Point"},"properties":{"cause":"Requested by Crew","code":"115","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-16T11:17:15.22-05:00","outageName":"","outagePoint":{"lat":31.14999749996924,"lng":-85.48675099949433},"outageRecID":"2026-10-16-5252","outageStartTime":"2026-10-16T11:10:43-05:00","outageWorkStatus":"","streetsAffected":["BERLIN ROAD"],"verified":true},"type":"Feature"}
 ]}
