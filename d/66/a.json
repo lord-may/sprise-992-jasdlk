@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.068724,35.11965],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723052","nbrOut":4,"planned":false,"timeOff":1792201589790},"type":"Feature"},
-{"geometry":{"coordinates":[-84.926835,35.153597],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723053","nbrOut":61,"planned":false,"timeOff":1792201989816},"type":"Feature"}
+{"geometry":{"coordinates":[-84.926835,35.153597],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723053","nbrOut":61,"planned":false,"timeOff":1792201989816},"type":"Feature"},
+{"geometry":{"coordinates":[-85.022164,35.95401],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723059","nbrOut":1,"planned":false,"timeOff":1792204441274},"type":"Feature"}
 ]}
