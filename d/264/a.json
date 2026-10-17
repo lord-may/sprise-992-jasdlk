@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.893395,35.121005],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T06:54:17.11-04:00","outageName":"NEUSE RD","outagePoint":{"lat":35.12100495117019,"lng":-76.89339489007185},"outageRecID":"2026-10-17-0106","outageStartTime":"2026-10-17T06:43:30-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-76.951581,35.121493],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T06:54:34.017-04:00","outageName":"TWO LAKES TR","outagePoint":{"lat":35.12149342485017,"lng":-76.95158069441274},"outageRecID":"2026-10-17-0107","outageStartTime":"2026-10-17T06:52:06-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
