@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.345388,30.721273],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T23:28:20.21-05:00","outageName":"C35-100-1L","outagePoint":{"lat":30.721273167393182,"lng":-85.34538816644967},"outageRecID":"2026-10-18-4248","outageStartTime":"2026-10-18T23:27:34-05:00","outageWorkStatus":"","streetsAffected":["BETHLEHEM RD"],"verified":false},"type":"Feature"}
 ]}
