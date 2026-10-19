@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.605471,36.167082],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1792438166000,"id":"1380576","nbrOut":1,"planned":false,"timeOff":1792419248000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.357249,36.320979],"type":"Point"},"properties":{"cause":"Overhead Service Wire ","estimateTime":1792434116000,"id":"1380585","nbrOut":1,"planned":false,"timeOff":1792425936000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.357249,36.320979],"type":"Point"},"properties":{"cause":"Overhead Service Wire ","estimateTime":1792434116000,"id":"1380585","nbrOut":1,"planned":false,"timeOff":1792425936000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.606909,36.152584],"type":"Point"},"properties":{"cause":"Temp-to-Perm ","estimateTime":1792435737000,"id":"1380587","nbrOut":1,"planned":false,"timeOff":1792427600000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.506953,36.473678],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1792436067280,"id":"1380588","nbrOut":1,"planned":false,"timeOff":1792427929000},"type":"Feature"}
 ]}
