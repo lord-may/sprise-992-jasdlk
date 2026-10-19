@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.791405,35.384246],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723212","nbrOut":1,"planned":false,"timeOff":1792427454931},"type":"Feature"},
 {"geometry":{"coordinates":[-84.865408,35.689655],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely set a pole. Thank you for your patience.","crewAssigned":true,"id":"1723213","nbrOut":2,"planned":false,"timeOff":1792427747499},"type":"Feature"},
 {"geometry":{"coordinates":[-84.97909,35.631791],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723214","nbrOut":1,"planned":false,"timeOff":1792428595309},"type":"Feature"},
 {"geometry":{"coordinates":[-85.015633,36.573458],"type":"Point"},"properties":{"comment":"A crew is assigned and working to investigate the report of a possible tree on a line. No power outages are associated with this report. Thank you for your patience.","crewAssigned":true,"id":"1723215","nbrOut":1,"planned":false,"timeOff":1792429118898},"type":"Feature"},
 {"geometry":{"coordinates":[-85.04402,35.888391],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723218","nbrOut":1,"planned":false,"timeOff":1792430517621},"type":"Feature"},
-{"geometry":{"coordinates":[-84.759218,35.290263],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723219","nbrOut":1,"planned":false,"timeOff":1792431368857},"type":"Feature"}
+{"geometry":{"coordinates":[-84.758203,35.289852],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely install squirrel guards to reduce blinks. Thank you for your patience.","crewAssigned":true,"id":"1723222","nbrOut":9,"planned":false,"timeOff":1792431368857},"type":"Feature"}
 ]}
