@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.712984,34.947826],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-17T01:31:00","oldest_status_change_time":"2026-10-17T01:31:00","public_point_id":"1a8de5d72ecd17e163071ed1f4fe1e8b","substation":"BRIDGEPORT"},"type":"Feature"}
+{"geometry":{"coordinates":[-85.712984,34.947826],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-17T01:31:00","oldest_status_change_time":"2026-10-17T01:31:00","public_point_id":"1a8de5d72ecd17e163071ed1f4fe1e8b","substation":"BRIDGEPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.13052,34.770483],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-19T17:56:00","oldest_status_change_time":"2026-10-19T17:56:00","public_point_id":"44f2543ab694760b92fa99980461850a","substation":"LIMROCK"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.832628,34.868818],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-19T18:00:00","oldest_status_change_time":"2026-10-19T18:00:00","public_point_id":"7b44c5172dd2e1708ad513b19ae4f76b","substation":"SHAW"},"type":"Feature"}
 ]}
