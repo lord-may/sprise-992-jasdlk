@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.328081,36.302774],"type":"Point"},"properties":{"cause":"Cut Loose Planned ","estimateTime":1792420287000,"id":"1380553","nbrOut":21,"planned":false,"timeOff":1792412136000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.605471,36.167082],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1792427366000,"id":"1380576","nbrOut":1,"planned":false,"timeOff":1792419248000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.4166,36.286194],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1792427697000,"id":"1380578","nbrOut":2,"planned":false,"timeOff":1792419540000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.357788,36.320842],"type":"Point"},"properties":{"cause":"Overhead Service Wire ","estimateTime":1792428206000,"id":"1380580","nbrOut":10,"planned":false,"timeOff":1792420079000},"type":"Feature"},
