@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.357249,36.320979],"type":"Point"},"properties":{"cause":"Overhead Service Wire ","estimateTime":1792434116000,"id":"1380585","nbrOut":1,"planned":false,"timeOff":1792425936000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.357249,36.320979],"type":"Point"},"properties":{"cause":"Overhead Service Wire ","estimateTime":1792434116000,"id":"1380585","nbrOut":1,"planned":false,"timeOff":1792425936000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.366798,36.32187],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1792438796000,"id":"1380590","nbrOut":1,"planned":false,"timeOff":1792430666000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.36687,36.322007],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1792438856000,"id":"1380591","nbrOut":1,"planned":false,"timeOff":1792430721000},"type":"Feature"}
 ]}
