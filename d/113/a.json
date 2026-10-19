@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.384254,33.494419],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":80,"customersOutNow":80,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T12:07:49.44-05:00","outageName":"P340","outagePoint":{"lat":33.49441865791673,"lng":-80.3842544305646},"outageRecID":"2026-10-19-0456","outageStartTime":"2026-10-19T12:07:18-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.351795,33.351125],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T12:09:35.17-05:00","outageName":"3729-2B","outagePoint":{"lat":33.35112534679996,"lng":-79.35179466419729},"outageRecID":"2026-10-19-0457","outageStartTime":"2026-10-19T12:09:30-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
