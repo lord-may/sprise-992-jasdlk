@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.077175,26.617777],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T18:35:25-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T15:37:34.107-04:00","outageName":"3954 EVERETT CT","outagePoint":{"lat":26.617777161399808,"lng":-80.07717452881916},"outageRecID":"2026-10-19-0260","outageStartTime":"2026-10-19T15:35:25-04:00","outageWorkStatus":"","streetsAffected":["EVERETT CT"],"verified":false},"type":"Feature"}
 ]}
