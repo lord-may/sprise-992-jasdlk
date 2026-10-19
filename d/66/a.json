@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.865884,35.689144],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723180","nbrOut":1,"planned":false,"timeOff":1792412455451},"type":"Feature"},
-{"geometry":{"coordinates":[-84.865606,35.688853],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723181","nbrOut":2,"planned":false,"timeOff":1792412519517},"type":"Feature"},
-{"geometry":{"coordinates":[-84.865606,35.688853],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723182","nbrOut":1,"planned":false,"timeOff":1792412568702},"type":"Feature"}
+{"geometry":{"coordinates":[-84.865606,35.688853],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely setting a new pole. Thank you for your patience.","crewAssigned":true,"id":"1723181","nbrOut":2,"planned":false,"timeOff":1792412519517},"type":"Feature"},
+{"geometry":{"coordinates":[-84.865606,35.688853],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723182","nbrOut":1,"planned":false,"timeOff":1792412568702},"type":"Feature"}
 ]}
