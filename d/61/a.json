@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.812327,31.921746],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792452600000,"id":"692601","nbrOut":1,"planned":false,"timeOff":1792441014310},"type":"Feature"}
+{"geometry":{"coordinates":[-90.812327,31.921746],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792452600000,"id":"692601","nbrOut":1,"planned":false,"timeOff":1792441014310},"type":"Feature"},
+{"geometry":{"coordinates":[-90.489041,31.614734],"type":"Point"},"properties":{"cause":"MAINTENANCE-ROW CREW","crewAssigned":true,"estimateTime":1792456200000,"id":"692603","nbrOut":2,"planned":false,"timeOff":1792444567000},"type":"Feature"}
 ]}
