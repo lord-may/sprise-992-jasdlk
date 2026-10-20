@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.607654,36.156877],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1792510050000,"id":"1380619","nbrOut":1,"planned":false,"timeOff":1792501901000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.607861,36.156181],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1792510440316,"id":"1380620","nbrOut":1,"planned":false,"timeOff":1792501879000},"type":"Feature"}
 ]}
