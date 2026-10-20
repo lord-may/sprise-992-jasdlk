@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.756926,30.409585],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T12:31:46.18-05:00","outageName":"OS_GP_632_PARKTOWN","outagePoint":{"lat":30.409584504896625,"lng":-88.75692616009096},"outageRecID":"2026-10-20-1144","outageStartTime":"2026-10-20T12:30:04-05:00","outageWorkStatus":"","streetsAffected":["PARKTOWN DR"],"verified":true},"type":"Feature"}
 ]}
