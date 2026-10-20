@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.546587,35.812178],"type":"Point"},"properties":{"comment":"A crew is assigned and working to replace a broken pole. Thank you for your patience.","crewAssigned":true,"id":"1723262","nbrOut":1,"planned":false,"timeOff":1792461326300},"type":"Feature"}
+{"geometry":{"coordinates":[-84.546587,35.812178],"type":"Point"},"properties":{"comment":"A crew is assigned and working to replace a broken pole. Thank you for your patience.","crewAssigned":true,"id":"1723262","nbrOut":1,"planned":false,"timeOff":1792461326300},"type":"Feature"},
+{"geometry":{"coordinates":[-85.08157,36.152714],"type":"Point"},"properties":{"comment":"A crew is assigned and working to confirm the report of a vehicle damaging an electrical box. No power outages are associated with this report.  Thank you for your patience.","crewAssigned":true,"id":"1723270","nbrOut":1,"planned":false,"timeOff":1792469568501},"type":"Feature"},
+{"geometry":{"coordinates":[-85.171662,36.115118],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723271","nbrOut":1,"planned":false,"timeOff":1792470155443},"type":"Feature"}
 ]}
