@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.248227,34.920366],"type":"Point"},"properties":{"CaseNumber":"20261020-C000004","ElementName":"MTR-146294","EstimatedRestoreTime":"2026-10-20 16:34:39.6399908 -04:00","MeterKey":"146294","OBJECTID":278323,"OmsID":"Predicted_146294","OutageTime":1792506879000,"Status":"Reported","TimeClosed":null},"type":"Feature"}
+{"geometry":{"coordinates":[-82.248227,34.920366],"type":"Point"},"properties":{"CaseNumber":"20261020-C000004","ElementName":"MTR-146294","EstimatedRestoreTime":"2026-10-20 16:34:39.6399908 -04:00","MeterKey":"146294","OBJECTID":278323,"OmsID":"Predicted_146294","OutageTime":1792506879000,"Status":"Reported","TimeClosed":null},"type":"Feature"},
+{"geometry":{"coordinates":[-82.248143,34.920028],"type":"Point"},"properties":{"CaseNumber":"20261020-C000005","ElementName":"MTR-9872","EstimatedRestoreTime":"2026-10-20 16:38:45.6134567 -04:00","MeterKey":"9872","OBJECTID":278324,"OmsID":"Predicted_9872","OutageTime":1792507156000,"Status":"Reported","TimeClosed":null},"type":"Feature"}
 ]}
