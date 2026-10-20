@@ -1,8 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.226839,30.385783],"type":"Point"},"properties":{"cause":"Unknown","customers":25,"etr":1792444512000,"off":1792436681000,"outagetype":"Medium","region":6,"status":"Crew Assigned","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.242033,30.400721],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792451031000,"off":1792443831000,"outagetype":"Small","region":6,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.225343,30.401316],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792451120000,"off":1792443920000,"outagetype":"Small","region":6,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.225234,30.40181],"type":"Point"},"properties":{"cause":"Unknown","customers":10,"etr":1792451425000,"off":1792444225000,"outagetype":"Medium","region":6,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.24309,30.40126],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792451860000,"off":1792444660000,"outagetype":"Small","region":6,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.236658,30.394155],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792452371000,"off":1792445171000,"outagetype":"Small","region":6,"status":"Reported","ticket":null},"type":"Feature"}
+
 ]}
