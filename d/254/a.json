@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.633051,35.588244],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-20T09:01:12.56-04:00","outageName":"72","outagePoint":{"lat":35.58824422326365,"lng":-79.63305083367976},"outageRecID":"2026-10-20-0334","outageStartTime":"2026-10-20T08:56:23-04:00","outageWorkStatus":"","streetsAffected":["ANTIOCH CHURCH RD"],"verified":true},"type":"Feature"}
 ]}
