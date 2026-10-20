@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.88804,35.05245],"type":"Point"},"properties":{"CUR_CUST_AFF":45,"EST_REPAIR_TIME":"10/20/2026 08:30:00 PM","IMPACT":"A Few Blocks","OUTAGE_NO":1539037,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"10/20/2026 12:23:15 PM"},"type":"Feature"},
 {"geometry":{"coordinates":[-89.99414,35.07783],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1539064,"OUT_CAUSE":" ","STATUS":"Customer Svc is working this single customer outage","TIME_STAMP":"10/20/2026 04:56:48 PM"},"type":"Feature"},
-{"geometry":{"coordinates":[-90.00427,35.11084],"type":"Point"},"properties":{"CUR_CUST_AFF":6,"EST_REPAIR_TIME":"","IMPACT":"One Block","OUTAGE_NO":1539065,"OUT_CAUSE":" ","STATUS":"Tree Trimming is clearing debris from the area","TIME_STAMP":"10/20/2026 05:07:35 PM"},"type":"Feature"}
+{"geometry":{"coordinates":[-90.00427,35.11084],"type":"Point"},"properties":{"CUR_CUST_AFF":6,"EST_REPAIR_TIME":"","IMPACT":"One Block","OUTAGE_NO":1539065,"OUT_CAUSE":" ","STATUS":"Tree Trimming is clearing debris from the area","TIME_STAMP":"10/20/2026 05:07:35 PM"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.99635,35.08075],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1539066,"OUT_CAUSE":" ","STATUS":"Waiting to be analyzed","TIME_STAMP":"10/20/2026 06:42:27 PM"},"type":"Feature"}
 ]}
