@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.035181,35.877408],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a bad transformer. Thank you for your patience.","crewAssigned":true,"id":"1723326","nbrOut":2,"planned":false,"timeOff":1792511703531},"type":"Feature"},
 {"geometry":{"coordinates":[-84.740641,35.658999],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723332","nbrOut":1,"planned":false,"timeOff":1792518615202},"type":"Feature"},
 {"geometry":{"coordinates":[-85.028174,35.161125],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723333","nbrOut":1,"planned":false,"timeOff":1792519556539},"type":"Feature"},
 {"geometry":{"coordinates":[-84.884578,35.911626],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723339","nbrOut":15,"planned":false,"timeOff":1792520067881},"type":"Feature"},
-{"geometry":{"coordinates":[-85.084318,35.911422],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723347","nbrOut":20,"planned":false,"timeOff":1792520574151},"type":"Feature"},
 {"geometry":{"coordinates":[-85.067565,35.117387],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723348","nbrOut":1,"planned":false,"timeOff":1792520863615},"type":"Feature"},
-{"geometry":{"coordinates":[-85.005626,35.980671],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723349","nbrOut":1,"planned":false,"timeOff":1792522081532},"type":"Feature"}
+{"geometry":{"coordinates":[-85.005626,35.980671],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723349","nbrOut":1,"planned":false,"timeOff":1792522081532},"type":"Feature"}
 ]}
