@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-78.97105,33.7993],"type":"Point"},"properties":{"cause":{"EN-US":"Animal","orig":"Animal - Squirrel"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Restoration In Progress","orig":"In Progress"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-21T00:15:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-20T21:01:10Z","title":"Area Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-79.08042,33.49196],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Dispatched","orig":"Dispatched"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-21T01:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-20T22:38:32Z","title":"Area Outage"},"type":"Feature"}
 ]}
