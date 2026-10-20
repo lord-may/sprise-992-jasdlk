@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.035181,35.877408],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a bad transformer. Thank you for your patience.","crewAssigned":true,"id":"1723326","nbrOut":2,"planned":false,"timeOff":1792511703531},"type":"Feature"},
-{"geometry":{"coordinates":[-85.188703,35.833964],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723328","nbrOut":13,"planned":false,"timeOff":1792516443343},"type":"Feature"},
 {"geometry":{"coordinates":[-84.990534,35.856566],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723331","nbrOut":2,"planned":false,"timeOff":1792518108010},"type":"Feature"},
 {"geometry":{"coordinates":[-84.740641,35.658999],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723332","nbrOut":1,"planned":false,"timeOff":1792518615202},"type":"Feature"},
-{"geometry":{"coordinates":[-85.028174,35.161125],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723333","nbrOut":1,"planned":false,"timeOff":1792519556539},"type":"Feature"}
+{"geometry":{"coordinates":[-85.028174,35.161125],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723333","nbrOut":1,"planned":false,"timeOff":1792519556539},"type":"Feature"},
+{"geometry":{"coordinates":[-84.884578,35.911626],"type":"Point"},"properties":{"comment":"We are aware of your outage. A crew will be dispatched to begin troubleshooting the cause of this outage.","crewAssigned":false,"id":"1723339","nbrOut":15,"planned":false,"timeOff":1792520067881},"type":"Feature"},
+{"geometry":{"coordinates":[-85.084597,35.910993],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723340","nbrOut":1,"planned":false,"timeOff":1792520574151},"type":"Feature"}
 ]}
