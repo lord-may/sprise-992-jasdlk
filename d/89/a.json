@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.505977,30.35217],"type":"Point"},"properties":{"cause":"Construction","code":"100","crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-21T08:51:26.723-05:00","outageName":"T5477","outagePoint":{"lat":30.352170230933275,"lng":-87.50597730560881},"outageRecID":"2026-10-21-1106","outageStartTime":"2026-10-21T08:46:03-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
