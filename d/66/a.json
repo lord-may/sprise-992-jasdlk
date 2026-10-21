@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.781954,35.074132],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a tree with a broke pole and several lines down. Thank you for your patience.","crewAssigned":true,"id":"1723409","nbrOut":490,"planned":false,"timeOff":1792601123494},"type":"Feature"},
 {"geometry":{"coordinates":[-85.071544,35.11289],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723454","nbrOut":1,"planned":false,"timeOff":1792617247319},"type":"Feature"},
-{"geometry":{"coordinates":[-84.673115,35.581272],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723455","nbrOut":1,"planned":false,"timeOff":1792617548518},"type":"Feature"}
+{"geometry":{"coordinates":[-84.673115,35.581272],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723455","nbrOut":1,"planned":false,"timeOff":1792617548518},"type":"Feature"}
 ]}
