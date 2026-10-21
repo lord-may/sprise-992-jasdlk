@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.932432,30.080251],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T16:03:33.42-04:00","outageName":"H5046000W","outagePoint":{"lat":30.080250846486898,"lng":-82.93243232493782},"outageRecID":"2026-10-21-0633","outageStartTime":"2026-10-21T15:58:24-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-82.967993,30.093067],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T16:01:42.617-04:00","outageName":"G4364370","outagePoint":{"lat":30.09306726019015,"lng":-82.96799308921437},"outageRecID":"2026-10-21-0634","outageStartTime":"2026-10-21T16:01:17-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
