@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.318238,34.835929],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T07:22:11.047-05:00","outageName":"OH80587","outagePoint":{"lat":34.835928721605114,"lng":-88.31823817367666},"outageRecID":"2026-10-21-0212","outageStartTime":"2026-10-21T07:12:42-05:00","outageWorkStatus":"Customer Performing Maintenance","streetsAffected":["GROSS AVE"],"verified":true},"type":"Feature"}
 ]}
