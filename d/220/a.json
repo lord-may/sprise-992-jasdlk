@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.712984,34.947826],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-17T01:31:00","oldest_status_change_time":"2026-10-17T01:31:00","public_point_id":"1a8de5d72ecd17e163071ed1f4fe1e8b","substation":"BRIDGEPORT"},"type":"Feature"}
+{"geometry":{"coordinates":[-85.712984,34.947826],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-17T01:31:00","oldest_status_change_time":"2026-10-17T01:31:00","public_point_id":"1a8de5d72ecd17e163071ed1f4fe1e8b","substation":"BRIDGEPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.892905,34.874787],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-21T19:48:00","oldest_status_change_time":"2026-10-21T19:48:00","public_point_id":"6f483fc92870906916066605365a4f50","substation":"SHAW"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.893801,34.875212],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-21T19:48:00","oldest_status_change_time":"2026-10-21T19:48:00","public_point_id":"9cedf6d5872be991a4fcd2226deecacf","substation":"SHAW"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.892276,34.875056],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-21T19:48:00","oldest_status_change_time":"2026-10-21T19:48:00","public_point_id":"c8baeb8c9bc8f36ac7d98465ea81c33d","substation":"SHAW"},"type":"Feature"}
 ]}
