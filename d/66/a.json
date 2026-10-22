@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.651977,35.226622],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723497","nbrOut":1,"planned":false,"timeOff":1792683341390},"type":"Feature"},
-{"geometry":{"coordinates":[-84.80125,35.035702],"type":"Point"},"properties":{"comment":"A crew is assigned and will be checking the reported low line and buzzing transformer.","crewAssigned":true,"id":"1723503","nbrOut":1,"planned":false,"timeOff":1792685695973},"type":"Feature"},
 {"geometry":{"coordinates":[-84.749175,35.630338],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723508","nbrOut":11,"planned":false,"timeOff":1792686326794},"type":"Feature"},
 {"geometry":{"coordinates":[-85.069451,35.163313],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723509","nbrOut":1,"planned":false,"timeOff":1792686904764},"type":"Feature"},
-{"geometry":{"coordinates":[-84.995915,36.587489],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723510","nbrOut":1,"planned":false,"timeOff":1792686786270},"type":"Feature"}
+{"geometry":{"coordinates":[-84.995915,36.587489],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723510","nbrOut":1,"planned":false,"timeOff":1792686786270},"type":"Feature"}
 ]}
