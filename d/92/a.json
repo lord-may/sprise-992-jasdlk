@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.043794,34.665765],"type":"Point"},"properties":{"cause":"Construction or Maintenance","code":"100","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T10:57:47.03-04:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-22T08:58:32.443-04:00","outageName":"2-UNDERBUILD","outagePoint":{"lat":34.66576545503406,"lng":-77.04379435980373},"outageRecID":"2026-10-22-0260","outageStartTime":"2026-10-22T08:55:35-04:00","outageWorkStatus":"Crew On Site","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
