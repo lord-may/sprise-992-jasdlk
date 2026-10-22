@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.468009,31.055606],"type":"Point"},"properties":{"cause":"Requested by Crew","code":"115","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-22T12:27:33.387-05:00","outageName":"","outagePoint":{"lat":31.055605833895424,"lng":-85.46800949988504},"outageRecID":"2026-10-22-5394","outageStartTime":"2026-10-22T12:25:04-05:00","outageWorkStatus":"","streetsAffected":["S STATE HIGHWAY 109"],"verified":true},"type":"Feature"}
 ]}
