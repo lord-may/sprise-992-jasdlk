@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.688353,34.883333],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":19,"customersOutNow":19,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T10:48:18.897-05:00","outageName":"F-1834","outagePoint":{"lat":34.88333347069034,"lng":-87.6883529212523},"outageRecID":"2026-10-22-0424","outageStartTime":"2026-10-22T10:44:48-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-87.699446,34.86025],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T10:49:38.32-05:00","outageName":"R1340-AD","outagePoint":{"lat":34.86024983937866,"lng":-87.69944591573025},"outageRecID":"2026-10-22-0425","outageStartTime":"2026-10-22T10:47:37-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
