@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-81.98743,27.96614],[-81.98671,27.96641],[-81.98773,27.96685],[-81.98743,27.96614]]],"type":"Polygon"},{"coordinates":[-81.98729,27.96647],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Crew Maintenance","ES-ES":"Mantenimiento de la tripulación","orig":"Crew Maintenance"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{},"cust_a":{"mask":5,"val":4},"etr":"2026-10-22T16:17:18Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-22T14:01:10Z","title":"Area Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-81.95083,28.04228],"type":"Point"},"properties":{"cause":{"EN-US":"Crew Maintenance","ES-ES":"Mantenimiento de la tripulación","orig":"Crew Maintenance"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{},"cust_a":{"mask":5,"val":4},"etr":"2026-10-22T16:19:49Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-22T14:04:48.008Z","title":"Area Outage"},"type":"Feature"}
 ]}
