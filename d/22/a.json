@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.32535,35.017629],"type":"Point"},"properties":{"crew_qty":2,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.017629,"longitude":-85.32535},"type":"Feature"},
-{"geometry":{"coordinates":[-85.53828,35.021706],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.021706,"longitude":-85.53828},"type":"Feature"},
-{"geometry":{"coordinates":[-85.192605,35.031286],"type":"Point"},"properties":{"crew_qty":0,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.031286,"longitude":-85.192605},"type":"Feature"},
-{"geometry":{"coordinates":[-85.33679,35.115358],"type":"Point"},"properties":{"crew_qty":0,"customer_qty":3,"incident_status":"OUTAGE_REPORTED","latitude":35.115358,"longitude":-85.33679},"type":"Feature"},
-{"geometry":{"coordinates":[-85.307522,35.178579],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":2,"incident_status":"EN_ROUTE","latitude":35.178579,"longitude":-85.307522},"type":"Feature"}
+{"geometry":{"coordinates":[-85.312588,34.998632],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":6,"incident_status":"REPAIR_IN_PROGRESS","latitude":34.998632,"longitude":-85.312588},"type":"Feature"},
+{"geometry":{"coordinates":[-85.53398,35.016806],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.016806,"longitude":-85.53398},"type":"Feature"},
+{"geometry":{"coordinates":[-85.191705,35.026986],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.026986,"longitude":-85.191705},"type":"Feature"},
+{"geometry":{"coordinates":[-85.34089,35.117858],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":3,"incident_status":"OUTAGE_REPORTED","latitude":35.117858,"longitude":-85.34089},"type":"Feature"},
+{"geometry":{"coordinates":[-85.310122,35.175979],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":2,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.175979,"longitude":-85.310122},"type":"Feature"}
 ]}
