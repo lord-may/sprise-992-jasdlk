@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.719809,35.673237],"type":"Point"},"properties":{"comment":"A crew is in the area replacing a pole. Thank you for your patience.","crewAssigned":true,"id":"1723481","nbrOut":1,"planned":true,"timeOff":1792674955000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.719809,35.673237],"type":"Point"},"properties":{"comment":"A crew is in the area replacing a pole. Thank you for your patience.","crewAssigned":true,"id":"1723481","nbrOut":1,"planned":false,"timeOff":1792674955000},"type":"Feature"},
 {"geometry":{"coordinates":[-84.721525,35.738472],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723484","nbrOut":2,"planned":false,"timeOff":1792673966774},"type":"Feature"},
-{"geometry":{"coordinates":[-84.72148,35.739194],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723485","nbrOut":1,"planned":false,"timeOff":1792674173000},"type":"Feature"}
+{"geometry":{"coordinates":[-84.72148,35.739194],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723485","nbrOut":1,"planned":false,"timeOff":1792674173000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.720465,35.738713],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723487","nbrOut":2,"planned":false,"timeOff":1792676039254},"type":"Feature"}
 ]}
