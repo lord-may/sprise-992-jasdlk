@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.35682,28.33421],"type":"Point"},"properties":{"additionalProperties":[{"property":"polygon","value":true}],"cause":"","etrTime":1792690724000,"id":2237346,"identifier":"3214730008415","lastUpdatedTime":1792685374000,"latitude":28.33421,"longitude":-81.35682,"numPeople":8,"startTime":1792685257000,"status":"ASSIGNED","title":"Outage","zip":"34743"},"type":"Feature"},
+{"geometry":{"coordinates":[-81.35714,28.33364],"type":"Point"},"properties":{"additionalProperties":[{"property":"polygon","value":false}],"cause":"","etrTime":1792690762000,"id":2237347,"identifier":"3214740030878","lastUpdatedTime":1792685374000,"latitude":28.33364,"longitude":-81.35714,"numPeople":1,"startTime":1792685257000,"status":"ASSIGNED","title":"Outage","zip":"34743"},"type":"Feature"}
 ]}
