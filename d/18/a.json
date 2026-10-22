@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.292727,27.953303],"type":"Point"},"properties":{"_source":{"customerCount":13,"estimatedTimeOfRestoration":"2026-10-22T19:30:00","incidentId":"A202629504842","polygonCenter":[-82.29272657592074,27.953302785611875],"reason":"Pending Investigation","status":"We're on our way to investigate","updateTime":"2026-10-22T17:20:08"}},"type":"Feature"}
+{"geometry":{"coordinates":[-82.52801,28.08684],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-10-22T21:30:00","incidentId":"A202629505219","polygonCenter":[-82.52801000074882,28.08683999667692],"reason":"Pending Investigation","status":"We're aware of the outage","updateTime":"2026-10-22T17:35:08"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.55733,27.99072],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-10-22T21:40:00","incidentId":"A202629505231","polygonCenter":[-82.55733000073157,27.990719996731457],"reason":"Pending Investigation","status":"We're aware of the outage","updateTime":"2026-10-22T17:35:08"}},"type":"Feature"}
 ]}
