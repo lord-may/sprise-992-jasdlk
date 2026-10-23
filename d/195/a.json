@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.056707,26.60436],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":false,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-23T12:04:50-04:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-23T09:06:55.733-04:00","outageName":"TF-37.5-C 913 S K ST","outagePoint":{"lat":26.604359850627613,"lng":-80.05670741419209},"outageRecID":"2026-10-23-0279","outageStartTime":"2026-10-23T09:04:50-04:00","outageWorkStatus":"","streetsAffected":["S J ST","S K ST"],"verified":true},"type":"Feature"}
 ]}
