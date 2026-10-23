@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.994819,35.003422],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-10-23T09:21:27.4670000-04:00","outageName":"TR: R2-1-L1","outagePoint":{"lat":35.00342188134615,"lng":-79.9948192322065},"outageRecID":"2026-10-23-0313","outageStartTime":"2026-10-23T09:18:21-04:00","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.696251,35.227845],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-10-23T09:23:26-04:00","outageName":"TR: 205-2-1","outagePoint":{"lat":35.227845262642944,"lng":-79.69625102745647},"outageRecID":"2026-10-23-0314","outageStartTime":"2026-10-23T09:22:41-04:00","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
