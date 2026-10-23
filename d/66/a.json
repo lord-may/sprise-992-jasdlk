@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.953856,35.120363],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a bad transformer. Thank you for your patience.","crewAssigned":true,"id":"1723556","nbrOut":1,"planned":false,"timeOff":1792764412297},"type":"Feature"}
+{"geometry":{"coordinates":[-84.953856,35.120363],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a bad transformer. Thank you for your patience.","crewAssigned":true,"id":"1723556","nbrOut":1,"planned":false,"timeOff":1792764412297},"type":"Feature"},
+{"geometry":{"coordinates":[-84.868408,35.66829],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723570","nbrOut":1,"planned":false,"timeOff":1792777601162},"type":"Feature"},
+{"geometry":{"coordinates":[-84.865004,35.675835],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723571","nbrOut":1,"planned":false,"timeOff":1792777653046},"type":"Feature"},
+{"geometry":{"coordinates":[-84.866306,35.676259],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a squirrel. Thank you for your patience.","crewAssigned":true,"id":"1723573","nbrOut":1,"planned":false,"timeOff":1792777689415},"type":"Feature"},
+{"geometry":{"coordinates":[-84.871696,35.666823],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723577","nbrOut":16,"planned":false,"timeOff":1792777663880},"type":"Feature"},
+{"geometry":{"coordinates":[-84.868911,35.667917],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723578","nbrOut":1,"planned":false,"timeOff":1792777964550},"type":"Feature"}
 ]}
