@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.963347,37.846656],"type":"Point"},"properties":{"estimateTime":1792766700000,"id":"467935","nbrOut":1,"planned":false,"timeOff":1792758824000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-85.963832,37.846556],[-85.963347,37.846656],[-85.964326,37.846727],[-85.963832,37.846556]]],"type":"Polygon"},{"coordinates":[-85.963841,37.846649],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crew has transformer off while rerouting a service","estimateTime":1792766700000,"id":"467937","nbrOut":3,"planned":false,"timeOff":1792759224000},"type":"Feature"},
+{"geometry":{"coordinates":[-85.709106,37.578785],"type":"Point"},"properties":{"estimateTime":1792767600000,"id":"467939","nbrOut":2,"planned":false,"timeOff":1792759737000},"type":"Feature"}
 ]}
