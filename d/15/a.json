@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-82.1805,28.9711],[-82.18024,28.97208],[-82.18053,28.97247],[-82.18103,28.97271],[-82.18128,28.97227],[-82.1805,28.9711]]],"type":"Polygon"},{"coordinates":[-82.18072,28.97202],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Planned Outage Upgrade","orig":"CODE-25"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-Site","orig":"Arrived"},"cust_a":{"val":6},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"1093284-1","n_out":1,"start_time":"2026-10-23T23:10Z","title":"Area Outage"},"type":"Feature"}
 ]}
