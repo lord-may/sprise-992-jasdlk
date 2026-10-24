@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.236559,38.545783],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T18:33:19.77-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T15:33:19.873-04:00","outageName":"2026-10-24-0677","outagePoint":{"lat":38.545782719116986,"lng":-84.23655869744503},"outageRecID":"2026-10-24-0677","outageStartTime":"2026-10-24T15:30:00-04:00","outageWorkStatus":"","streetsAffected":["HALL LANE HOUSE"],"verified":false},"type":"Feature"}
 ]}
