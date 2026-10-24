@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.723122,35.052819],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":255,"customersOutNow":255,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-10-24T14:21:51.3570000-04:00","outageName":"RC: 7Z","outagePoint":{"lat":35.05281932787331,"lng":-79.72312237639466},"outageRecID":"2026-10-24-0319","outageStartTime":"2026-10-24T14:18:27-04:00","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.870568,35.163375],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":950,"customersOutNow":950,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-10-24T14:22:22.8370000-04:00","outageName":"RC: 2T","outagePoint":{"lat":35.16337453750004,"lng":-79.87056755402028},"outageRecID":"2026-10-24-0320","outageStartTime":"2026-10-24T14:18:27-04:00","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
