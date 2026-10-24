@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.915283,34.605234],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Paddock, Derrick,Collins, Derek","CaseNumber":"261024-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":3,"ElementName":"T-19124","EndTime":"/Date(-62135575200000)/","OutageTime":"10/24/2026 12:30:00 PM","PoleNumber":"19124","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.91528300243611,"Y":34.60523426808921,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.914758,34.606191],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Collins, Derek","CaseNumber":"261024-P0003","CaseStatus":"Predicted","Cause":"","CutomersAffected":3,"ElementName":"T-26435","EndTime":"/Date(-62135575200000)/","OutageTime":"10/24/2026 12:40:00 PM","PoleNumber":"26435","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.91475788473376,"Y":34.6061913831891,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
