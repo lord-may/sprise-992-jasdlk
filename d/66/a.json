@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.132612,36.577354],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723654","nbrOut":1,"planned":false,"timeOff":1792879708000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.127321,36.565443],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a bad transformer. Thank you for your patience.","crewAssigned":true,"id":"1723659","nbrOut":4,"planned":false,"timeOff":1792882068000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.892232,36.017743],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723662","nbrOut":15,"planned":false,"timeOff":1792881865532},"type":"Feature"},
 {"geometry":{"coordinates":[-84.762793,35.063986],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723663","nbrOut":12,"planned":false,"timeOff":1792883510003},"type":"Feature"},
 {"geometry":{"coordinates":[-84.960234,36.447264],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723664","nbrOut":1,"planned":false,"timeOff":1792883688778},"type":"Feature"},
-{"geometry":{"coordinates":[-84.774579,35.406156],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of a low hanging power line.","crewAssigned":true,"id":"1723667","nbrOut":1,"planned":false,"timeOff":1792884708643},"type":"Feature"}
+{"geometry":{"coordinates":[-84.774579,35.406156],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of a low hanging power line.","crewAssigned":true,"id":"1723667","nbrOut":1,"planned":false,"timeOff":1792884708643},"type":"Feature"},
+{"geometry":{"coordinates":[-84.884901,35.483496],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723669","nbrOut":2,"planned":false,"timeOff":1792885319100},"type":"Feature"},
+{"geometry":{"coordinates":[-84.893417,36.019842],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723670","nbrOut":1,"planned":false,"timeOff":1792885806000},"type":"Feature"}
 ]}
