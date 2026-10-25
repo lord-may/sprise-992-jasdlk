@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.16952,29.09187],"type":"Point"},"properties":{"cause":{"EN-US":"Vehicle Accident","orig":"CODE-38"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-Site","orig":"Arrived"},"cust_a":{"val":2},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"1093350-1","n_out":1,"start_time":"2026-10-25T10:42:56Z","title":"Area Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-81.53111,28.88517],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"CODE-00"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","orig":"Assigned"},"cust_a":{"val":1},"etr":"2026-10-25T19:00:00Z","etr_confidence":null,"inc_id":"1093373-1","n_out":1,"start_time":"2026-10-25T17:20:31Z","title":"Area Outage"},"type":"Feature"}
 ]}
