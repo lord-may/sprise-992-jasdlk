@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.343952,27.46655],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127488,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1792900338000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.327731,27.432604],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127489,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1792903660000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.327897,27.43487],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127490,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1792903721000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
 ]}
