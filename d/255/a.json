@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.995171,34.591223],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Collins, Derek","CaseNumber":"261025-P0005","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-25418","EndTime":"/Date(-62135575200000)/","OutageTime":"10/25/2026 10:55:00 AM","PoleNumber":"25418","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.99517131467428,"Y":34.59122314270238,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.996775,34.591539],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Collins, Derek","CaseNumber":"261025-P0006","CaseStatus":"Predicted","Cause":"","CutomersAffected":3,"ElementName":"FUS-E62215","EndTime":"/Date(-62135575200000)/","OutageTime":"10/25/2026 10:55:00 AM","PoleNumber":"E62215","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.9967749715366,"Y":34.591538931847055,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
