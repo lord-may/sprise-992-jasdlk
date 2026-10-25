@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.003731,35.343749],"type":"Point"},"properties":{"comment":"We are aware of your outage. A crew will be dispatched to begin troubleshooting the cause of this outage.","crewAssigned":true,"id":"1723675","nbrOut":1,"planned":false,"timeOff":1792932245743},"type":"Feature"},
 {"geometry":{"coordinates":[-84.568263,35.811937],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of a pole being broke due to a motor vehicle.","crewAssigned":true,"id":"1723677","nbrOut":4,"planned":false,"timeOff":1792935525250},"type":"Feature"},
-{"geometry":{"coordinates":[-84.948008,35.947057],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723678","nbrOut":1,"planned":false,"timeOff":1792936416374},"type":"Feature"}
+{"geometry":{"coordinates":[-84.948008,35.947057],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723678","nbrOut":1,"planned":false,"timeOff":1792936416374},"type":"Feature"},
+{"geometry":{"coordinates":[-85.069972,36.067629],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723679","nbrOut":1,"planned":false,"timeOff":1792937862991},"type":"Feature"}
 ]}
