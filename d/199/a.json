@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.545532,32.892887],"type":"Point"},"properties":{"affectedCustomers":26,"boundary":"{\"geometryType\":\"esriGeometryPolygon\",\"geometry\":{\"rings\":[[[-81.517288210000004,32.890385430000002],[-81.545532410000007,32.892886869999998],[-81.542519650000003,32.899063339999998],[-81.530517579999994,32.909908289999997],[-81.519752499999996,32.913136600000001],[-81.501487729999994,32.916946750000001],[-81.517288210000004,32.890385430000002]]]}}","caseNumber":"20261025-C000001","cause":null,"county":"Screven","crewStatus":null,"elementType":"FUSE","etor":null,"failure":null,"isCrewAssigned":null,"latitude":32.89288687,"longitude":-81.54553241,"messageToCustomers":"","otherReason":null,"phase":"B  ","region":"Screven","startedOn":"2026-10-25T14:04:51","state":"","status":"Predicted","totalImpactedCustomers":26,"weather":null},"type":"Feature"}
 ]}
