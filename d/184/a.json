@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.293226,30.485212],"type":"Point"},"properties":{"cause":"Limb on Line - With Outage","customers":1405,"etr":1792940675000,"off":1792933475000,"outagetype":"XLarge","region":2,"status":"Crew Assigned","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.305517,30.476618],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792945943000,"off":1792938743000,"outagetype":"Small","region":4,"status":"Reported","ticket":null},"type":"Feature"}
 ]}
