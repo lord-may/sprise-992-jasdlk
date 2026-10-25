@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-81.3503,28.54237],"type":"Point"},"properties":{"cause":{"orig":""},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Working","ES-ES":"Trabajando","es-US":"Trabajando","orig":"W"},"cust_a":{"val":10},"etr":"2026-10-25T07:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-25T05:24:25Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-81.42026,28.59779],"type":"Point"},"properties":{"cause":{"EN-US":"Substation Issue","ES-ES":"Problema con subestación","es-US":"Problema con subestación","orig":"21"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Dispatched","ES-ES":"Enviadas","es-US":"Enviados","orig":"A"},"cust_a":{"val":149},"etr":"2026-10-25T08:15:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-25T06:03:53Z","title":"Area Outage"},"type":"Feature"}
 ]}
