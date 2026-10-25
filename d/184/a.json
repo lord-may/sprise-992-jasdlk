@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.303661,30.42146],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792921447000,"off":1792914247000,"outagetype":"Small","region":4,"status":"Reported","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.26913,30.405238],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792921854000,"off":1792914271000,"outagetype":"Small","region":6,"status":"Crew Assigned","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.304088,30.422389],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1792921490000,"off":1792914290000,"outagetype":"Small","region":4,"status":"Reported","ticket":null},"type":"Feature"}
 ]}
