@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.513173,33.958679],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":0,"Description":"","Duration":0,"EstOutageTimeRemaining":232,"Feeder":"405","OBJECTID":1,"OutageID":63435,"Status":"Assessing Situation"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.510886,33.953027],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":298,"Description":"405 Feeder has locked - 3 Operations","Duration":47,"EstOutageTimeRemaining":178,"Feeder":"405","OBJECTID":2,"OutageID":63436,"Status":"Crew Working"},"type":"Feature"}
 ]}
