@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.963723,37.13101],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-26T08:26:17.727-05:00","outageName":"TF3793026","outagePoint":{"lat":37.13101045252128,"lng":-85.96372289285685},"outageRecID":"2026-10-26-0191","outageStartTime":"2026-10-26T08:25:14-05:00","outageWorkStatus":"","streetsAffected":["E P TERRY EST APT F1","E P TERRY EST APT F2"],"verified":true},"type":"Feature"}
 ]}
