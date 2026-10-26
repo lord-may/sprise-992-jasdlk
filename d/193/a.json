@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.346179,27.468177],"type":"Point"},"properties":{"CAUSE":"Equipment Failure","CUSTOMER_COUNT":1720,"EQUIPMENT":"Primary Conductor","OBJECTID":127699,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1792995737000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.298056,27.463043],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127700,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1792997427000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
 ]}
