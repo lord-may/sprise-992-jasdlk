@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.128803,36.196426],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723790","nbrOut":5,"planned":false,"timeOff":1793045649857},"type":"Feature"}
+{"geometry":{"coordinates":[-85.128803,36.196426],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1723790","nbrOut":5,"planned":false,"timeOff":1793045649857},"type":"Feature"},
+{"geometry":{"coordinates":[-84.894504,35.674442],"type":"Point"},"properties":{"comment":"A crew is assigned and will be checking the reported low line.","crewAssigned":true,"id":"1723791","nbrOut":1,"planned":false,"timeOff":1793048203295},"type":"Feature"}
 ]}
