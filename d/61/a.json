@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-91.420199,31.14698],"type":"Point"},"properties":{"cause":"TREE-DEAD","crewAssigned":true,"estimateTime":1792888200000,"id":"692808","nbrOut":2,"planned":false,"timeOff":1792857485000},"type":"Feature"},
-{"geometry":{"coordinates":[-91.026845,31.203832],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1793021400000,"id":"692869","nbrOut":8,"planned":false,"timeOff":1793009784033},"type":"Feature"}
+{"geometry":{"coordinates":[-91.026845,31.203832],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793021400000,"id":"692869","nbrOut":8,"planned":false,"timeOff":1793009784033},"type":"Feature"}
 ]}
