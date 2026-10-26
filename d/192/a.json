@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.189785,30.928104],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T17:10:25.533-05:00","outageName":"BSA-77A-2","outagePoint":{"lat":30.928104180806283,"lng":-85.18978488082512},"outageRecID":"2026-10-26-4341","outageStartTime":"2026-10-26T17:03:44-05:00","outageWorkStatus":"","streetsAffected":["FORD RD"],"verified":true},"type":"Feature"}
 ]}
