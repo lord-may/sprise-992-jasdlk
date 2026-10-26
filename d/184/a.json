@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.277709,30.37636],"type":"Point"},"properties":{"cause":"Transformer Failed","customers":1,"etr":1793022244000,"off":1793001225000,"outagetype":"Small","region":5,"status":"Crew Assigned","ticket":null},"type":"Feature"}
+{"geometry":{"coordinates":[-84.277709,30.37636],"type":"Point"},"properties":{"cause":"Transformer Failed","customers":1,"etr":1793022244000,"off":1793001225000,"outagetype":"Small","region":5,"status":"Crew Assigned","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.206794,30.526133],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1793025188000,"off":1793017988000,"outagetype":"Small","region":2,"status":"Reported","ticket":null},"type":"Feature"}
 ]}

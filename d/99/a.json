@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.799117,37.293261],"type":"Point"},"properties":{"cause":"Planned Equipment Maintenance","code":"906","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-26T16:45:00-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T12:32:00.88-04:00","outageName":"072186003F","outagePoint":{"lat":37.293261010649395,"lng":-78.7991169863994},"outageRecID":"2026-10-26-0445","outageStartTime":"2026-10-26T12:31:18-04:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
