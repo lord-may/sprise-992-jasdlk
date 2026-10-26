@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.071379,26.615556],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-25T23:56:35-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T21:02:25.787-04:00","outageName":"133 AKRON ST 1","outagePoint":{"lat":26.615555735330613,"lng":-80.07137917285148},"outageRecID":"2026-10-25-0289","outageStartTime":"2026-10-25T20:56:35-04:00","outageWorkStatus":"","streetsAffected":["AKRON ST"],"verified":false},"type":"Feature"}
 ]}
