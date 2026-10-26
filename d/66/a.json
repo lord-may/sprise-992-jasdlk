@@ -1,5 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.046463,35.1418],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723774","nbrOut":1,"planned":false,"timeOff":1793034105520},"type":"Feature"},
 {"geometry":{"coordinates":[-84.931183,36.381406],"type":"Point"},"properties":{"comment":"A crew is assigned and working to investigate a possible voltage issue. Thank you for your patience.","crewAssigned":true,"id":"1723775","nbrOut":1,"planned":false,"timeOff":1793037139849},"type":"Feature"},
-{"geometry":{"coordinates":[-85.041747,35.15544],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723777","nbrOut":1,"planned":false,"timeOff":1793038146830},"type":"Feature"}
+{"geometry":{"coordinates":[-85.041747,35.15544],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723777","nbrOut":1,"planned":false,"timeOff":1793038146830},"type":"Feature"},
+{"geometry":{"coordinates":[-84.927949,35.377632],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723778","nbrOut":1,"planned":false,"timeOff":1793039670000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.86601,35.364235],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723779","nbrOut":1,"planned":false,"timeOff":1793039692000},"type":"Feature"},
+{"geometry":{"coordinates":[-85.234723,36.155819],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723780","nbrOut":1,"planned":false,"timeOff":1793039615890},"type":"Feature"},
+{"geometry":{"coordinates":[-84.817429,35.401514],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723781","nbrOut":1,"planned":false,"timeOff":1793039859000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.843175,35.42631],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723782","nbrOut":1,"planned":false,"timeOff":1793039876000},"type":"Feature"}
 ]}
