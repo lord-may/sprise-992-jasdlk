@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.365725,27.42283],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"EQUIPMENT":"Transformer","OBJECTID":127785,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1793119265000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
-{"geometry":{"coordinates":[-80.33477,27.415548],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127784,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793127455000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
+{"geometry":{"coordinates":[-80.365725,27.42283],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"EQUIPMENT":"Transformer","OBJECTID":127790,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1793119265000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.33477,27.415548],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127788,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793127455000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.329863,27.436785],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":127789,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793128755000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
 ]}
