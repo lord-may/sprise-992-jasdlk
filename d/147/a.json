@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.48288,36.349359],"type":"Point"},"properties":{"affectedCustomers":4,"boundary":null,"caseNumber":"20261027-C000002","cause":null,"county":"Gallatin","crewStatus":null,"elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":null,"latitude":36.34935931,"longitude":-86.4828796,"messageToCustomers":"","otherReason":null,"phase":"A  ","region":"SW","startedOn":"2026-10-27T18:59:12","state":"","status":"Predicted","totalImpactedCustomers":4,"weather":null},"type":"Feature"},
-{"geometry":{"coordinates":[-86.484359,36.37142],"type":"Point"},"properties":{"affectedCustomers":1,"boundary":null,"caseNumber":"20261027-C000004","cause":"Damage by Others (Power On)","county":"Gallatin","crewStatus":"Assigned","elementType":"METERBASE","etor":null,"failure":"Secondary Conductor (Overhead)","isCrewAssigned":true,"latitude":36.37141978,"longitude":-86.484359,"messageToCustomers":"","otherReason":null,"phase":"B  ","region":"NW","startedOn":"2026-10-27T19:50:38","state":"","status":"Confirmed","totalImpactedCustomers":1,"weather":"Normal"},"type":"Feature"}
+
 ]}
