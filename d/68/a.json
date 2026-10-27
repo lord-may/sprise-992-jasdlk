@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-78.488034,35.965338],[-78.4886,35.965716],[-78.489471,35.966152],[-78.488034,35.965338]]],"type":"Polygon"},{"coordinates":[-78.488699,35.965738],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"SMALL ANIMALS OR BIRDS","comment":"A crew has been assigned to the outage affecting your area.","crewAssigned":true,"estimateTime":1793118901000,"id":"740232","nbrOut":3,"planned":false,"timeOff":1793111701000},"type":"Feature"},
 {"geometry":{"coordinates":[-78.501401,35.903709],"type":"Point"},"properties":{"cause":"UNKNOWN","comment":"A crew has been assigned to the outage affecting your area.","crewAssigned":true,"estimateTime":1793121492000,"id":"740233","nbrOut":1,"planned":false,"timeOff":1793114292000},"type":"Feature"},
 {"geometry":{"coordinates":[-78.564086,36.015294],"type":"Point"},"properties":{"cause":"MAINTENANCE","crewAssigned":true,"estimateTime":1793122042000,"id":"740234","nbrOut":1,"planned":false,"timeOff":1793114842000},"type":"Feature"}
 ]}
