@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.322781,35.693712],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793127600000,"id":"865763","nbrOut":1,"planned":true,"timeOff":1793116668000},"type":"Feature"},
 {"geometry":{"coordinates":[-86.594099,35.808958],"type":"Point"},"properties":{"crewAssigned":true,"id":"865767","nbrOut":1,"planned":true,"timeOff":1793121337000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-86.370688,35.863941],[-86.37005,35.864007],[-86.370688,35.863999],[-86.370688,35.863941]]],"type":"Polygon"},{"coordinates":[-86.370472,35.863985],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1793129417000,"id":"865772","nbrOut":3,"planned":true,"timeOff":1793122923000},"type":"Feature"},
 {"geometry":{"coordinates":[-86.804251,35.91813],"type":"Point"},"properties":{"crewAssigned":true,"id":"865774","nbrOut":2,"planned":false,"timeOff":1793123588968},"type":"Feature"},
 {"geometry":{"coordinates":[-86.804179,35.918144],"type":"Point"},"properties":{"crewAssigned":true,"id":"865775","nbrOut":1,"planned":false,"timeOff":1793123596759},"type":"Feature"},
-{"geometry":{"coordinates":[-85.948336,35.833133],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793127531000,"id":"865776","nbrOut":1,"planned":true,"timeOff":1793123716000},"type":"Feature"}
+{"geometry":{"coordinates":[-85.948336,35.833133],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793127531000,"id":"865776","nbrOut":1,"planned":true,"timeOff":1793123716000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-86.378899,35.849919],[-86.378692,35.849919],[-86.378449,35.849999],[-86.378602,35.849999],[-86.378899,35.849919]]],"type":"Polygon"},{"coordinates":[-86.378665,35.849955],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1793131239000,"id":"865780","nbrOut":4,"planned":true,"timeOff":1793125549000},"type":"Feature"}
 ]}
