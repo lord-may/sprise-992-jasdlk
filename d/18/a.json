@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.529261,28.006164],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-10-27T21:40:00","incidentId":"A202630005646","polygonCenter":[-82.5292612530256,28.006164014467828],"reason":"Under investigation","status":"We're working onsite","updateTime":"2026-10-27T18:20:08"}},"type":"Feature"}
+{"geometry":{"coordinates":[-82.37324,27.96108],"type":"Point"},"properties":{"_source":{"customerCount":2,"estimatedTimeOfRestoration":"2026-10-27T22:20:00","incidentId":"A202630006003","polygonCenter":[-82.37324000082658,27.961079996743315],"reason":"Under investigation","status":"We're working onsite","updateTime":"2026-10-27T18:35:09"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.529261,28.006164],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-10-27T21:40:00","incidentId":"A202630005646","polygonCenter":[-82.5292612530256,28.006164014467828],"reason":"Under investigation","status":"We're working onsite","updateTime":"2026-10-27T18:35:09"}},"type":"Feature"}
 ]}
