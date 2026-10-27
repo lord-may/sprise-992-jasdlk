@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.712984,34.947826],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-17T01:31:00","oldest_status_change_time":"2026-10-17T01:31:00","public_point_id":"1a8de5d72ecd17e163071ed1f4fe1e8b","substation":"BRIDGEPORT"},"type":"Feature"}
+{"geometry":{"coordinates":[-85.712984,34.947826],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-17T01:31:00","oldest_status_change_time":"2026-10-17T01:31:00","public_point_id":"1a8de5d72ecd17e163071ed1f4fe1e8b","substation":"BRIDGEPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.858949,34.763482],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-27T17:54:00","oldest_status_change_time":"2026-10-27T17:54:00","public_point_id":"8a0e928762f6d5665912b5fc9b70ef41","substation":"HOLLYWOOD"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.858473,34.76381],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-10-27T17:54:00","oldest_status_change_time":"2026-10-27T17:54:00","public_point_id":"aecce4e7f423c505b8968614fff25816","substation":"HOLLYWOOD"},"type":"Feature"}
 ]}
