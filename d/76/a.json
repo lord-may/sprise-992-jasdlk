@@ -1,11 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.115476,32.743801],"type":"Point"},"properties":{"id":"627773","nbrOut":1,"planned":false,"timeOff":1793101754000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.151085,33.37505],"type":"Point"},"properties":{"id":"627774","nbrOut":1,"planned":false,"timeOff":1793102096000},"type":"Feature"},
 {"geometry":{"coordinates":[-80.029867,33.085965],"type":"Point"},"properties":{"id":"627780","nbrOut":1,"planned":false,"timeOff":1793104501000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.129526,32.622147],"type":"Point"},"properties":{"id":"627781","nbrOut":1,"planned":false,"timeOff":1793104928000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.027109,33.021944],"type":"Point"},"properties":{"id":"627782","nbrOut":1,"planned":false,"timeOff":1793105273115},"type":"Feature"},
 {"geometry":{"coordinates":[-80.133649,33.122371],"type":"Point"},"properties":{"id":"627783","nbrOut":1,"planned":false,"timeOff":1793105416000},"type":"Feature"},
 {"geometry":{"coordinates":[-80.161479,32.567844],"type":"Point"},"properties":{"id":"627785","nbrOut":1,"planned":false,"timeOff":1793106502000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.209593,32.783188],"type":"Point"},"properties":{"id":"627786","nbrOut":2,"planned":false,"timeOff":1793106478000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.209548,32.783127],"type":"Point"},"properties":{"id":"627787","nbrOut":1,"planned":false,"timeOff":1793106497000},"type":"Feature"}
+{"geometry":{"coordinates":[-80.209593,32.783188],"type":"Point"},"properties":{"id":"627786","nbrOut":2,"planned":true,"timeOff":1793106478000},"type":"Feature"},
+{"geometry":{"coordinates":[-80.054633,33.000814],"type":"Point"},"properties":{"id":"627788","nbrOut":1,"planned":false,"timeOff":1793107081693},"type":"Feature"},
+{"geometry":{"coordinates":[-80.11456,32.594103],"type":"Point"},"properties":{"id":"627789","nbrOut":1,"planned":false,"timeOff":1793107217178},"type":"Feature"}
 ]}
