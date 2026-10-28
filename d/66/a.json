@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.047991,35.192258],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723875","nbrOut":17,"planned":true,"timeOff":1793190600000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.043023,35.183037],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723876","nbrOut":1,"planned":true,"timeOff":1793190600000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.997065,35.061589],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1723905","nbrOut":4,"planned":false,"timeOff":1793190867000},"type":"Feature"},
 {"geometry":{"coordinates":[-84.739832,35.662648],"type":"Point"},"properties":{"comment":"This outage is necessary to remove trees from a dangerous situation. Thank you for your patience.","crewAssigned":true,"id":"1723928","nbrOut":10,"planned":false,"timeOff":1793192400017},"type":"Feature"},
 {"geometry":{"coordinates":[-85.129162,36.064623],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a vehicle snagging lines. Thank you for your patience.","crewAssigned":true,"id":"1723939","nbrOut":5,"planned":false,"timeOff":1793194842087},"type":"Feature"}
 ]}
