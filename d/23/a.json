@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-87.093284,35.987358],"type":"Point"},"properties":{"crewAssigned":false,"id":"865883","nbrOut":1,"planned":false,"timeOff":1793211898303},"type":"Feature"},
+{"geometry":{"coordinates":[-86.974877,35.795363],"type":"Point"},"properties":{"crewAssigned":false,"id":"865893","nbrOut":1,"planned":false,"timeOff":1793213790000},"type":"Feature"},
 {"geometry":{"coordinates":[-86.023516,36.002752],"type":"Point"},"properties":{"crewAssigned":true,"id":"865897","nbrOut":1,"planned":false,"timeOff":1793215207000},"type":"Feature"},
 {"geometry":{"coordinates":[-86.837749,35.724734],"type":"Point"},"properties":{"crewAssigned":false,"id":"865898","nbrOut":1,"planned":false,"timeOff":1793215496000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-86.715093,35.873776],[-86.714824,35.874125],[-86.715488,35.874169],[-86.715093,35.873776]]],"type":"Polygon"},{"coordinates":[-86.715129,35.874023],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1793221200000,"id":"865901","nbrOut":3,"planned":true,"timeOff":1793216472000},"type":"Feature"},
-{"geometry":{"coordinates":[-86.604457,35.800164],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1793220300000,"id":"865902","nbrOut":1,"planned":true,"timeOff":1793216542000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-86.304967,36.208901],[-86.304446,36.209038],[-86.305102,36.209104],[-86.305138,36.209104],[-86.304967,36.208901]]],"type":"Polygon"},{"coordinates":[-86.30485,36.209017],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"865904","nbrOut":10,"planned":false,"timeOff":1793216867000},"type":"Feature"},
-{"geometry":{"coordinates":[-86.115764,35.88064],"type":"Point"},"properties":{"crewAssigned":true,"id":"865905","nbrOut":1,"planned":false,"timeOff":1793216977000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-86.304967,36.208901],[-86.304446,36.209038],[-86.305102,36.209104],[-86.305138,36.209104],[-86.304967,36.208901]]],"type":"Polygon"},{"coordinates":[-86.30485,36.209017],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"865904","nbrOut":10,"planned":false,"timeOff":1793216867000},"type":"Feature"}
 ]}

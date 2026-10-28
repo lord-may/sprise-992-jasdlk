@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.206374,36.712044],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:06:14.673-06:00","outageName":"767","outagePoint":{"lat":36.712043904018756,"lng":-86.20637421788499},"outageRecID":"2026-10-28-0399","outageStartTime":"2026-10-28T14:02:55-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-86.193323,36.710543],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:08:06.023-06:00","outageName":"8633","outagePoint":{"lat":36.71054345847607,"lng":-86.19332255322597},"outageRecID":"2026-10-28-0400","outageStartTime":"2026-10-28T14:08:05.97-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
