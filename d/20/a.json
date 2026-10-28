@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.68715,36.09028],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 28"]},{"property":"AREA_SERVICE","value":["Antioch - Priest Lake"]}],"cause":"","etrTime":1793201400000,"id":2239116,"identifier":"2710882","latitude":36.09028,"longitude":-86.68715,"numPeople":1,"startTime":1793190482000,"status":"Unassigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.87166,36.10198],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 23"]},{"property":"AREA_SERVICE","value":["West Nashville"]}],"cause":"","etrTime":1793202300000,"id":2239117,"identifier":"2710884","latitude":36.10198,"longitude":-86.87166,"numPeople":1,"startTime":1793190745000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
