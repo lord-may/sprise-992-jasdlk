@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.318898,33.101336],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:32:16-04:00","outageName":"2026-10-28-0666","outagePoint":{"lat":33.101335821089144,"lng":-84.31889817627888},"outageRecID":"2026-10-28-0666","outageStartTime":"2026-10-28T14:27:07-04:00","outageWorkStatus":"","streetsAffected":["CHAPMAN RD (TEMP)"],"verified":false},"type":"Feature"}
 ]}
