@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.694593,35.813058],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":9,"customersOutNow":9,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:12:09.35-04:00","outageName":"PD.25365","outagePoint":{"lat":35.813058072895295,"lng":-83.69459291405991},"outageRecID":"2026-10-28-0463","outageStartTime":"2026-10-28T14:04:46-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-83.615527,35.732148],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:11:51.92-04:00","outageName":"G15-3113","outagePoint":{"lat":35.73214775333235,"lng":-83.61552685827868},"outageRecID":"2026-10-28-0464","outageStartTime":"2026-10-28T14:11:24-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
