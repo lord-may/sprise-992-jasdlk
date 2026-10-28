@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.043023,35.183037],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723876","nbrOut":1,"planned":true,"timeOff":1793190600000},"type":"Feature"},
 {"geometry":{"coordinates":[-84.739832,35.662648],"type":"Point"},"properties":{"comment":"This outage is necessary to remove trees from a dangerous situation. Thank you for your patience.","crewAssigned":true,"id":"1723928","nbrOut":10,"planned":false,"timeOff":1793192400017},"type":"Feature"},
-{"geometry":{"coordinates":[-84.787129,35.072824],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723944","nbrOut":1,"planned":false,"timeOff":1793201060374},"type":"Feature"},
 {"geometry":{"coordinates":[-85.046715,35.189226],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723948","nbrOut":11,"planned":false,"timeOff":1793201595553},"type":"Feature"},
-{"geometry":{"coordinates":[-84.785673,35.117637],"type":"Point"},"properties":{"crewAssigned":false,"id":"1723951","nbrOut":1,"planned":false,"timeOff":1793202053935},"type":"Feature"}
+{"geometry":{"coordinates":[-84.785673,35.117637],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723951","nbrOut":1,"planned":false,"timeOff":1793202053935},"type":"Feature"}
 ]}
