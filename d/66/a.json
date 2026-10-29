@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.046715,35.189226],"type":"Point"},"properties":{"crewAssigned":true,"id":"1723997","nbrOut":11,"planned":false,"timeOff":1793277047000},"type":"Feature"},
-{"geometry":{"coordinates":[-84.868238,35.687014],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1723998","nbrOut":13,"planned":false,"timeOff":1793279146133},"type":"Feature"},
-{"geometry":{"coordinates":[-84.868444,35.686832],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1724000","nbrOut":3,"planned":false,"timeOff":1793279392000},"type":"Feature"},
 {"geometry":{"coordinates":[-84.892816,35.98948],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724006","nbrOut":70,"planned":false,"timeOff":1793279877912},"type":"Feature"},
-{"geometry":{"coordinates":[-85.039349,35.281911],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724008","nbrOut":1,"planned":false,"timeOff":1793280623525},"type":"Feature"},
-{"geometry":{"coordinates":[-84.85603,35.675843],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724011","nbrOut":9,"planned":false,"timeOff":1793280540180},"type":"Feature"}
+{"geometry":{"coordinates":[-84.85603,35.675843],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724011","nbrOut":9,"planned":false,"timeOff":1793280540180},"type":"Feature"},
+{"geometry":{"coordinates":[-84.868444,35.686832],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724013","nbrOut":3,"planned":false,"timeOff":1793281944000},"type":"Feature"}
 ]}
