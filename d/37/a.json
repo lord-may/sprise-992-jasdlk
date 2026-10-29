@@ -5,8 +5,6 @@
 {"geometry":{"geometries":[{"coordinates":[[[-81.051044,35.599988],[-81.050568,35.600828],[-81.050757,35.601062],[-81.051071,35.600616],[-81.051242,35.600032],[-81.051044,35.599988]]],"type":"Polygon"},{"coordinates":[-81.050919,35.600521],"type":"Point"}],"type":"GeometryCollection"},"properties":{"estimateTime":1793292300000,"id":"452431","lifeCycleStatus":"Crew On Site","nbrOut":5,"planned":true,"timeOff":1793279005000},"type":"Feature"},
 {"geometry":{"coordinates":[-80.022797,36.472146],"type":"Point"},"properties":{"estimateTime":1793283300000,"id":"452432","lifeCycleStatus":"Crew On Site","nbrOut":1,"planned":true,"timeOff":1793279690143},"type":"Feature"},
 {"geometry":{"coordinates":[-80.894854,35.393693],"type":"Point"},"properties":{"estimateTime":1793293200000,"id":"452435","nbrOut":1,"planned":false,"timeOff":1793280192000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.892914,35.3937],"type":"Point"},"properties":{"estimateTime":1793293200000,"id":"452436","nbrOut":2,"planned":false,"timeOff":1793280198000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.605121,35.881237],"type":"Point"},"properties":{"estimateTime":1793294100000,"id":"452437","lifeCycleStatus":"Crew On Site","nbrOut":1,"planned":true,"timeOff":1793280618000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.204059,35.911546],"type":"Point"},"properties":{"estimateTime":1793294100000,"id":"452438","nbrOut":1,"planned":false,"timeOff":1793281108000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.314103,35.791078],"type":"Point"},"properties":{"estimateTime":1793295000000,"id":"452439","nbrOut":1,"planned":false,"timeOff":1793281864000},"type":"Feature"}
+{"geometry":{"coordinates":[-80.892914,35.3937],"type":"Point"},"properties":{"estimateTime":1793293200000,"id":"452436","lifeCycleStatus":"Crew On Site","nbrOut":2,"planned":false,"timeOff":1793280198000},"type":"Feature"},
+{"geometry":{"coordinates":[-80.822495,35.665115],"type":"Point"},"properties":{"estimateTime":1793295000000,"id":"452440","nbrOut":1,"planned":false,"timeOff":1793282050000},"type":"Feature"}
 ]}

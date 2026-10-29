@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.191986,37.63559],"type":"Point"},"properties":{"estimateTime":1793289600000,"id":"467987","nbrOut":1,"planned":false,"timeOff":1793281617000},"type":"Feature"}
+{"geometry":{"coordinates":[-86.191986,37.63559],"type":"Point"},"properties":{"comment":"Opening transformer to hook up new service","estimateTime":1793289600000,"id":"467987","nbrOut":1,"planned":false,"timeOff":1793281617000},"type":"Feature"},
+{"geometry":{"coordinates":[-85.864128,37.721681],"type":"Point"},"properties":{"comment":"replacing padmount transformer","estimateTime":1793290500000,"id":"467990","nbrOut":2,"planned":false,"timeOff":1793282549000},"type":"Feature"}
 ]}
