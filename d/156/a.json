@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.965822,35.09696],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T17:13:47.967-05:00","outageName":"TR.136J003","outagePoint":{"lat":35.09696047056695,"lng":-86.9658220742124},"outageRecID":"2026-10-29-0205","outageStartTime":"2026-10-29T17:08:18-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-86.910027,35.035328],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":26,"customersOutNow":26,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T17:19:21.213-05:00","outageName":"F108","outagePoint":{"lat":35.03532846156262,"lng":-86.9100269875542},"outageRecID":"2026-10-29-0206","outageStartTime":"2026-10-29T17:14:08-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
