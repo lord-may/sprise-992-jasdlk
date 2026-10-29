@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.72698,28.94787],"type":"Point"},"properties":{"cause":{"EN-US":"Planned Outage Upgrade","orig":"CODE-25"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","orig":"Assigned"},"cust_a":{"val":1},"etr":"2026-10-29T14:30:00Z","etr_confidence":null,"inc_id":"1094011-1","n_out":1,"start_time":"2026-10-29T12:39:04Z","title":"Area Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-82.054,28.55307],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"CODE-00"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"orig":"Pending"},"cust_a":{"val":1},"etr":"2026-10-29T14:30:00Z","etr_confidence":null,"inc_id":"1094012-1","n_out":1,"start_time":"2026-10-29T12:45:01Z","title":"Area Outage"},"type":"Feature"}
 ]}
