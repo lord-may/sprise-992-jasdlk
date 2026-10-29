@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.916912,34.606726],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Moody, Randy","CaseNumber":"261029-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":67,"ElementName":"REC-E71601","EndTime":"/Date(-62135575200000)/","OutageTime":"10/29/2026 11:42:00 AM","PoleNumber":"E71601","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.9169122583329,"Y":34.606726499450936,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.127362,34.452626],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Dalton, Joey","CaseNumber":"261029-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-10373","EndTime":"/Date(-62135575200000)/","OutageTime":"10/29/2026 11:45:00 AM","PoleNumber":"10373","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-86.1273616278611,"Y":34.45262587970979,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
