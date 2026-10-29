@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.864128,37.721681],"type":"Point"},"properties":{"comment":"replacing padmount transformer","estimateTime":1793290500000,"id":"467990","nbrOut":2,"planned":false,"timeOff":1793282549000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-85.959215,37.841903],[-85.959349,37.842619],[-85.960302,37.843464],[-85.960805,37.843229],[-85.959682,37.842215],[-85.959215,37.841903]]],"type":"Polygon"},{"coordinates":[-85.959933,37.842768],"type":"Point"}],"type":"GeometryCollection"},"properties":{"estimateTime":1793292300000,"id":"467993","nbrOut":9,"planned":false,"timeOff":1793284326000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-85.959215,37.841903],[-85.959349,37.842619],[-85.960302,37.843464],[-85.960805,37.843229],[-85.959682,37.842215],[-85.959215,37.841903]]],"type":"Polygon"},{"coordinates":[-85.959933,37.842768],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Opening transformer for pole change","estimateTime":1793292300000,"id":"467993","nbrOut":9,"planned":false,"timeOff":1793284326000},"type":"Feature"}
 ]}
