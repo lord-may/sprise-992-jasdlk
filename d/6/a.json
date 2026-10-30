@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.12099,30.86106],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":"We are aware of your outage and apologize for any inconvenience. We will provide updates as more information becomes available.","crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"2026-10-30T07:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-89.12044,30.86126],[-89.11841,30.86241],[-89.11917,30.86417],[-89.12089,30.86233],[-89.12044,30.86126]]],"type":"Polygon"},{"coordinates":[-89.11965,30.8626],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":null,"cluster":false,"comments":"A crew has been assigned to locate and repair the problem reported in your area. We apologize for any inconvenience and will provide updates as more information becomes available.","crew_icon":false,"crew_status":null,"cust_a":{"val":11},"etr":"2026-10-30T06:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
