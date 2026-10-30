@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.389568,35.907267],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T15:16:58.387-04:00","outageName":"E25-111","outagePoint":{"lat":35.90726746174613,"lng":-83.38956766608865},"outageRecID":"2026-10-30-0481","outageStartTime":"2026-10-30T15:14:35-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-83.391275,35.91049],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T15:17:04.027-04:00","outageName":"E15-4394","outagePoint":{"lat":35.91048987986597,"lng":-83.39127460457243},"outageRecID":"2026-10-30-0482","outageStartTime":"2026-10-30T15:13:23-04:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
