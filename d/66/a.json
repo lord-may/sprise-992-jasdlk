@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.046715,35.189226],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724070","nbrOut":11,"planned":false,"timeOff":1793364382867},"type":"Feature"},
 {"geometry":{"coordinates":[-85.017331,35.238693],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of broken junction box.","crewAssigned":true,"id":"1724083","nbrOut":1,"planned":false,"timeOff":1793374616079},"type":"Feature"},
-{"geometry":{"coordinates":[-84.694647,35.384663],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724088","nbrOut":1,"planned":false,"timeOff":1793380083314},"type":"Feature"},
-{"geometry":{"coordinates":[-84.887003,36.024797],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724093","nbrOut":7,"planned":false,"timeOff":1793381130304},"type":"Feature"},
-{"geometry":{"coordinates":[-84.886177,36.025677],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724095","nbrOut":3,"planned":false,"timeOff":1793381206396},"type":"Feature"}
+{"geometry":{"coordinates":[-84.886177,36.025677],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724095","nbrOut":13,"planned":false,"timeOff":1793381130304},"type":"Feature"}
 ]}
