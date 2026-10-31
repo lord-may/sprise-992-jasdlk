@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.713482,28.028909],"type":"Point"},"properties":{"_source":{"customerCount":10,"estimatedTimeOfRestoration":"2026-10-31T12:10:00","incidentId":"A202630401532","polygonCenter":[-81.7134817539865,28.028909358425697],"reason":"Pending Investigation","status":"We're aware of the outage","updateTime":"2026-10-31T08:05:12"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.509569,28.025161],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-10-31T12:10:00","incidentId":"A202630401541","polygonCenter":[-82.5095688307589,28.025160826711964],"reason":"Pending Investigation","status":"We're aware of the outage","updateTime":"2026-10-31T08:05:12"}},"type":"Feature"}
 ]}
