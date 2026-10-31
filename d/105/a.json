@@ -1,10 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.480632,36.290908],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793458935828,"id":"1380969","nbrOut":20,"planned":false,"timeOff":1793450790000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.382995,36.299408],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793459356770,"id":"1380976","nbrOut":1,"planned":false,"timeOff":1793451175000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.357096,36.313227],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793459410369,"id":"1380978","nbrOut":1,"planned":false,"timeOff":1793451610324},"type":"Feature"},
-{"geometry":{"coordinates":[-82.406297,36.300725],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793459596577,"id":"1380993","nbrOut":1,"planned":false,"timeOff":1793451175000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.4053,36.298235],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793459446770,"id":"1380996","nbrOut":11,"planned":false,"timeOff":1793451174000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.398212,36.366832],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793459648420,"id":"1381002","nbrOut":10,"planned":false,"timeOff":1793451627000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.405434,36.297366],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793461276602,"id":"1381007","nbrOut":1,"planned":false,"timeOff":1793451175000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.405425,36.296664],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793461576947,"id":"1381008","nbrOut":1,"planned":false,"timeOff":1793451175000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.480632,36.290908],"type":"Point"},"properties":{"cause":"Bird ","estimateTime":1793458935000,"id":"1380969","nbrOut":20,"planned":false,"timeOff":1793450790000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.398212,36.366832],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1793459648420,"id":"1381002","nbrOut":10,"planned":false,"timeOff":1793451627000},"type":"Feature"}
 ]}
