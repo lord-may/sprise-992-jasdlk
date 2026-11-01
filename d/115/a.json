@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.492417,33.85716],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T07:35:27.127-05:00","outageName":"FUS-2735818","outagePoint":{"lat":33.85715974789518,"lng":-80.49241709689937},"outageRecID":"2026-11-01-0003","outageStartTime":"2026-11-01T07:27:22-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-80.409189,34.047759],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T07:34:27.247-05:00","outageName":"20074001","outagePoint":{"lat":34.04775931023806,"lng":-80.4091890600914},"outageRecID":"2026-11-01-0004","outageStartTime":"2026-11-01T07:32:44-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
