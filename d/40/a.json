@@ -14,6 +14,9 @@
 {"geometry":{"coordinates":[-80.985566,26.795096],"type":"Point"},"properties":{"id":"518328","nbrOut":5,"planned":false,"timeOff":1793554637479},"type":"Feature"},
 {"geometry":{"coordinates":[-81.246814,26.812792],"type":"Point"},"properties":{"id":"518330","nbrOut":4,"planned":false,"timeOff":1793557722761},"type":"Feature"},
 {"geometry":{"coordinates":[-81.262903,27.446551],"type":"Point"},"properties":{"id":"518342","nbrOut":1,"planned":false,"timeOff":1793560352116},"type":"Feature"},
-{"geometry":{"coordinates":[-81.235972,27.222182],"type":"Point"},"properties":{"id":"518343","nbrOut":1,"planned":false,"timeOff":1793560691718},"type":"Feature"},
-{"geometry":{"coordinates":[-81.121149,26.832361],"type":"Point"},"properties":{"id":"518344","nbrOut":1,"planned":false,"timeOff":1793560692720},"type":"Feature"}
+{"geometry":{"coordinates":[-81.235972,27.222182],"type":"Point"},"properties":{"comment":"We are aware of the outage in the area. Crews have been dispatched.","id":"518343","nbrOut":1,"planned":false,"timeOff":1793560691718},"type":"Feature"},
+{"geometry":{"coordinates":[-81.121149,26.832361],"type":"Point"},"properties":{"id":"518344","nbrOut":1,"planned":false,"timeOff":1793560692720},"type":"Feature"},
+{"geometry":{"coordinates":[-81.006416,27.092619],"type":"Point"},"properties":{"id":"518345","nbrOut":1,"planned":false,"timeOff":1793561624723},"type":"Feature"},
+{"geometry":{"coordinates":[-81.005087,27.090411],"type":"Point"},"properties":{"id":"518346","nbrOut":1,"planned":false,"timeOff":1793561725276},"type":"Feature"},
+{"geometry":{"coordinates":[-81.004116,27.091115],"type":"Point"},"properties":{"id":"518347","nbrOut":1,"planned":false,"timeOff":1793561873308},"type":"Feature"}
 ]}
