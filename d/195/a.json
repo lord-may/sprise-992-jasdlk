@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.058367,26.619602],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":false,"customersOutInitially":57,"customersOutNow":57,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-02T11:57:10.76-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T09:05:12.247-05:00","outageName":"FS-65K-ABC 911 2ND AVE N","outagePoint":{"lat":26.619601609735327,"lng":-80.05836659914812},"outageRecID":"2026-11-02-0006","outageStartTime":"2026-11-02T08:54:12-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["2ND AVE N","3RD AVE N","4TH AVE N","N DIXIE HWY","N H ST"],"verified":true},"type":"Feature"}
 ]}
