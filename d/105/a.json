@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.610196,36.269958],"type":"Point"},"properties":{"cause":"Transformer ","estimateTime":1793649924000,"id":"1381172","nbrOut":1,"planned":false,"timeOff":1793640872000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.610196,36.269958],"type":"Point"},"properties":{"cause":"Transformer ","estimateTime":1793649924000,"id":"1381172","nbrOut":1,"planned":false,"timeOff":1793640872000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.565909,36.22428],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1793654604000,"id":"1381175","nbrOut":1,"planned":false,"timeOff":1793646470000},"type":"Feature"}
 ]}
