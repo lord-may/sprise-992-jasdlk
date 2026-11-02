@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.003682,33.692551],"type":"Point"},"properties":{"cause":"Construction Planned Outage","code":"100","crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-02T12:00:00-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-02T09:34:55.58-05:00","outageName":"20-8W-1","outagePoint":{"lat":33.69255136521241,"lng":-79.00368235029315},"outageRecID":"2026-11-02-0010","outageStartTime":"2026-11-02T09:30:00-05:00","outageWorkStatus":"","streetsAffected":["FORESTBROOK RD","FORESTBROOK RD #A","FORESTBROOK RD #B","FORESTBROOK RD #C","FORESTBROOK RD BL1 HM"],"verified":true},"type":"Feature"}
 ]}
