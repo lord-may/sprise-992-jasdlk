@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.860036,35.660123],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724343","nbrOut":1,"planned":false,"timeOff":1793649930069},"type":"Feature"},
-{"geometry":{"coordinates":[-85.176153,36.62015],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724351","nbrOut":1,"planned":false,"timeOff":1793652541010},"type":"Feature"},
-{"geometry":{"coordinates":[-85.320099,35.945028],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a possible line low line. Thank you for your patience.","crewAssigned":true,"id":"1724352","nbrOut":1,"planned":false,"timeOff":1793652670069},"type":"Feature"},
 {"geometry":{"coordinates":[-84.740641,35.157482],"type":"Point"},"properties":{"comment":"A crew is assigned and will be checking the reported line down due to a tree.","crewAssigned":true,"id":"1724354","nbrOut":1,"planned":false,"timeOff":1793653752579},"type":"Feature"}
 ]}
