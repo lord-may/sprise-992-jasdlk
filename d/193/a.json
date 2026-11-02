@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.327027,27.436085],"type":"Point"},"properties":{"CAUSE":"Vegetation","CUSTOMER_COUNT":1,"EQUIPMENT":"None","OBJECTID":128037,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1793657466000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
-{"geometry":{"coordinates":[-80.319949,27.431168],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":1,"EQUIPMENT":"Unknown","OBJECTID":128035,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793658186000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
-{"geometry":{"coordinates":[-80.328029,27.4363],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":4,"EQUIPMENT":"Unknown","OBJECTID":128036,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793658765000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
+{"geometry":{"coordinates":[-80.319949,27.431168],"type":"Point"},"properties":{"CAUSE":"Weather (No Animals or Vegetation Involved)","CUSTOMER_COUNT":1,"EQUIPMENT":"None","OBJECTID":128039,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1793658186000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.328029,27.4363],"type":"Point"},"properties":{"CAUSE":"No Cause Found","CUSTOMER_COUNT":4,"EQUIPMENT":"Unknown","OBJECTID":128038,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793658765000,"TIMERESTORED_EST_UTC":null},"type":"Feature"}
 ]}
