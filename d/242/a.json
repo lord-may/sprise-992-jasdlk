@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.748659,33.981824],"type":"Point"},"properties":{"cause":"Construction Planned Outage","code":"100","crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T11:56:02-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-03T08:56:47.627-05:00","outageName":"PC-51044","outagePoint":{"lat":33.98182352099045,"lng":-78.74865906962725},"outageRecID":"2026-11-03-0021","outageStartTime":"2026-11-03T08:56:02-05:00","outageWorkStatus":"","streetsAffected":["KAYLA CIR","KAYLA CIR PARCEL C"],"verified":true},"type":"Feature"}
 ]}
