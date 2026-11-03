@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.563308,33.95133],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":3,"Description":"Observation type: Power Out\nObservation range: Neighbor power is out too\nObservation: They’re doing tree and utility work on Hazel Street and likely knocked the power out\n","Duration":43,"EstOutageTimeRemaining":174,"Feeder":"805","OBJECTID":1,"OutageID":63457,"Status":"Assessing Situation"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.563165,33.949561],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":11,"Description":"Out temporarily for tree removal....//AMaddox","Duration":42,"EstOutageTimeRemaining":175,"Feeder":"805","OBJECTID":2,"OutageID":63458,"Status":"Crew Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.536517,33.952561],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":1,"Description":"Facility manager is stating that he was just notified this morning that this building has been experiencing partial power for about a week.\n\n\n** Service crew has been notified ** merion3","Duration":23,"EstOutageTimeRemaining":1123,"Feeder":"303","OBJECTID":3,"OutageID":63459,"Status":"Crew Working"},"type":"Feature"}
 ]}
