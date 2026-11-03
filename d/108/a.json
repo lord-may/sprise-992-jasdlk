@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.563308,33.95133],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":3,"Description":"Observation type: Power Out\nObservation range: Neighbor power is out too\nObservation: They’re doing tree and utility work on Hazel Street and likely knocked the power out\n","Duration":133,"EstOutageTimeRemaining":84,"Feeder":"805","OBJECTID":1,"OutageID":63457,"Status":"Assessing Situation"},"type":"Feature"},
+{"geometry":{"coordinates":[-84.563165,33.949561],"type":"Point"},"properties":{"Cause":"Undefined","CustomersOut":11,"Description":"Out temporarily for tree removal....//AMaddox","Duration":132,"EstOutageTimeRemaining":85,"Feeder":"805","OBJECTID":2,"OutageID":63458,"Status":"Crew Working"},"type":"Feature"}
 ]}
