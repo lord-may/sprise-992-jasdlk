@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.734919,34.936389],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-11-03T14:29:10.0930000-05:00","outageName":"TR: 8T-41-2","outagePoint":{"lat":34.936388807954835,"lng":-79.73491935230412},"outageRecID":"2026-11-03-0028","outageStartTime":"2026-11-03T14:24:24-05:00","streetsAffected":null,"verified":false},"type":"Feature"},
-{"geometry":{"coordinates":[-79.731342,34.84523],"type":"Point"},"properties":{"cause":"110 Maintenance","crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-11-03T14:28:17-05:00","outageName":"TR: 9-22","outagePoint":{"lat":34.84522959210171,"lng":-79.73134214727637},"outageRecID":"2026-11-03-0029","outageStartTime":"2026-11-03T14:27:10-05:00","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
