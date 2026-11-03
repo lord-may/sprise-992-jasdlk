@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.569754,35.256314],"type":"Point"},"properties":{"comment":"A crew is assigned and will be checking the reported line down.","crewAssigned":true,"id":"1724426","nbrOut":1,"planned":false,"timeOff":1793744387292},"type":"Feature"},
-{"geometry":{"coordinates":[-85.054009,35.147317],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724427","nbrOut":1,"planned":false,"timeOff":1793745075614},"type":"Feature"}
+{"geometry":{"coordinates":[-85.054009,35.147317],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724427","nbrOut":1,"planned":false,"timeOff":1793745075614},"type":"Feature"}
 ]}

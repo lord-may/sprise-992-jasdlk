@@ -9,5 +9,6 @@
 {"geometry":{"coordinates":[-84.342711,30.464713],"type":"Point"},"properties":{"cause":"Unknown","customers":3,"etr":1793733706000,"off":1793726506000,"outagetype":"Small","region":4,"status":"Reported","ticket":null},"type":"Feature"},
 {"geometry":{"coordinates":[-84.28978,30.481929],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1793733974000,"off":1793726774000,"outagetype":"Small","region":2,"status":"Reported","ticket":null},"type":"Feature"},
 {"geometry":{"coordinates":[-84.253786,30.457157],"type":"Point"},"properties":{"cause":"Unknown","customers":122,"etr":1793734219000,"off":1793727019000,"outagetype":"Large","region":2,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.289341,30.482312],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1793734356000,"off":1793727156000,"outagetype":"Small","region":2,"status":"Reported","ticket":null},"type":"Feature"}
+{"geometry":{"coordinates":[-84.289341,30.482312],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1793734356000,"off":1793727156000,"outagetype":"Small","region":2,"status":"Reported","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.250091,30.464685],"type":"Point"},"properties":{"cause":"Limb on Line - With Outage","customers":1,"etr":1793735219000,"off":1793728019000,"outagetype":"Small","region":2,"status":"Reported","ticket":null},"type":"Feature"}
 ]}
