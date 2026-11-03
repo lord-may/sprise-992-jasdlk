@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.367539,31.639498],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Jeff Lamb","CaseNumber":"261103-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"TF-120573","EndTime":"/Date(-62135578800000)/","OutageTime":"11/3/2026 11:31:00 AM","PoleNumber":"T500021001","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-83.36753862916379,"Y":31.63949750622651,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.307775,31.515639],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Joey Ammons","CaseNumber":"261103-P0003","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"TF-11468","EndTime":"/Date(-62135578800000)/","OutageTime":"11/3/2026 11:38:00 AM","PoleNumber":"T58107307701","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-83.30777481279861,"Y":31.515639202162156,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
