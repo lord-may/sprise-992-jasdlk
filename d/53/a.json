@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.740241,37.625288],"type":"Point"},"properties":{"comment":"Pole change","estimateTime":1793736000000,"id":"468107","nbrOut":2,"planned":false,"timeOff":1793728436000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-86.084206,37.606681],[-86.084404,37.610751],[-86.08744,37.607399],[-86.084206,37.606681]]],"type":"Polygon"},{"coordinates":[-86.085347,37.608275],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crew en route","estimateTime":1793736900000,"id":"468111","nbrOut":5,"planned":false,"timeOff":1793729351000},"type":"Feature"},
+{"geometry":{"coordinates":[-85.740241,37.625288],"type":"Point"},"properties":{"comment":"Pole change","estimateTime":1793739600000,"id":"468107","nbrOut":2,"planned":false,"timeOff":1793728436000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.726982,37.604809],"type":"Point"},"properties":{"comment":"Pole change","estimateTime":1793739600000,"id":"468128","nbrOut":2,"planned":false,"timeOff":1793731789000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.741652,37.619674],"type":"Point"},"properties":{"comment":"Pole change","estimateTime":1793739600000,"id":"468130","nbrOut":1,"planned":false,"timeOff":1793731951000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.622796,37.583875],"type":"Point"},"properties":{"comment":"Pole change","estimateTime":1793740500000,"id":"468131","nbrOut":1,"planned":false,"timeOff":1793732997000},"type":"Feature"},
