@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.055504,26.616779],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T14:52:34-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T11:53:08.23-05:00","outageName":"704 LUCERNE AVE","outagePoint":{"lat":26.616779119931852,"lng":-80.05550442810546},"outageRecID":"2026-11-03-0038","outageStartTime":"2026-11-03T11:52:34-05:00","outageWorkStatus":"","streetsAffected":["LUCERNE AVE"],"verified":false},"type":"Feature"}
 ]}
