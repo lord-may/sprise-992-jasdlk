@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.339249,38.813679],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T12:11:10-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T08:11:30.023-05:00","outageName":"2026-11-03-0042","outagePoint":{"lat":38.81367906997464,"lng":-84.3392486079772},"outageRecID":"2026-11-03-0042","outageStartTime":"2026-11-03T08:11:10-05:00","outageWorkStatus":"","streetsAffected":["LOCK RD"],"verified":true},"type":"Feature"}
 ]}
