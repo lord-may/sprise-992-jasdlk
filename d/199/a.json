@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.906517,32.653526],"type":"Point"},"properties":{"affectedCustomers":2,"boundary":"{\"geometryType\":\"esriGeometryPolygon\",\"geometry\":{\"rings\":[[[-81.906929020000007,32.652575179999999],[-81.90673065,32.653485189999998],[-81.906517249999993,32.653526290000002],[-81.906929020000007,32.652575179999999]]]}}","caseNumber":"20261104-C000013","cause":null,"county":"Jenkins","crewStatus":null,"elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":null,"latitude":32.65352629,"longitude":-81.90651725,"messageToCustomers":"","otherReason":null,"phase":"A  ","region":"Jenkins","startedOn":"2026-11-04T16:00:46","state":"","status":"Predicted","totalImpactedCustomers":2,"weather":null},"type":"Feature"}
 ]}
