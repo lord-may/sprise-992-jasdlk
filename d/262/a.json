@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.430712,31.453813],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T12:26:08.45-06:00","outageName":"SCL.90725","outagePoint":{"lat":31.45381267360933,"lng":-86.43071233047894},"outageRecID":"2026-11-04-0030","outageStartTime":"2026-11-04T12:25:34-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
