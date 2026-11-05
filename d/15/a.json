@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.3119,29.18199],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"CODE-00"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"En Route","orig":"En Route"},"cust_a":{"val":1},"etr":"2026-11-05T07:30:00Z","etr_confidence":null,"inc_id":"1094777-1","n_out":1,"start_time":"2026-11-05T05:12:52Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-82.31183,29.18072],"type":"Point"},"properties":{"cause":{"EN-US":"Animal Contact","orig":"CODE-01"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-Site","orig":"Arrived"},"cust_a":{"val":2},"etr":"2026-11-05T07:30:00Z","etr_confidence":null,"inc_id":"1094777-1","n_out":1,"start_time":"2026-11-05T05:12:52Z","title":"Area Outage"},"type":"Feature"}
 ]}
