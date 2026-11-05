@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.485014,30.531628],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-05T10:19:17.717-06:00","outageName":"MP_HLI_652_SARACENNIA_N","outagePoint":{"lat":30.53162755872544,"lng":-88.48501358613703},"outageRecID":"2026-11-05-0098","outageStartTime":"2026-11-05T09:00:00-06:00","outageWorkStatus":"","streetsAffected":["NUTBANK RD"],"verified":true},"type":"Feature"}
 ]}
