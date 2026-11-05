@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.653782,34.063875],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T06:31:04.36-06:00","outageName":"0242-4H","outagePoint":{"lat":34.06387492860524,"lng":-79.6537824083387},"outageRecID":"2026-11-05-0057","outageStartTime":"2026-11-05T06:31:01-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.279988,33.433702],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T06:31:14.387-06:00","outageName":"3354-F","outagePoint":{"lat":33.43370174276422,"lng":-79.27998795044141},"outageRecID":"2026-11-05-0058","outageStartTime":"2026-11-05T06:30:44-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
