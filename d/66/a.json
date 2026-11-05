@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.663404,35.75328],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724709","nbrOut":1,"planned":false,"timeOff":1793848960224},"type":"Feature"},
 {"geometry":{"coordinates":[-84.586858,35.835406],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724713","nbrOut":9,"planned":false,"timeOff":1793848582086},"type":"Feature"},
-{"geometry":{"coordinates":[-84.765039,35.628433],"type":"Point"},"properties":{"comment":"We are aware of your outage. A crew will be dispatched to begin troubleshooting the cause of this outage.","crewAssigned":false,"id":"1724719","nbrOut":32,"planned":false,"timeOff":1793857404048},"type":"Feature"}
+{"geometry":{"coordinates":[-84.765039,35.628433],"type":"Point"},"properties":{"comment":"We are aware of your outage. A crew will be dispatched to begin troubleshooting the cause of this outage.","crewAssigned":false,"id":"1724719","nbrOut":32,"planned":false,"timeOff":1793857404048},"type":"Feature"},
+{"geometry":{"coordinates":[-84.933357,35.248311],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724722","nbrOut":5,"planned":false,"timeOff":1793859158574},"type":"Feature"}
 ]}
