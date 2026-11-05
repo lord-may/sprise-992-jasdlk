@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.306126,34.968761],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":34.968761,"longitude":-85.306126},"type":"Feature"},
-{"geometry":{"coordinates":[-85.169303,35.007372],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.007372,"longitude":-85.169303},"type":"Feature"},
-{"geometry":{"coordinates":[-85.273494,35.01978],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.01978,"longitude":-85.273494},"type":"Feature"},
-{"geometry":{"coordinates":[-85.338901,35.131859],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":3,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.131859,"longitude":-85.338901},"type":"Feature"},
-{"geometry":{"coordinates":[-85.148587,35.132434],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":16,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.132434,"longitude":-85.148587},"type":"Feature"}
+{"geometry":{"coordinates":[-85.307826,34.973161],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":34.973161,"longitude":-85.307826},"type":"Feature"},
+{"geometry":{"coordinates":[-85.170403,35.006572],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.006572,"longitude":-85.170403},"type":"Feature"},
+{"geometry":{"coordinates":[-85.275594,35.02478],"type":"Point"},"properties":{"crew_qty":0,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.02478,"longitude":-85.275594},"type":"Feature"},
+{"geometry":{"coordinates":[-85.295038,35.050647],"type":"Point"},"properties":{"crew_qty":0,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.050647,"longitude":-85.295038},"type":"Feature"},
+{"geometry":{"coordinates":[-85.286823,35.087891],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":2,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.087891,"longitude":-85.286823},"type":"Feature"},
+{"geometry":{"coordinates":[-85.147487,35.134134],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":16,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.134134,"longitude":-85.147487},"type":"Feature"}
 ]}
