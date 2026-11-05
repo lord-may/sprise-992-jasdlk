@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-86.210975,34.532734],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-05T18:48:00","oldest_status_change_time":"2026-11-05T18:48:00","public_point_id":"0f34fdf9ad961fe36a45051f259985ea","substation":"COLUMBUS CITY"},"type":"Feature"}
+{"geometry":{"coordinates":[-86.234629,34.40279],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-05T18:56:00","oldest_status_change_time":"2026-11-05T18:56:00","public_point_id":"4555c1eeb7fe541842a0fbbcb5af84d9","substation":"CLAYSVILLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.234216,34.402739],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-05T18:56:00","oldest_status_change_time":"2026-11-05T18:56:00","public_point_id":"c6a1947e0aaf54c0aac733f57f3fc568","substation":"CLAYSVILLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.234944,34.402644],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-05T18:54:00","oldest_status_change_time":"2026-11-05T18:54:00","public_point_id":"c7f0d5b1beb06d66f646c7731eac90c8","substation":"CLAYSVILLE"},"type":"Feature"}
 ]}
