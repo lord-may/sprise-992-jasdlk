@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.930778,35.266789],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724685","nbrOut":183,"planned":false,"timeOff":1793831868411},"type":"Feature"},
-{"geometry":{"coordinates":[-85.239134,36.02718],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724687","nbrOut":1,"planned":false,"timeOff":1793832216752},"type":"Feature"},
 {"geometry":{"coordinates":[-84.828469,35.326726],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724688","nbrOut":1,"planned":false,"timeOff":1793832530079},"type":"Feature"},
 {"geometry":{"coordinates":[-85.058043,35.856799],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724689","nbrOut":1,"planned":false,"timeOff":1793832763902},"type":"Feature"},
-{"geometry":{"coordinates":[-85.018589,35.942956],"type":"Point"},"properties":{"comment":"We are aware of your outage. A crew will be dispatched to begin troubleshooting the cause of this outage.","crewAssigned":false,"id":"1724692","nbrOut":6,"planned":false,"timeOff":1793833284992},"type":"Feature"}
+{"geometry":{"coordinates":[-85.018589,35.942956],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a bad transformer and multiple spans of wire down. Thank you for your patience.","crewAssigned":true,"id":"1724692","nbrOut":6,"planned":false,"timeOff":1793833284992},"type":"Feature"},
+{"geometry":{"coordinates":[-84.898682,36.288359],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724693","nbrOut":1,"planned":false,"timeOff":1793836808039},"type":"Feature"},
+{"geometry":{"coordinates":[-84.914339,35.356073],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724694","nbrOut":1,"planned":false,"timeOff":1793837161072},"type":"Feature"}
 ]}
