@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.364185,27.405193],"type":"Point"},"properties":{"CAUSE":"Weather (No Animals or Vegetation Involved)","CUSTOMER_COUNT":1,"EQUIPMENT":"Primary Conductor","OBJECTID":128927,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793811325000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.366314,27.405489],"type":"Point"},"properties":{"CAUSE":"Weather (No Animals or Vegetation Involved)","CUSTOMER_COUNT":5,"EQUIPMENT":"Primary Conductor","OBJECTID":128929,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793811325000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.361089,27.404064],"type":"Point"},"properties":{"CAUSE":"Weather (No Animals or Vegetation Involved)","CUSTOMER_COUNT":4,"EQUIPMENT":"Primary Conductor","OBJECTID":128928,"OBJECTID_1":null,"STATUS":"Created","TIMECREATED_UTC":1793820326000,"TIMERESTORED_EST_UTC":null},"type":"Feature"},
+{"geometry":{"coordinates":[-80.341127,27.463054],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":3,"EQUIPMENT":"Transformer","OBJECTID":128926,"OBJECTID_1":null,"STATUS":"Crew Assigned","TIMECREATED_UTC":1793973389000,"TIMERESTORED_EST_UTC":1793984205000},"type":"Feature"}
 ]}
