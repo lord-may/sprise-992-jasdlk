@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.213905,34.868975],"type":"Point"},"properties":{"CaseNumber":"20261106-C000002","ElementName":"MTR-1151344","EstimatedRestoreTime":"2026-11-06 06:08:51.0111487 -05:00","MeterKey":"1151344","OBJECTID":278588,"OmsID":"20261106-T000002","OutageTime":1793938121000,"Status":"Reported","TimeClosed":null},"type":"Feature"},
+{"geometry":{"coordinates":[-82.214858,34.864548],"type":"Point"},"properties":{"CaseNumber":"20261106-C000001","ElementName":"MTR-693511","EstimatedRestoreTime":"2026-11-06 06:08:50.7694392 -05:00","MeterKey":"693511","OBJECTID":278589,"OmsID":"20261106-T000001","OutageTime":1793938065000,"Status":"Reported","TimeClosed":null},"type":"Feature"}
 ]}
