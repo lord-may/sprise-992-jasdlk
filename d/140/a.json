@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.04349,35.604079],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T15:50:50.107-06:00","outageName":"E145377","outagePoint":{"lat":35.60407896057363,"lng":-87.04349036935102},"outageRecID":"2026-11-07-0034","outageStartTime":"2026-11-07T15:48:00-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-86.957276,35.540074],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T15:54:26.743-06:00","outageName":"E156515","outagePoint":{"lat":35.540074427326424,"lng":-86.95727581991235},"outageRecID":"2026-11-07-0035","outageStartTime":"2026-11-07T15:52:00-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
