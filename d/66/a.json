@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.219425,36.054492],"type":"Point"},"properties":{"comment":"A crew is assigned and working in your area due to a vehicle accident.","crewAssigned":true,"id":"1724845","nbrOut":1,"planned":false,"timeOff":1794048825679},"type":"Feature"},
 {"geometry":{"coordinates":[-85.257442,36.155151],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724853","nbrOut":39,"planned":false,"timeOff":1794049991476},"type":"Feature"},
-{"geometry":{"coordinates":[-84.791881,35.098853],"type":"Point"},"properties":{"crewAssigned":false,"id":"1724854","nbrOut":1,"planned":false,"timeOff":1794051479250},"type":"Feature"}
+{"geometry":{"coordinates":[-84.791881,35.098853],"type":"Point"},"properties":{"crewAssigned":true,"id":"1724854","nbrOut":1,"planned":false,"timeOff":1794051479250},"type":"Feature"}
 ]}

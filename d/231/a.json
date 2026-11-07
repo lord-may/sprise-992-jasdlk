@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[[[-88.391228,34.336388],[-88.407228,34.336388],[-88.407228,34.320388],[-88.391228,34.320388],[-88.391228,34.336388]]],"type":"Polygon"},"properties":{"endDateTime":null,"numberOfOutages":1,"startDateTime":null},"type":"Feature"},
-{"geometry":{"coordinates":[[[-88.412813,34.304925],[-88.428813,34.304925],[-88.428813,34.288925],[-88.412813,34.288925],[-88.412813,34.304925]]],"type":"Polygon"},"properties":{"endDateTime":null,"numberOfOutages":1,"startDateTime":null},"type":"Feature"}
+{"geometry":{"coordinates":[[[-88.412813,34.304925],[-88.428813,34.304925],[-88.428813,34.288925],[-88.412813,34.288925],[-88.412813,34.304925]]],"type":"Polygon"},"properties":{"endDateTime":null,"numberOfOutages":1,"startDateTime":null},"type":"Feature"},
+{"geometry":{"coordinates":[[[-88.622157,34.111898],[-88.620012,34.111898],[-88.620012,34.127898],[-88.636012,34.127898],[-88.636012,34.127458],[-88.638157,34.127458],[-88.638157,34.111458],[-88.622157,34.111458],[-88.622157,34.111898]]],"type":"Polygon"},"properties":{"endDateTime":null,"numberOfOutages":2,"startDateTime":null},"type":"Feature"}
 ]}
