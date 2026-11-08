@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.656807,37.042852],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T00:17:29.353-06:00","outageName":"RC-502","outagePoint":{"lat":37.04285236504825,"lng":-88.65680692016049},"outageRecID":"2026-11-08-0034","outageStartTime":"2026-11-08T00:15:17-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-88.656817,37.042861],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T00:22:56.817-06:00","outageName":"RC-502","outagePoint":{"lat":37.04286103678296,"lng":-88.6568167697741},"outageRecID":"2026-11-08-0035","outageStartTime":"2026-11-08T00:15:17-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
