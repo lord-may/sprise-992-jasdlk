@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.278821,33.494326],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T06:30:41.403-06:00","outageName":"3304-G","outagePoint":{"lat":33.49432628019376,"lng":-79.27882120131252},"outageRecID":"2026-11-08-0083","outageStartTime":"2026-11-08T06:30:19-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.571013,33.470627],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T06:33:41.087-06:00","outageName":"3126-3F","outagePoint":{"lat":33.47062693377039,"lng":-79.5710134307748},"outageRecID":"2026-11-08-0084","outageStartTime":"2026-11-08T06:33:13-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
