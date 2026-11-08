@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.609887,38.838021],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-08T00:28:39.033-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T20:35:38.673-05:00","outageName":"2026-11-07-0172","outagePoint":{"lat":38.83802073529999,"lng":-84.60988712920627},"outageRecID":"2026-11-07-0172","outageStartTime":"2026-11-07T20:28:10-05:00","outageWorkStatus":"","streetsAffected":["SERVICE RD","SERVICE ROAD"],"verified":true},"type":"Feature"}
 ]}
