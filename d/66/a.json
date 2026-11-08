@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.221994,36.068508],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724909","nbrOut":7,"planned":false,"timeOff":1794158924019},"type":"Feature"},
+{"geometry":{"coordinates":[-85.04835,36.130661],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a squirrel. Thank you for your patience.","crewAssigned":true,"id":"1724912","nbrOut":9,"planned":false,"timeOff":1794159006164},"type":"Feature"},
+{"geometry":{"coordinates":[-84.95258,35.229279],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1724913","nbrOut":2,"planned":false,"timeOff":1794159164224},"type":"Feature"}
 ]}

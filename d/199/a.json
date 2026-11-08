@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.582134,32.554098],"type":"Point"},"properties":{"affectedCustomers":2,"boundary":"{\"geometryType\":\"esriGeometryPolygon\",\"geometry\":{\"rings\":[[[-81.581321720000005,32.553290349999997],[-81.582129170000002,32.553444579999997],[-81.582134170000003,32.554098179999997],[-81.581321720000005,32.553290349999997]]]}}","caseNumber":"20261108-C000001","cause":null,"county":"Screven","crewStatus":"Assigned","elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":true,"latitude":32.55409818,"longitude":-81.58213417,"messageToCustomers":"","otherReason":null,"phase":"C  ","region":"Screven","startedOn":"2026-11-08T12:24:19","state":"","status":"Predicted","totalImpactedCustomers":2,"weather":null},"type":"Feature"}
 ]}
