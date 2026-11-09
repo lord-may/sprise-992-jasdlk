@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.865749,35.691311],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely change a pole. Thank you for your patience.","crewAssigned":true,"id":"1725011","nbrOut":2,"planned":false,"timeOff":1794235359386},"type":"Feature"},
-{"geometry":{"coordinates":[-84.743363,35.977261],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725065","nbrOut":6,"planned":false,"timeOff":1794252513157},"type":"Feature"},
-{"geometry":{"coordinates":[-85.238496,35.894053],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a possible tree on a line. Thank you for your patience.","crewAssigned":true,"id":"1725066","nbrOut":1,"planned":false,"timeOff":1794255378220},"type":"Feature"}
+{"geometry":{"coordinates":[-85.238496,35.894053],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a possible tree on a line. Thank you for your patience.","crewAssigned":true,"id":"1725066","nbrOut":1,"planned":false,"timeOff":1794255378220},"type":"Feature"},
+{"geometry":{"coordinates":[-84.818022,35.285497],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725068","nbrOut":1,"planned":false,"timeOff":1794257411471},"type":"Feature"},
+{"geometry":{"coordinates":[-84.888782,36.023511],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725069","nbrOut":1,"planned":false,"timeOff":1794257413847},"type":"Feature"},
+{"geometry":{"coordinates":[-84.889285,36.021252],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725071","nbrOut":2,"planned":false,"timeOff":1794257448017},"type":"Feature"},
+{"geometry":{"coordinates":[-84.890183,36.020613],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725072","nbrOut":1,"planned":false,"timeOff":1794257432084},"type":"Feature"}
 ]}
