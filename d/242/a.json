@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.038264,33.650394],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T16:33:12.61-05:00","outageName":"51FF-22","outagePoint":{"lat":33.650393794249936,"lng":-79.03826449961406},"outageRecID":"2026-11-09-0142","outageStartTime":"2026-11-09T16:33:03-05:00","outageWorkStatus":"","streetsAffected":["TRACE RUN LTA26","TRACE RUN LTA27","TRACE RUN LTA28"],"verified":false},"type":"Feature"}
 ]}
