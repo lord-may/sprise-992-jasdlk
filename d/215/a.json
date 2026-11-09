@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.456657,31.140744],"type":"Point"},"properties":{"cause":"Requested by Crew","code":"115","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-09T07:19:53.93-06:00","outageName":"","outagePoint":{"lat":31.1407440401869,"lng":-85.45665735401084},"outageRecID":"2026-11-09-0215","outageStartTime":"2026-11-09T07:18:04-06:00","outageWorkStatus":"","streetsAffected":["S COUNTY ROAD 59","S STATE HIGHWAY 605-WHS"],"verified":true},"type":"Feature"}
 ]}
