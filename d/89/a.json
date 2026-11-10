@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.458077,30.391033],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-10T15:57:32.723-06:00","outageName":"T6733","outagePoint":{"lat":30.39103261590435,"lng":-87.45807680394424},"outageRecID":"2026-11-10-0161","outageStartTime":"2026-11-10T15:45:08-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
