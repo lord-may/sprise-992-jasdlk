@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.069254,35.206095],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1725085","nbrOut":1,"planned":false,"timeOff":1794317577472},"type":"Feature"},
-{"geometry":{"coordinates":[-85.049149,35.942454],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725086","nbrOut":1,"planned":false,"timeOff":1794317791289},"type":"Feature"}
+{"geometry":{"coordinates":[-85.049149,35.942454],"type":"Point"},"properties":{"comment":"A crew is assigned and will be checking the reported line down.","crewAssigned":true,"id":"1725086","nbrOut":1,"planned":false,"timeOff":1794317791289},"type":"Feature"}
 ]}
