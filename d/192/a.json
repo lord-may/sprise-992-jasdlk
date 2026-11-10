@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.502445,30.853504],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T16:59:00.59-06:00","outageName":"C3G-12-2","outagePoint":{"lat":30.853504169519177,"lng":-85.50244524608284},"outageRecID":"2026-11-10-0294","outageStartTime":"2026-11-10T16:51:00-06:00","outageWorkStatus":"","streetsAffected":["HWY 273"],"verified":false},"type":"Feature"}
 ]}
