@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-86.305426,34.724943],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-10T15:28:00","oldest_status_change_time":"2026-11-10T15:28:00","public_point_id":"206787e4575ae6a80577a336c63d625d","substation":"LIMROCK"},"type":"Feature"},
 {"geometry":{"coordinates":[-86.228486,34.527329],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-10T14:56:00","oldest_status_change_time":"2026-11-10T14:56:00","public_point_id":"29e58912a75be1b1eab4b19dd8ceda06","substation":"COLUMBUS CITY"},"type":"Feature"},
 {"geometry":{"coordinates":[-86.252068,34.547248],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-10T14:23:00","oldest_status_change_time":"2026-11-10T14:23:00","public_point_id":"8e3695dae2bfe91ba3f677b66cfc98d7","substation":"COLUMBUS CITY"},"type":"Feature"}
 ]}
