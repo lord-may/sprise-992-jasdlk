@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.933879,38.745243],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-10T07:18:41.557-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T03:18:41.637-05:00","outageName":"2026-11-10-0212","outagePoint":{"lat":38.74524324865637,"lng":-84.93387884100375},"outageRecID":"2026-11-10-0212","outageStartTime":"2026-11-10T03:12:59-05:00","outageWorkStatus":"","streetsAffected":["HWY 1130"],"verified":false},"type":"Feature"}
 ]}
