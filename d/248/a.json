@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.243308,34.409942],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-11T08:47:03.267-05:00","outageName":"2026-11-11-0404","outagePoint":{"lat":34.40994152077068,"lng":-84.2433079152619},"outageRecID":"2026-11-11-0404","outageStartTime":"2026-11-11T08:46:21-05:00","outageWorkStatus":"","streetsAffected":["HOLCOMB RD 587"],"verified":true},"type":"Feature"}
 ]}
