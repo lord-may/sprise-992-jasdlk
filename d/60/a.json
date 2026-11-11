@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.656828,36.975419],"type":"Point"},"properties":{"id":"266032","nbrOut":1,"planned":true,"timeOff":1794401574035},"type":"Feature"},
-{"geometry":{"coordinates":[-84.657295,36.975361],"type":"Point"},"properties":{"id":"266033","nbrOut":1,"planned":true,"timeOff":1794401584024},"type":"Feature"},
-{"geometry":{"coordinates":[-84.65761,36.975698],"type":"Point"},"properties":{"id":"266034","nbrOut":2,"planned":true,"timeOff":1794401596344},"type":"Feature"},
 {"geometry":{"coordinates":[-84.626914,36.974622],"type":"Point"},"properties":{"id":"266036","nbrOut":2,"planned":true,"timeOff":1794405570490},"type":"Feature"},
 {"geometry":{"coordinates":[-84.689132,36.756348],"type":"Point"},"properties":{"id":"266039","nbrOut":2,"planned":true,"timeOff":1794406636543},"type":"Feature"},
 {"geometry":{"coordinates":[-84.688143,36.756852],"type":"Point"},"properties":{"id":"266040","nbrOut":1,"planned":true,"timeOff":1794406649484},"type":"Feature"},
@@ -9,5 +6,6 @@
 {"geometry":{"coordinates":[-84.602489,36.943225],"type":"Point"},"properties":{"id":"266042","nbrOut":32,"planned":true,"timeOff":1794408488178},"type":"Feature"},
 {"geometry":{"coordinates":[-84.654448,37.137558],"type":"Point"},"properties":{"id":"266054","nbrOut":1,"planned":true,"timeOff":1794417255928},"type":"Feature"},
 {"geometry":{"coordinates":[-84.649821,37.183426],"type":"Point"},"properties":{"id":"266055","nbrOut":39,"planned":true,"timeOff":1794420459320},"type":"Feature"},
-{"geometry":{"coordinates":[-84.718318,37.215619],"type":"Point"},"properties":{"id":"266056","nbrOut":1,"planned":true,"timeOff":1794420802126},"type":"Feature"}
+{"geometry":{"coordinates":[-84.718318,37.215619],"type":"Point"},"properties":{"id":"266056","nbrOut":1,"planned":true,"timeOff":1794420802126},"type":"Feature"},
+{"geometry":{"coordinates":[-84.658571,36.975117],"type":"Point"},"properties":{"id":"266057","nbrOut":1,"planned":true,"timeOff":1794424374293},"type":"Feature"}
 ]}
