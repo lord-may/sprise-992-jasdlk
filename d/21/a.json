@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.8825,35.21466],"type":"Point"},"properties":{"CUR_CUST_AFF":4,"EST_REPAIR_TIME":"11/11/2026 03:00:00 AM","IMPACT":"Half a Block","OUTAGE_NO":1542503,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"11/11/2026 12:07:47 AM"},"type":"Feature"}
+{"geometry":{"coordinates":[-89.8825,35.21466],"type":"Point"},"properties":{"CUR_CUST_AFF":4,"EST_REPAIR_TIME":"11/11/2026 03:00:00 AM","IMPACT":"Half a Block","OUTAGE_NO":1542503,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"11/11/2026 12:07:47 AM"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.82286,35.18895],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1542504,"OUT_CAUSE":" ","STATUS":"Waiting to be analyzed","TIME_STAMP":"11/11/2026 01:23:33 AM"},"type":"Feature"}
 ]}
