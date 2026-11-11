@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.403504,36.796555],"type":"Point"},"properties":{"cause":"700 Customer-caused","code":"700","crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T12:30:39.097-06:00","outageName":"10017","outagePoint":{"lat":36.79655536362055,"lng":-85.40350426481879},"outageRecID":"2026-11-11-0178","outageStartTime":"2026-11-11T12:22:17-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
