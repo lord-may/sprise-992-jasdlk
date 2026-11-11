@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.594976,28.035426],"type":"Point"},"properties":{"_source":{"customerCount":8,"estimatedTimeOfRestoration":"2026-11-11T02:17:00","incidentId":"A202631405022","polygonCenter":[-82.59497568557995,28.035425860444754],"reason":"Damage to Tampa Electric equipment","status":"Additional support enroute","updateTime":"2026-11-11T02:20:08"}},"type":"Feature"}
+{"geometry":{"coordinates":[-81.821329,28.25819],"type":"Point"},"properties":{"_source":{"customerCount":1628,"estimatedTimeOfRestoration":"2026-11-11T06:20:00","incidentId":"A202631500650","polygonCenter":[-81.82132878160272,28.25819036854886],"reason":"Under investigation","status":"We're working onsite","updateTime":"2026-11-11T02:35:08"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.594976,28.035426],"type":"Point"},"properties":{"_source":{"customerCount":8,"estimatedTimeOfRestoration":"2026-11-11T05:25:00","incidentId":"A202631405022","polygonCenter":[-82.59497568557995,28.035425860444754],"reason":"Damage to Tampa Electric equipment","status":"Additional support enroute","updateTime":"2026-11-11T02:35:08"}},"type":"Feature"}
 ]}
