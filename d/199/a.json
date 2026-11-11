@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-81.798011,33.162631],"type":"Point"},"properties":{"affectedCustomers":1,"boundary":"","caseNumber":"20261111-C000001","cause":null,"county":"Burke","crewStatus":"Assigned","elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":true,"latitude":33.16263083,"longitude":-81.79801135,"messageToCustomers":"","otherReason":null,"phase":"B  ","region":"Burke","startedOn":"2026-11-11T07:17:59","state":"","status":"Confirmed","totalImpactedCustomers":1,"weather":null},"type":"Feature"},
-{"geometry":{"coordinates":[-81.650454,32.935152],"type":"Point"},"properties":{"affectedCustomers":1,"boundary":"","caseNumber":"20261111-C000004","cause":null,"county":"Screven","crewStatus":null,"elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":null,"latitude":32.93515196,"longitude":-81.65045365,"messageToCustomers":"","otherReason":null,"phase":"A  ","region":"Screven","startedOn":"2026-11-11T10:02:09","state":"","status":"Predicted","totalImpactedCustomers":1,"weather":null},"type":"Feature"}
+
 ]}

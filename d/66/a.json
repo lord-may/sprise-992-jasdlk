@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-84.866854,35.699475],"type":"Point"},"properties":{"comment":"A crew is assigned and working to investigate a possible voltage issue. Thank you for your patience.","crewAssigned":true,"id":"1725223","nbrOut":1,"planned":false,"timeOff":1794407522082},"type":"Feature"},
 {"geometry":{"coordinates":[-85.005967,35.964946],"type":"Point"},"properties":{"crewAssigned":true,"id":"1725224","nbrOut":2,"planned":false,"timeOff":1794408179653},"type":"Feature"},
 {"geometry":{"coordinates":[-84.774993,35.531884],"type":"Point"},"properties":{"crewAssigned":true,"id":"1725227","nbrOut":2,"planned":false,"timeOff":1794409678810},"type":"Feature"},
-{"geometry":{"coordinates":[-84.778792,35.430512],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725228","nbrOut":1,"planned":false,"timeOff":1794410375128},"type":"Feature"}
+{"geometry":{"coordinates":[-84.778792,35.430512],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725228","nbrOut":1,"planned":false,"timeOff":1794410375128},"type":"Feature"},
+{"geometry":{"coordinates":[-84.796516,35.335608],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely change out some transformers. Thank you for your patience.","crewAssigned":true,"id":"1725229","nbrOut":8,"planned":false,"timeOff":1794411268962},"type":"Feature"}
 ]}
