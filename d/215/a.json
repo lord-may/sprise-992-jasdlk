@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.122257,31.079452],"type":"Point"},"properties":{"cause":"Requested by Crew","code":"115","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-11T08:53:14.137-06:00","outageName":"","outagePoint":{"lat":31.079451999940126,"lng":-85.12225683302869},"outageRecID":"2026-11-11-0242","outageStartTime":"2026-11-11T08:44:28-06:00","outageWorkStatus":"","streetsAffected":["SUMLAR FARM ROAD"],"verified":true},"type":"Feature"}
 ]}
