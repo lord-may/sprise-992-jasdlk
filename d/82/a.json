@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.578178,30.794047],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T14:56:23-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T12:57:47.46-06:00","outageName":"T10622070","outagePoint":{"lat":30.794047013130644,"lng":-86.57817757180385},"outageRecID":"2026-11-11-0443","outageStartTime":"2026-11-11T12:56:23-06:00","outageWorkStatus":"","streetsAffected":["Victoria Pl","Victoria Place"],"verified":false},"type":"Feature"}
 ]}
