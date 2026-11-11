@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.227517,34.943538],"type":"Point"},"properties":{"CaseNumber":"20261111-C000006","ElementName":"T-695042","EstimatedRestoreTime":"2026-11-11 12:51:04.4595505 -05:00","MeterKey":"14062","OBJECTID":278708,"OmsID":"Predicted_14062","OutageTime":1794394264000,"Status":"Reported","TimeClosed":null},"type":"Feature"},
+{"geometry":{"coordinates":[-82.227501,34.943295],"type":"Point"},"properties":{"CaseNumber":"20261111-C000006","ElementName":"T-695042","EstimatedRestoreTime":"2026-11-11 12:51:04.4595505 -05:00","MeterKey":"ECU3465","OBJECTID":278709,"OmsID":"Predicted_ECU3465","OutageTime":1794394357000,"Status":"Reported","TimeClosed":null},"type":"Feature"}
 ]}
