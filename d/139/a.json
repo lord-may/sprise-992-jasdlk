@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-82.70478,36.14097],[-82.702346,36.142631],[-82.701331,36.143741],[-82.702543,36.145736],[-82.70478,36.14097]]],"type":"Polygon"},{"coordinates":[-82.702876,36.143386],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"617183","nbrOut":5,"planned":false,"timeOff":1794507095542},"type":"Feature"},
-{"geometry":{"coordinates":[-82.706747,36.18703],"type":"Point"},"properties":{"id":"617184","nbrOut":1,"planned":false,"timeOff":1794508785554},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-82.70478,36.14097],[-82.702346,36.142631],[-82.701331,36.143741],[-82.702543,36.145736],[-82.70478,36.14097]]],"type":"Polygon"},{"coordinates":[-82.702876,36.143386],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees","id":"617183","nbrOut":5,"planned":false,"timeOff":1794507095542},"type":"Feature"},
+{"geometry":{"coordinates":[-82.706747,36.18703],"type":"Point"},"properties":{"cause":"Maintenance-Planned","id":"617184","nbrOut":1,"planned":false,"timeOff":1794508785554},"type":"Feature"}
 ]}
