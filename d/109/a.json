@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.4307,29.68736],"type":"Point"},"properties":{"etrTime":1794501500000,"id":2248520,"identifier":"6af5cf5c7ae9530eb21927cd","lastUpdatedTime":1794494703000,"latitude":29.68736,"longitude":-82.4307,"numPeople":5,"startTime":1794494300000,"status":"Unassigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-82.38814,29.69769],"type":"Point"},"properties":{"etrTime":1794501707000,"id":2248521,"identifier":"6af5d02b7ae9530eb21927f1","lastUpdatedTime":1794494703000,"latitude":29.69769,"longitude":-82.38814,"numPeople":8,"startTime":1794494507000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
