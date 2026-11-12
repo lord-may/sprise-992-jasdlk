@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.849479,39.063902],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-12T00:42:54.133-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T20:48:48.113-05:00","outageName":"2026-11-11-0242","outagePoint":{"lat":39.063902307059834,"lng":-84.84947891955468},"outageRecID":"2026-11-11-0242","outageStartTime":"2026-11-11T20:36:25-05:00","outageWorkStatus":"","streetsAffected":["PETERSBURG RD"],"verified":false},"type":"Feature"}
 ]}
