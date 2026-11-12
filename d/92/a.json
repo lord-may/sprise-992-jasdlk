@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.930807,34.88899],"type":"Point"},"properties":{"cause":"Construction or Maintenance","code":"100","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-12T10:54:30-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-12T10:35:10.613-05:00","outageName":"3-GREENFLD HGHTS","outagePoint":{"lat":34.88899012183738,"lng":-76.93080743223254},"outageRecID":"2026-11-12-0172","outageStartTime":"2026-11-12T10:32:18-05:00","outageWorkStatus":"Crew On Site","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
