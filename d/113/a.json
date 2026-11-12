@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.584063,33.678441],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T06:25:58.487-06:00","outageName":"1756-W","outagePoint":{"lat":33.67844122171422,"lng":-79.58406346518527},"outageRecID":"2026-11-12-0164","outageStartTime":"2026-11-12T06:25:27-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-80.186982,33.527825],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T06:35:52.137-06:00","outageName":"2179-2R","outagePoint":{"lat":33.52782451129961,"lng":-80.18698237110576},"outageRecID":"2026-11-12-0165","outageStartTime":"2026-11-12T06:33:00-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
