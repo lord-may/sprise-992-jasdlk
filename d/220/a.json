@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-85.697438,34.927846],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-12T19:41:00","oldest_status_change_time":"2026-11-12T19:41:00","public_point_id":"08c7c72b8f4a245691609962c035a46f","substation":"BRIDGEPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-86.148668,34.685816],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-12T19:13:00","oldest_status_change_time":"2026-11-12T19:13:00","public_point_id":"4b74e8504321e8783ccc90418f31f3d3","substation":"LIMROCK"},"type":"Feature"},
-{"geometry":{"coordinates":[-85.993861,34.857147],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-12T18:34:00","oldest_status_change_time":"2026-11-12T18:34:00","public_point_id":"a19dab9b62b176ef57cd1027504c8c56","substation":"HOLLYWOOD"},"type":"Feature"},
-{"geometry":{"coordinates":[-85.992414,34.857199],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-12T18:33:00","oldest_status_change_time":"2026-11-12T18:33:00","public_point_id":"c544ac8022afcc3858d39ff86607b4cd","substation":"HOLLYWOOD"},"type":"Feature"},
 {"geometry":{"coordinates":[-86.148668,34.685671],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-12T19:13:00","oldest_status_change_time":"2026-11-12T19:13:00","public_point_id":"c8f8f2ee99be67e56faae2a61ca85992","substation":"LIMROCK"},"type":"Feature"}
 ]}
