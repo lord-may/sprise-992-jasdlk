@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-78.8401,33.72772],[-78.84057,33.72816],[-78.84078,33.72772],[-78.8401,33.72772]]],"type":"Polygon"},{"coordinates":[-78.84048,33.72787],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Scheduled Interruption","orig":"PlannedInterrupt"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"On Site","orig":"Arrived"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-12T17:45:40Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-12T15:45:40Z","title":"Area Outage"},"type":"Feature"}
 ]}
