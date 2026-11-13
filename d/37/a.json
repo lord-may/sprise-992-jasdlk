@@ -1,9 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-80.111191,36.260665],"type":"Point"},"properties":{"estimateTime":1794600000000,"id":"453383","lifeCycleStatus":"Crew On Site","nbrOut":1,"planned":true,"timeOff":1794578867657},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-81.334175,35.847093],[-81.335271,35.847683],[-81.335352,35.847166],[-81.334175,35.847093]]],"type":"Polygon"},{"coordinates":[-81.33493,35.847312],"type":"Point"}],"type":"GeometryCollection"},"properties":{"estimateTime":1794608100000,"id":"453404","lifeCycleStatus":"Crew On Site","nbrOut":4,"planned":true,"timeOff":1794594989000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.489499,35.889519],"type":"Point"},"properties":{"estimateTime":1794608100000,"id":"453407","lifeCycleStatus":"Crew Enroute","nbrOut":2,"planned":false,"timeOff":1794595309000},"type":"Feature"},
-{"geometry":{"coordinates":[-80.489175,35.890065],"type":"Point"},"properties":{"estimateTime":1794609000000,"id":"453408","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1794595639458},"type":"Feature"},
-{"geometry":{"coordinates":[-80.488142,35.889788],"type":"Point"},"properties":{"estimateTime":1794609900000,"id":"453410","nbrOut":1,"planned":false,"timeOff":1794596813995},"type":"Feature"},
-{"geometry":{"coordinates":[-80.486938,35.889213],"type":"Point"},"properties":{"estimateTime":1794609900000,"id":"453411","nbrOut":1,"planned":false,"timeOff":1794596891539},"type":"Feature"},
-{"geometry":{"coordinates":[-79.833207,36.43117],"type":"Point"},"properties":{"estimateTime":1794609900000,"id":"453413","nbrOut":2,"planned":false,"timeOff":1794596838000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-80.486938,35.889213],[-80.485411,35.894206],[-80.489175,35.890065],[-80.489481,35.889366],[-80.486938,35.889213]]],"type":"Polygon"},{"coordinates":[-80.487352,35.890953],"type":"Point"}],"type":"GeometryCollection"},"properties":{"estimateTime":1794609900000,"id":"453407","lifeCycleStatus":"Crew Enroute","nbrOut":7,"planned":false,"timeOff":1794595309000},"type":"Feature"}
 ]}
