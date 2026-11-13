@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-83.666817,33.799069],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"2","formatted_ert":null,"incident_id":"C1207391","lat":"33.79906932975228","lon":"-83.66681717881002","opt_code":null,"start_date":"11/12 09:56 pm","substation":"1"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.666817,33.799069],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"2","formatted_ert":null,"incident_id":"C1207391","lat":"33.79906932975228","lon":"-83.66681717881002","opt_code":"Equipment - Material/Equipment Failure","start_date":"11/12 09:56 pm","substation":"1"},"type":"Feature"},
 {"geometry":{"coordinates":[-83.462083,33.685455],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"3","formatted_ert":null,"incident_id":"C1207392","lat":"33.68545515722811","lon":"-83.46208286540137","opt_code":null,"start_date":"11/12 10:17 pm","substation":"4"},"type":"Feature"}
 ]}
