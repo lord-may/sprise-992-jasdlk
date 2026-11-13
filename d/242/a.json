@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.914878,34.009258],"type":"Point"},"properties":{"cause":"Construction Planned Outage","code":"100","crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T09:30:32-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-13T07:34:40.49-05:00","outageName":"21G-8","outagePoint":{"lat":34.009257752984645,"lng":-78.91487751944643},"outageRecID":"2026-11-13-0241","outageStartTime":"2026-11-13T07:33:23-05:00","outageWorkStatus":"","streetsAffected":["TANSY DR SHED","TANSY RD MAIN"],"verified":true},"type":"Feature"}
 ]}
