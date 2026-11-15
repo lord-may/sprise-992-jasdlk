@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.728428,34.598713],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Dalton, Joey","CaseNumber":"261115-P0020","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-37672","EndTime":"/Date(-62135575200000)/","OutageTime":"11/15/2026 4:11:00 PM","PoleNumber":"37672","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.72842771443456,"Y":34.59871255975248,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.728449,34.599889],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Dalton, Joey","CaseNumber":"261115-P0023","CaseStatus":"Predicted","Cause":"","CutomersAffected":34,"ElementName":"FUS-E91858","EndTime":"/Date(-62135575200000)/","OutageTime":"11/15/2026 3:15:04 PM","PoleNumber":"E91858","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.72844921924309,"Y":34.59988948810407,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
