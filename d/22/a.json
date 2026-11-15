@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.146675,35.037226],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.037226,"longitude":-85.146675},"type":"Feature"},
-{"geometry":{"coordinates":[-85.29572,35.115243],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":5,"incident_status":"EN_ROUTE","latitude":35.115243,"longitude":-85.29572},"type":"Feature"},
-{"geometry":{"coordinates":[-85.300085,35.116513],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.116513,"longitude":-85.300085},"type":"Feature"},
-{"geometry":{"coordinates":[-85.283379,35.123706],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.123706,"longitude":-85.283379},"type":"Feature"},
-{"geometry":{"coordinates":[-85.211015,35.224558],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":16,"incident_status":"EN_ROUTE","latitude":35.224558,"longitude":-85.211015},"type":"Feature"}
+{"geometry":{"coordinates":[-85.141475,35.031626],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.031626,"longitude":-85.141475},"type":"Feature"},
+{"geometry":{"coordinates":[-85.26488,35.048554],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.048554,"longitude":-85.26488},"type":"Feature"},
+{"geometry":{"coordinates":[-85.29362,35.113443],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":5,"incident_status":"EN_ROUTE","latitude":35.113443,"longitude":-85.29362},"type":"Feature"},
+{"geometry":{"coordinates":[-85.302285,35.117813],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.117813,"longitude":-85.302285},"type":"Feature"},
+{"geometry":{"coordinates":[-85.281379,35.123606],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":35.123606,"longitude":-85.281379},"type":"Feature"}
 ]}
