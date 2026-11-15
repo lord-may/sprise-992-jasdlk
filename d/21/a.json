@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.92472,35.15944],"type":"Point"},"properties":{"CUR_CUST_AFF":7,"EST_REPAIR_TIME":"11/14/2026 08:30:00 PM","IMPACT":"One Block","OUTAGE_NO":1543022,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"11/14/2026 02:14:55 PM"},"type":"Feature"},
 {"geometry":{"coordinates":[-90.04202,35.01905],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1543037,"OUT_CAUSE":" ","STATUS":"Customer Svc is working this single customer outage","TIME_STAMP":"11/14/2026 06:07:52 PM"},"type":"Feature"},
-{"geometry":{"coordinates":[-89.83532,35.03814],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1543041,"OUT_CAUSE":" ","STATUS":"Customer Svc is working this single customer outage","TIME_STAMP":"11/14/2026 06:38:07 PM"},"type":"Feature"}
+{"geometry":{"coordinates":[-89.83532,35.03814],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1543041,"OUT_CAUSE":" ","STATUS":"Customer Svc is working this single customer outage","TIME_STAMP":"11/14/2026 06:38:07 PM"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.94498,35.1177],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"","IMPACT":"Single Customer","OUTAGE_NO":1543042,"OUT_CAUSE":" ","STATUS":"The extent of the outage has been determined","TIME_STAMP":"11/14/2026 07:06:22 PM"},"type":"Feature"}
 ]}
