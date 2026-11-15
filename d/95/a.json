@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-81.90876,28.01996],[-81.90859,28.01998],[-81.90857,28.02019],[-81.90851,28.02174],[-81.90876,28.02176],[-81.90889,28.02163],[-81.9089,28.02006],[-81.90876,28.01996]]],"type":"Polygon"},{"coordinates":[-81.90872,28.02088],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"OH TRANSFORMER","ES-ES":"OH TRANSFORMADOR","orig":"OH TRANSFORMER"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"val":20},"etr":"2026-11-16T02:22:38Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-15T21:06:27Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-81.89604,27.97566],"type":"Point"},"properties":{"cause":{},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-16T00:31:54Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-15T22:01:51.427Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
