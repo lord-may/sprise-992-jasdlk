@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.470818,36.360033],"type":"Point"},"properties":{"affectedCustomers":25,"boundary":null,"caseNumber":"20261116-C000001","cause":null,"county":"Gallatin","crewStatus":null,"elementType":"FUSE","etor":null,"failure":null,"isCrewAssigned":null,"latitude":36.36003338,"longitude":-86.4708181,"messageToCustomers":"","otherReason":null,"phase":"B  ","region":"SW","startedOn":"2026-11-16T12:29:20","state":"","status":"Predicted","totalImpactedCustomers":25,"weather":null},"type":"Feature"},
+{"geometry":{"coordinates":[-86.47073,36.360075],"type":"Point"},"properties":{"affectedCustomers":2,"boundary":null,"caseNumber":"20261116-C000004","cause":null,"county":"Gallatin","crewStatus":null,"elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":null,"latitude":36.36007548,"longitude":-86.4707305,"messageToCustomers":"","otherReason":null,"phase":"B  ","region":"SW","startedOn":"2026-11-16T12:29:25","state":"","status":"Predicted","totalImpactedCustomers":2,"weather":null},"type":"Feature"}
 ]}
