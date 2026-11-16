@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.379665,31.648039],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Jeff Lamb","CaseNumber":"261116-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"TF-13103","EndTime":"/Date(-62135578800000)/","OutageTime":"11/16/2026 8:05:00 AM","PoleNumber":"T47909907501","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-83.3796651118517,"Y":31.6480386832482,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.379941,31.649261],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261116-X0001","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":2,"ElementName":"","EndTime":"/Date(-62135578800000)/","OutageTime":"11/16/2026 8:00:00 AM","PoleNumber":"T47909902401","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-83.37994082786334,"Y":31.64926096733227,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
