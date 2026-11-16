@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.484307,36.290785],"type":"Point"},"properties":{"cause":"Cut Loose Planned ","estimateTime":1794842434000,"id":"1381561","nbrOut":1,"planned":false,"timeOff":1794834272000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.484307,36.290785],"type":"Point"},"properties":{"cause":"Cut Loose Planned ","estimateTime":1794842434000,"id":"1381561","nbrOut":1,"planned":false,"timeOff":1794834272000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.370041,36.363808],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1794843663000,"id":"1381564","nbrOut":4,"planned":false,"timeOff":1794835522000},"type":"Feature"}
 ]}
