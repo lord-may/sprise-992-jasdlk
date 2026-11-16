@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-81.94207,28.01313],[-81.94201,28.01368],[-81.94217,28.01865],[-81.94267,28.01732],[-81.94264,28.01457],[-81.94262,28.01344],[-81.9424,28.01316],[-81.94207,28.01313]]],"type":"Polygon"},{"coordinates":[-81.94235,28.01556],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"OH TRANSFORMER","ES-ES":"OH TRANSFORMADOR","orig":"OH TRANSFORMER"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"val":30},"etr":"2026-11-16T17:00:14Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-16T12:44:01Z","title":"Area Outage"},"type":"Feature"}
 ]}
