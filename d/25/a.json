@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.676959,28.844695],"type":"Point"},"properties":{"id":"2016029","nbrOut":2,"planned":false,"timeOff":1794939092592},"type":"Feature"},
 {"geometry":{"coordinates":[-82.711544,28.346175],"type":"Point"},"properties":{"id":"2016042","nbrOut":1,"planned":false,"timeOff":1794944130906},"type":"Feature"},
 {"geometry":{"coordinates":[-82.350359,28.690537],"type":"Point"},"properties":{"id":"2016043","nbrOut":1,"planned":false,"timeOff":1794944312603},"type":"Feature"},
 {"geometry":{"coordinates":[-82.550845,28.764357],"type":"Point"},"properties":{"id":"2016047","nbrOut":1,"planned":false,"timeOff":1794945387656},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-82.497889,28.515757],[-82.496766,28.516602],[-82.497772,28.516744],[-82.497889,28.515757]]],"type":"Polygon"},{"coordinates":[-82.497476,28.516365],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"2016049","nbrOut":3,"planned":false,"timeOff":1794945407530},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-82.701977,28.345621],[-82.701277,28.345692],[-82.704016,28.34872],[-82.704448,28.34872],[-82.711544,28.346032],[-82.711194,28.345629],[-82.709038,28.345621],[-82.701977,28.345621]]],"type":"Polygon"},{"coordinates":[-82.705903,28.346704],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"2016051","nbrOut":91,"planned":false,"timeOff":1794945260630},"type":"Feature"},
-{"geometry":{"coordinates":[-82.39735,28.197445],"type":"Point"},"properties":{"id":"2016052","nbrOut":1,"planned":false,"timeOff":1794945891434},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-82.701977,28.345621],[-82.701277,28.345692],[-82.704016,28.34872],[-82.704448,28.34872],[-82.711544,28.346032],[-82.711194,28.345629],[-82.709038,28.345621],[-82.701977,28.345621]]],"type":"Polygon"},{"coordinates":[-82.705903,28.346704],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"2016051","nbrOut":91,"planned":false,"timeOff":1794943100000},"type":"Feature"}
 ]}
