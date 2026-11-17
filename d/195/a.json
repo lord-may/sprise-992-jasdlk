@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.058914,26.631588],"type":"Point"},"properties":{"cause":"Material or equipment fault/failure","code":"300","crewAssigned":false,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-17T14:29:49.287-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T11:36:09.633-05:00","outageName":"TF-75-A 1303 CENTRAL TER","outagePoint":{"lat":26.631588118597215,"lng":-80.05891387288543},"outageRecID":"2026-11-17-0169","outageStartTime":"2026-11-17T11:27:47-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":["13TH AVE N","CENTRAL TER","CENTRAL TER 1/2"],"verified":true},"type":"Feature"}
 ]}
