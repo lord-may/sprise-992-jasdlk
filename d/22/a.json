@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.296811,35.115404],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"EN_ROUTE","latitude":35.115404,"longitude":-85.296811},"type":"Feature"}
+{"geometry":{"coordinates":[-85.288934,34.980573],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":34.980573,"longitude":-85.288934},"type":"Feature"},
+{"geometry":{"coordinates":[-85.293811,35.116204],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.116204,"longitude":-85.293811},"type":"Feature"}
 ]}
