@@ -11,6 +11,8 @@
 {"geometry":{"geometries":[{"coordinates":[[[-86.355533,35.791005],[-86.355138,35.791049],[-86.355893,35.791093],[-86.355902,35.791078],[-86.355533,35.791005]]],"type":"Polygon"},{"coordinates":[-86.355542,35.791049],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"estimateTime":1794940200000,"id":"868332","nbrOut":4,"planned":true,"timeOff":1794934283000},"type":"Feature"},
 {"geometry":{"coordinates":[-86.35653,35.791289],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794940200000,"id":"868334","nbrOut":1,"planned":true,"timeOff":1794934753000},"type":"Feature"},
 {"geometry":{"coordinates":[-86.73058,35.995208],"type":"Point"},"properties":{"crewAssigned":true,"id":"868346","nbrOut":1,"planned":true,"timeOff":1794936874000},"type":"Feature"},
-{"geometry":{"coordinates":[-86.402479,35.915664],"type":"Point"},"properties":{"crewAssigned":false,"id":"868347","nbrOut":1,"planned":false,"timeOff":1794938724878},"type":"Feature"},
-{"geometry":{"coordinates":[-86.426545,35.785642],"type":"Point"},"properties":{"crewAssigned":false,"id":"868348","nbrOut":1,"planned":false,"timeOff":1794938752465},"type":"Feature"}
+{"geometry":{"coordinates":[-86.426545,35.785642],"type":"Point"},"properties":{"crewAssigned":true,"id":"868348","nbrOut":1,"planned":false,"timeOff":1794938752465},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-86.435214,36.137118],[-86.435079,36.137183],[-86.434127,36.138866],[-86.434199,36.139896],[-86.43587,36.139766],[-86.435214,36.137118]]],"type":"Polygon"},{"coordinates":[-86.434962,36.13883],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"868353","nbrOut":6,"planned":false,"timeOff":1794938984000},"type":"Feature"},
+{"geometry":{"coordinates":[-86.922074,35.771314],"type":"Point"},"properties":{"crewAssigned":false,"id":"868355","nbrOut":1,"planned":false,"timeOff":1794939340527},"type":"Feature"},
+{"geometry":{"coordinates":[-86.599228,35.991145],"type":"Point"},"properties":{"crewAssigned":false,"id":"868356","nbrOut":1,"planned":false,"timeOff":1794939591000},"type":"Feature"}
 ]}
