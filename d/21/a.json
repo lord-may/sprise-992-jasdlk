@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.9255,35.2404],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"11/18/2026 07:30:00 AM","IMPACT":"Single Customer","OUTAGE_NO":1543418,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"11/17/2026 09:29:35 PM"},"type":"Feature"},
 {"geometry":{"coordinates":[-89.95789,35.08591],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"11/18/2026 10:30:00 AM","IMPACT":"Single Customer","OUTAGE_NO":1543422,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"11/17/2026 11:19:35 PM"},"type":"Feature"},
-{"geometry":{"coordinates":[-89.96787,35.13344],"type":"Point"},"properties":{"CUR_CUST_AFF":8,"EST_REPAIR_TIME":"","IMPACT":"One Block","OUTAGE_NO":1543473,"OUT_CAUSE":" ","STATUS":"Waiting to be analyzed","TIME_STAMP":"11/18/2026 01:01:16 AM"},"type":"Feature"},
 {"geometry":{"coordinates":[-89.95674,35.08574],"type":"Point"},"properties":{"CUR_CUST_AFF":1,"EST_REPAIR_TIME":"11/18/2026 10:30:00 AM","IMPACT":"Single Customer","OUTAGE_NO":1543483,"OUT_CAUSE":" ","STATUS":"A crew is currently working on the problem","TIME_STAMP":"11/18/2026 04:27:19 AM"},"type":"Feature"},
 {"geometry":{"coordinates":[-89.96152,35.13442],"type":"Point"},"properties":{"CUR_CUST_AFF":29,"EST_REPAIR_TIME":"","IMPACT":"A Few Blocks","OUTAGE_NO":1543484,"OUT_CAUSE":" ","STATUS":"Trouble Shooter is determining repairs required","TIME_STAMP":"11/18/2026 04:28:59 AM"},"type":"Feature"}
 ]}
