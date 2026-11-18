@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.23796,28.20388],"type":"Point"},"properties":{"cause":{"orig":""},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Dispatched","ES-ES":"Enviadas","es-US":"Enviados","orig":"D"},"cust_a":{"val":6},"etr":"2026-11-18T10:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-18T03:55:55Z","title":"Area Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-81.33725,28.52098],"type":"Point"},"properties":{"cause":{"orig":""},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Dispatched","ES-ES":"Enviadas","es-US":"Enviados","orig":"A"},"cust_a":{"val":12},"etr":"2026-11-18T09:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-18T04:07:36Z","title":"Area Outage"},"type":"Feature"}
 ]}
