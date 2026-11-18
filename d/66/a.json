@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.071095,36.529612],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725736","nbrOut":1,"planned":false,"timeOff":1795024764786},"type":"Feature"},
-{"geometry":{"coordinates":[-85.071553,36.532607],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725737","nbrOut":1,"planned":false,"timeOff":1795025976144},"type":"Feature"}
+{"geometry":{"coordinates":[-85.071131,36.538721],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725736","nbrOut":11,"planned":false,"timeOff":1795024764786},"type":"Feature"},
+{"geometry":{"coordinates":[-84.865417,36.474516],"type":"Point"},"properties":{"comment":"A crew is assigned and working to investigate the report of a possible tree limb on a line. No power outages are associated with this report. Thank you for your patience.","crewAssigned":true,"id":"1725738","nbrOut":1,"planned":false,"timeOff":1795026199641},"type":"Feature"},
+{"geometry":{"coordinates":[-85.074796,35.185151],"type":"Point"},"properties":{"crewAssigned":true,"id":"1725743","nbrOut":11,"planned":false,"timeOff":1795026551645},"type":"Feature"}
 ]}
