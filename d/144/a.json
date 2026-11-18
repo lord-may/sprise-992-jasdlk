@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.273588,37.985712],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T09:54:17.383-05:00","outageName":"","outagePoint":{"lat":37.9857115533936,"lng":-86.27358780634462},"outageRecID":"2026-11-18-4658","outageStartTime":"2026-11-18T09:49:08-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["HIGHWAY 144","PAYNEVILLE RD          "],"verified":true},"type":"Feature"}
 ]}
