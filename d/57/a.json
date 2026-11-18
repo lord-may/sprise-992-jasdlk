@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.180604,34.230621],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1795039200000,"id":"1068678","nbrOut":2,"planned":false,"timeOff":1795031486442},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-84.180182,34.231015],[-84.180559,34.231074],[-84.180748,34.231082],[-84.180182,34.231015]]],"type":"Polygon"},{"coordinates":[-84.180496,34.231059],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1795039200000,"id":"1068679","nbrOut":3,"planned":false,"timeOff":1795031579478},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-84.180182,34.231015],[-84.180559,34.231074],[-84.180748,34.231082],[-84.180182,34.231015]]],"type":"Polygon"},{"coordinates":[-84.180496,34.231059],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1795039200000,"id":"1068679","nbrOut":3,"planned":false,"timeOff":1795031579478},"type":"Feature"},
+{"geometry":{"coordinates":[-84.202649,34.328965],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"estimateTime":1795042800000,"id":"1068681","nbrOut":1,"planned":false,"timeOff":1795035398000},"type":"Feature"}
 ]}
