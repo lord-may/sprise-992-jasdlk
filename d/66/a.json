@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.144973,35.798569],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1725735","nbrOut":1,"planned":false,"timeOff":1795024312961},"type":"Feature"},
-{"geometry":{"coordinates":[-85.071095,36.529612],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725736","nbrOut":1,"planned":false,"timeOff":1795024764786},"type":"Feature"}
+{"geometry":{"coordinates":[-85.071095,36.529612],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725736","nbrOut":1,"planned":false,"timeOff":1795024764786},"type":"Feature"},
+{"geometry":{"coordinates":[-85.071553,36.532607],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725737","nbrOut":1,"planned":false,"timeOff":1795025976144},"type":"Feature"}
 ]}
