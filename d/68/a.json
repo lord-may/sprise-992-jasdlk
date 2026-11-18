@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.730202,36.118318],"type":"Point"},"properties":{"cause":"MAINTENANCE","crewAssigned":true,"estimateTime":1795019418000,"id":"740987","nbrOut":2,"planned":false,"timeOff":1795012218000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-78.587909,36.014248],[-78.586759,36.014458],[-78.587657,36.014335],[-78.587909,36.014248]]],"type":"Polygon"},{"coordinates":[-78.587442,36.014349],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"MAINTENANCE","crewAssigned":true,"estimateTime":1795020829000,"id":"740989","nbrOut":3,"planned":false,"timeOff":1795013629000},"type":"Feature"},
+{"geometry":{"coordinates":[-78.730202,36.118318],"type":"Point"},"properties":{"cause":"MAINTENANCE","crewAssigned":true,"estimateTime":1795023018000,"id":"740987","nbrOut":2,"planned":false,"timeOff":1795012218000},"type":"Feature"},
 {"geometry":{"coordinates":[-78.531971,36.242091],"type":"Point"},"properties":{"cause":"UNKNOWN","comment":"A crew has been assigned to the outage affecting your area.","crewAssigned":true,"estimateTime":1795026527000,"id":"740991","nbrOut":1,"planned":false,"timeOff":1795019327000},"type":"Feature"}
 ]}
