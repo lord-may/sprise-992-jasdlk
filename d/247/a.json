@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.802174,37.395185],"type":"Point"},"properties":{"cause":"110 maintenance","code":"110","crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-18T09:08:40.34-06:00","outageName":"FUS1996","outagePoint":{"lat":37.39518462926851,"lng":-87.80217426569706},"outageRecID":"2026-11-18-0470","outageStartTime":"2026-11-18T09:06:57-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
