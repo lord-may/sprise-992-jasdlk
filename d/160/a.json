@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.938789,37.002071],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T06:35:44.68-06:00","outageName":"2026-11-18-0055","outagePoint":{"lat":37.0020714468161,"lng":-85.93878903590064},"outageRecID":"2026-11-18-0055","outageStartTime":"2026-11-18T06:18:09-06:00","outageWorkStatus":"","streetsAffected":["INDUSTRIAL (AUX BLDG) DR","INDUSTRIAL (MOP) DR","INDUSTRIAL DR"],"verified":false},"type":"Feature"}
 ]}
