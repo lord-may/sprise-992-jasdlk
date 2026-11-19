@@ -1,9 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.195054,35.980663],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of a padmount transformer that has been knocked off the pad and lines on fire.","crewAssigned":true,"id":"1725810","nbrOut":1,"planned":false,"timeOff":1795106972673},"type":"Feature"},
 {"geometry":{"coordinates":[-84.890821,35.300396],"type":"Point"},"properties":{"crewAssigned":true,"id":"1725816","nbrOut":605,"planned":false,"timeOff":1795108692075},"type":"Feature"},
-{"geometry":{"coordinates":[-85.059902,35.815011],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725822","nbrOut":6,"planned":false,"timeOff":1795115838207},"type":"Feature"},
-{"geometry":{"coordinates":[-84.638574,35.158033],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725824","nbrOut":1,"planned":false,"timeOff":1795116976757},"type":"Feature"},
-{"geometry":{"coordinates":[-84.644108,35.156998],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725825","nbrOut":1,"planned":false,"timeOff":1795116996936},"type":"Feature"},
-{"geometry":{"coordinates":[-84.643057,35.156931],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725826","nbrOut":3,"planned":false,"timeOff":1795116870436},"type":"Feature"},
-{"geometry":{"coordinates":[-84.637514,35.15724],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725827","nbrOut":1,"planned":false,"timeOff":1795117104763},"type":"Feature"}
+{"geometry":{"coordinates":[-84.636257,35.156674],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725828","nbrOut":22,"planned":false,"timeOff":1795116870436},"type":"Feature"},
+{"geometry":{"coordinates":[-84.907925,35.251553],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1725829","nbrOut":910,"planned":false,"timeOff":1795117820750},"type":"Feature"}
 ]}
