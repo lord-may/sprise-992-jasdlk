@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.793532,31.203784],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T16:59:29.687-05:00","outageName":"T186577101","outagePoint":{"lat":31.20378435696286,"lng":-81.79353190743183},"outageRecID":"2026-11-19-0253","outageStartTime":"2026-11-19T16:53:40-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["DAVID TRL"],"verified":true},"type":"Feature"}
 ]}
