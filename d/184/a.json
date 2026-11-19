@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.345245,30.477065],"type":"Point"},"properties":{"cause":"Limb on Line - With Outage","customers":2353,"etr":1795035133000,"off":1795027644000,"outagetype":"XLarge","region":4,"status":"Crew Assigned","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.316196,30.478327],"type":"Point"},"properties":{"cause":"Unknown","customers":7,"etr":1795035192000,"off":1795027992000,"outagetype":"Medium","region":4,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.293374,30.469673],"type":"Point"},"properties":{"cause":"Unknown","customers":49,"etr":1795035547000,"off":1795028347000,"outagetype":"Medium","region":4,"status":"Reported","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.316196,30.478327],"type":"Point"},"properties":{"cause":"Unknown","customers":7,"etr":1795037023000,"off":1795027992000,"outagetype":"Medium","region":4,"status":"Crew Assigned","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.293374,30.469673],"type":"Point"},"properties":{"cause":"Unknown","customers":49,"etr":1795037390000,"off":1795028347000,"outagetype":"Medium","region":4,"status":"Crew Assigned","ticket":null},"type":"Feature"},
 {"geometry":{"coordinates":[-84.294407,30.470343],"type":"Point"},"properties":{"cause":"Unknown","customers":9,"etr":1795035611000,"off":1795028411000,"outagetype":"Medium","region":4,"status":"Reported","ticket":null},"type":"Feature"},
-{"geometry":{"coordinates":[-84.153504,30.455397],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1795036011000,"off":1795028546000,"outagetype":"Small","region":331,"status":"Crew Assigned","ticket":null},"type":"Feature"}
+{"geometry":{"coordinates":[-84.153504,30.455397],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1795036011000,"off":1795028546000,"outagetype":"Small","region":331,"status":"Crew Assigned","ticket":null},"type":"Feature"},
+{"geometry":{"coordinates":[-84.34352,30.47297],"type":"Point"},"properties":{"cause":"Unknown","customers":1,"etr":1795037540000,"off":1795030340000,"outagetype":"Small","region":4,"status":"Reported","ticket":null},"type":"Feature"}
 ]}
