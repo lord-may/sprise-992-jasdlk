@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.892905,35.316435],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to bad underground wire. Thank you for your patience.","crewAssigned":true,"id":"1725837","nbrOut":1,"planned":false,"timeOff":1795124843588},"type":"Feature"},
+{"geometry":{"coordinates":[-84.890722,35.315563],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725838","nbrOut":1,"planned":false,"timeOff":1795125005000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.892914,35.31288],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725839","nbrOut":1,"planned":false,"timeOff":1795125071000},"type":"Feature"}
 ]}
