@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.892905,35.316435],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to bad underground wire. Thank you for your patience.","crewAssigned":true,"id":"1725837","nbrOut":1,"planned":false,"timeOff":1795124843588},"type":"Feature"},
-{"geometry":{"coordinates":[-85.01275,35.952032],"type":"Point"},"properties":{"crewAssigned":true,"id":"1725842","nbrOut":1,"planned":false,"timeOff":1795121922946},"type":"Feature"}
+{"geometry":{"coordinates":[-85.01275,35.952032],"type":"Point"},"properties":{"crewAssigned":true,"id":"1725842","nbrOut":1,"planned":false,"timeOff":1795121922946},"type":"Feature"},
+{"geometry":{"coordinates":[-84.851206,35.695185],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1725845","nbrOut":1,"planned":false,"timeOff":1795126372568},"type":"Feature"},
+{"geometry":{"coordinates":[-84.90594,35.718907],"type":"Point"},"properties":{"crewAssigned":false,"id":"1725846","nbrOut":1,"planned":false,"timeOff":1795126912897},"type":"Feature"}
 ]}
