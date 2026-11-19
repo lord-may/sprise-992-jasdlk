@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-85.57712,38.20642],[-85.57599,38.20671],[-85.57608,38.20701],[-85.57715,38.2098],[-85.57936,38.20892],[-85.58099,38.20776],[-85.57745,38.20645],[-85.57712,38.20642]]],"type":"Polygon"},{"coordinates":[-85.57811,38.20795],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Unable to determine","orig":"Unknown"},"cluster":false,"comments":"This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported. We will continue to update the estimate as more information becomes available. Please check back for updates.","crew_icon":false,"crew_status":null,"cust_a":{"val":85},"etr":"2026-11-19T15:30:00Z","etr_confidence":null,"inc_id":"26355918","n_out":1,"start_time":"2026-11-19T11:44:25Z","title":"Area Outage"},"type":"Feature"}
 ]}
