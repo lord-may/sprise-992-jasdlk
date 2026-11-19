@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.962997,37.838349],"type":"Point"},"properties":{"comment":"Hot leg pulled into","id":"468429","nbrOut":1,"planned":false,"timeOff":1795049537000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.968359,37.722982],"type":"Point"},"properties":{"comment":"pole change","estimateTime":1795102200000,"id":"468430","nbrOut":1,"planned":false,"timeOff":1795094804000},"type":"Feature"},
-{"geometry":{"coordinates":[-85.740825,37.619333],"type":"Point"},"properties":{"estimateTime":1795106700000,"id":"468435","nbrOut":2,"planned":false,"timeOff":1795098848000},"type":"Feature"}
+{"geometry":{"coordinates":[-85.740825,37.619333],"type":"Point"},"properties":{"comment":"pole change","estimateTime":1795106700000,"id":"468435","nbrOut":2,"planned":false,"timeOff":1795098848000},"type":"Feature"}
 ]}
