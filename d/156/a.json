@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-87.121982,35.316717],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":155,"customersOutNow":155,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T12:04:45.9-06:00","outageName":"R762","outagePoint":{"lat":35.31671660861618,"lng":-87.12198246923285},"outageRecID":"2026-11-19-0118","outageStartTime":"2026-11-19T11:59:06-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-87.136811,35.287831],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T12:04:35.733-06:00","outageName":"TR.52M004","outagePoint":{"lat":35.2878309932194,"lng":-87.13681083721427},"outageRecID":"2026-11-19-0119","outageStartTime":"2026-11-19T11:59:13-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
