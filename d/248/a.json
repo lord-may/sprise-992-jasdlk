@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.370974,34.810973],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-19T08:59:11.8-05:00","outageName":"2026-11-19-0532","outagePoint":{"lat":34.81097271213588,"lng":-84.37097362574028},"outageRecID":"2026-11-19-0532","outageStartTime":"2026-11-19T08:58:29-05:00","outageWorkStatus":"","streetsAffected":["CHERRY LOG MTN","FRED CRADDOCK DR 83"],"verified":false},"type":"Feature"}
 ]}
