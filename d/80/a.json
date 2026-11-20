@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.814562,37.250671],"type":"Point"},"properties":{"cause":"Scheduled / Switching","code":"31","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T09:26:57.747-06:00","outageName":"2026-11-20-0580","outagePoint":{"lat":37.250670580926325,"lng":-86.81456229568549},"outageRecID":"2026-11-20-0580","outageStartTime":"2026-11-20T09:25:38-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
