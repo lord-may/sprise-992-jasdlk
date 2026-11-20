@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.419963,33.658694],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T15:45:34.877-06:00","outageName":"1875-B","outagePoint":{"lat":33.658694306864994,"lng":-79.419963062617},"outageRecID":"2026-11-20-0315","outageStartTime":"2026-11-20T15:41:42-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.398265,33.550947],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T15:50:30.507-06:00","outageName":"2656-K","outagePoint":{"lat":33.550947453730544,"lng":-79.39826450863663},"outageRecID":"2026-11-20-0317","outageStartTime":"2026-11-20T15:50:29-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
