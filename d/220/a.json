@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.795593,34.889508],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-20T22:05:00","oldest_status_change_time":"2026-11-20T22:05:00","public_point_id":"0c95cbe2907227b4022996e9a0db9a04","substation":"SHAW"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.794996,34.893525],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-20T22:05:00","oldest_status_change_time":"2026-11-20T22:05:00","public_point_id":"1317b89c89175146b87b54019d34ac7e","substation":"SHAW"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.79534,34.891411],"type":"Point"},"properties":{"affected_meters":1,"newest_status_change_time":"2026-11-20T22:05:00","oldest_status_change_time":"2026-11-20T22:05:00","public_point_id":"6d7aa89622070905b9c710c1045555c3","substation":"SHAW"},"type":"Feature"}
 ]}
