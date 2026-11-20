@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-81.71542,30.30144],[-81.71492,30.30179],[-81.71504,30.30189],[-81.71542,30.30144]]],"type":"Polygon"},{"coordinates":[-81.71513,30.30171],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Pending","es-US":"Pendiente","orig":"UNKNOWN"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"A troubleshooter has been assigned to evaluate the outage.","ES-ES":"A troubleshooter has been assigned to evaluate the outage.","es-US":"Un especialista en diagnóstico ha sido asignado para evaluar el corte del servicio.","orig":"ACCEPTED"},"cust_a":{"mask":5,"val":4},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"2006884199","n_out":1,"start_time":"2026-11-20T09:16:31Z","title":"Area Outage"},"type":"Feature"}
 ]}
