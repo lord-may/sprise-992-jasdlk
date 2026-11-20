@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.010734,33.09572],"type":"Point"},"properties":{"cause":"700 Customer-caused","code":"700","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T12:40:58.137-05:00","outageName":"2026-11-20-0429","outagePoint":{"lat":33.095719866548045,"lng":-84.01073356268746},"outageRecID":"2026-11-20-0429","outageStartTime":"2026-11-20T12:38:25-05:00","outageWorkStatus":"","streetsAffected":["SMITH RD"],"verified":false},"type":"Feature"}
 ]}
