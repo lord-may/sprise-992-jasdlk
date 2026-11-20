@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-88.996054,34.484048],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
-{"geometry":{"coordinates":[-88.99607,34.483434],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
-{"geometry":{"coordinates":[-88.996073,34.483848],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
-{"geometry":{"coordinates":[-89.238466,34.629477],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
-{"geometry":{"coordinates":[-89.285391,34.621973],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
-{"geometry":{"coordinates":[-88.995551,34.483903],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-89.238343,34.629459],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.285374,34.621964],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.995454,34.483875],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"}
 ]}
