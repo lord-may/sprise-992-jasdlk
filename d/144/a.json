@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.50292,37.616664],"type":"Point"},"properties":{"cause":"Pre-Arranged","code":"190","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-20T13:37:24.223-05:00","outageName":"","outagePoint":{"lat":37.61666386470942,"lng":-86.50291972863052},"outageRecID":"2026-11-20-4682","outageStartTime":"2026-11-20T13:35:55-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["DAM HIGHWAY 79","FALLS OF ROUGH RD","HIGHWAY 79 FALLS OF ROUGH RD"],"verified":true},"type":"Feature"}
 ]}
