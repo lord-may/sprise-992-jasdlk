@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-80.04409,33.21815],[-80.04366,33.2184],[-80.04427,33.21833],[-80.04409,33.21815]]],"type":"Polygon"},{"coordinates":[-80.04401,33.21829],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"On Site","orig":"Arrived"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-20T23:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-20T20:32:21Z","title":"Area Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-79.06338,33.50934],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","orig":"Assigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-20T23:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-20T20:42:11Z","title":"Area Outage"},"type":"Feature"}
 ]}
