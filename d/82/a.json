@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.346404,29.677913],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T18:20:53-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T16:28:54.527-06:00","outageName":"BKR91-01","outagePoint":{"lat":29.67791301285576,"lng":-85.34640441296736},"outageRecID":"2026-11-20-0617","outageStartTime":"2026-11-20T16:20:53-06:00","outageWorkStatus":"","streetsAffected":["BLDG 9963-2","BLDG 9963-3","Bldg 9970","Cape San Blas","FL 30 E","Pod Oh-2","Pod Oh-3","Pod Un-22"],"verified":true},"type":"Feature"}
 ]}
