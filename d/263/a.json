@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.238191,31.769927],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261121-X0017","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":2,"ElementName":"","EndTime":"/Date(-62135578800000)/","OutageTime":"11/21/2026 4:06:00 PM","PoleNumber":"T2960132","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-81.23819075903563,"Y":31.769927171856235,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-81.249339,31.804389],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261121-X0018","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":71,"ElementName":"","EndTime":"/Date(-62135578800000)/","OutageTime":"11/21/2026 4:05:00 PM","PoleNumber":"R2960078","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-81.24933876011895,"Y":31.80438889889847,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
