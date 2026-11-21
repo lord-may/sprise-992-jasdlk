@@ -3,11 +3,9 @@
 {"geometry":{"coordinates":[-82.293954,29.458162],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795235267000,"id":"494811","nbrOut":1,"planned":false,"timeOff":1795213633000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.08797,29.717769],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795236101000,"id":"494834","nbrOut":58,"planned":false,"timeOff":1795214414000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.271199,29.368767],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795234909000,"id":"494874","nbrOut":1,"planned":false,"timeOff":1795216872000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.341151,29.79701],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795235462000,"id":"494884","nbrOut":2,"planned":false,"timeOff":1795217394000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.346667,29.817978],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795235614000,"id":"494887","nbrOut":2,"planned":false,"timeOff":1795217538000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.431477,29.576116],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795236031000,"id":"494896","nbrOut":3,"planned":false,"timeOff":1795217957000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.782673,30.059163],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795236382000,"id":"494907","nbrOut":77,"planned":false,"timeOff":1795218296000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.070884,29.935876],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795235506000,"id":"494938","nbrOut":1,"planned":false,"timeOff":1795221057000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.559675,29.830564],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795235729000,"id":"494942","nbrOut":17,"planned":false,"timeOff":1795221174000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.308704,29.36302],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795230985770,"id":"494974","nbrOut":178,"planned":false,"timeOff":1795223724751},"type":"Feature"},
 {"geometry":{"coordinates":[-82.431818,29.858545],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795231071150,"id":"494975","nbrOut":1,"planned":false,"timeOff":1795223871091},"type":"Feature"},
@@ -23,5 +21,8 @@
 {"geometry":{"coordinates":[-82.522009,30.056465],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795235941222,"id":"495031","nbrOut":2,"planned":false,"timeOff":1795228640000},"type":"Feature"},
 {"geometry":{"coordinates":[-82.515253,29.727474],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795236464173,"id":"495036","nbrOut":7,"planned":false,"timeOff":1795229223674},"type":"Feature"},
 {"geometry":{"coordinates":[-81.990934,29.620162],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795237131386,"id":"495041","nbrOut":1,"planned":false,"timeOff":1795229929743},"type":"Feature"},
-{"geometry":{"coordinates":[-82.611849,30.154074],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795237390913,"id":"495044","nbrOut":2,"planned":false,"timeOff":1795230110000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.611849,30.154074],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795237390913,"id":"495044","nbrOut":2,"planned":false,"timeOff":1795230110000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.074423,29.395435],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795238042069,"id":"495054","nbrOut":95,"planned":false,"timeOff":1795230713000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.528917,29.642501],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795238060222,"id":"495055","nbrOut":1,"planned":false,"timeOff":1795230860176},"type":"Feature"},
+{"geometry":{"coordinates":[-82.544359,29.891486],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795238106240,"id":"495056","nbrOut":1,"planned":false,"timeOff":1795230906148},"type":"Feature"}
 ]}
