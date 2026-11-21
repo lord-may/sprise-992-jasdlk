@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.016289,36.262722],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726088","nbrOut":1,"planned":false,"timeOff":1795280838801},"type":"Feature"},
-{"geometry":{"coordinates":[-84.871858,35.588614],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726089","nbrOut":1,"planned":false,"timeOff":1795280898139},"type":"Feature"}
+{"geometry":{"coordinates":[-84.871858,35.588614],"type":"Point"},"properties":{"comment":"A crew has been dispatched to disconnect electricity due to a structure fire.","crewAssigned":true,"id":"1726089","nbrOut":1,"planned":false,"timeOff":1795280898139},"type":"Feature"},
+{"geometry":{"coordinates":[-85.016469,36.261983],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1726095","nbrOut":13,"planned":false,"timeOff":1795280838801},"type":"Feature"},
+{"geometry":{"coordinates":[-85.018876,35.802496],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726096","nbrOut":1,"planned":false,"timeOff":1795281331374},"type":"Feature"}
 ]}
