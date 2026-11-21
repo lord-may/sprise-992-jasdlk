@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.72375,27.94244],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-11-21T21:00:00","incidentId":"A202632504584","polygonCenter":[-81.72375000118899,27.94243999676453],"reason":"Pending Investigation","status":"We're on our way to investigate","updateTime":"2026-11-21T17:50:07"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.49772,28.031466],"type":"Point"},"properties":{"_source":{"customerCount":85,"estimatedTimeOfRestoration":"2026-11-21T21:30:00","incidentId":"A202632504619","polygonCenter":[-82.49772031963873,28.031466229920248],"reason":"Pending Investigation","status":"We're on our way to investigate","updateTime":"2026-11-21T17:50:07"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.52305,27.95595],"type":"Point"},"properties":{"_source":{"customerCount":1,"estimatedTimeOfRestoration":"2026-11-21T19:40:00","incidentId":"A202632504308","polygonCenter":[-82.52305000075074,27.955949996751382],"reason":"Animal coming into contact with equipment","status":"We're working onsite","updateTime":"2026-11-21T17:50:07"}},"type":"Feature"}
 ]}
