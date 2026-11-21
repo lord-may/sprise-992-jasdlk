@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.700109,32.131717],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"34 Brad","CaseNumber":"261121-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T167580091","EndTime":"/Date(-62135578800000)/","OutageTime":"11/21/2026 10:17:00 AM","PoleNumber":"167580091","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-83.7001088117899,"Y":32.13171673813319,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-83.701569,32.131949],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"34 Brad","CaseNumber":"261121-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T16757004","EndTime":"/Date(-62135578800000)/","OutageTime":"11/21/2026 10:17:00 AM","PoleNumber":"16757004","RestorationTime":null,"StartTime":"/Date(-62135578800000)/","X":-83.70156873036142,"Y":32.13194863092734,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
