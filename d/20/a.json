@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.72956,36.22954],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 7"]},{"property":"AREA_SERVICE","value":["East Nashville"]},{"property":"premise_hash","value":"0da05e6a3979f10b4686c79dd04d665abf96bbdc"}],"cause":"","etrTime":1795244400000,"id":2253363,"identifier":"2715088","latitude":36.22954,"longitude":-86.72956,"numPeople":1,"startTime":1795227619000,"status":"Unassigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.73733,36.04971],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 27"]},{"property":"AREA_SERVICE","value":["Southeast"]},{"property":"premise_hash","value":"0da05e6a3979f10b4686c79dd04d665abf96bbdc"}],"cause":"","etrTime":1795245300000,"id":2253364,"identifier":"2715089","latitude":36.04971,"longitude":-86.73733,"numPeople":1,"startTime":1795228220000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
