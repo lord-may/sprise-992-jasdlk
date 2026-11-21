@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.722228,30.837261],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T07:10:35.933-06:00","outageName":"HH-213A","outagePoint":{"lat":30.837260644790717,"lng":-85.7222282819252},"outageRecID":"2026-11-21-0432","outageStartTime":"2026-11-21T07:02:13-06:00","outageWorkStatus":"","streetsAffected":["BUCK TREADWELL RD HOUSE","BUCK TREADWELL RD PUMP"],"verified":true},"type":"Feature"}
 ]}
