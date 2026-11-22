@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.331087,33.319815],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T19:19:32.397-05:00","outageName":"5CA-7 1/2-2","outagePoint":{"lat":33.31981498789841,"lng":-83.33108704343353},"outageRecID":"2026-11-21-0098","outageStartTime":"2026-11-21T19:01:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-83.637391,32.908638],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T19:17:58.517-05:00","outageName":"T3486337","outagePoint":{"lat":32.90863767505574,"lng":-83.63739076328713},"outageRecID":"2026-11-21-0099","outageStartTime":"2026-11-21T19:17:32-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
