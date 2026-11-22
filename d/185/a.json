@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.11605,29.25726],"type":"Point"},"properties":{"cause":"","id":2254616,"identifier":"2026-11-22-0860","lastUpdatedTime":1795357410000,"latitude":29.25726,"longitude":-82.11605,"numPeople":1,"startTime":1795354928000,"status":"Assigned","title":"Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-82.11605,29.25726],"type":"Point"},"properties":{"cause":"","id":2254616,"identifier":"2026-11-22-0860","lastUpdatedTime":1795357410000,"latitude":29.25726,"longitude":-82.11605,"numPeople":1,"startTime":1795354928000,"status":"Assigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-82.14652,29.17985],"type":"Point"},"properties":{"cause":"","id":2254638,"identifier":"2026-11-22-0862","lastUpdatedTime":1795358010000,"latitude":29.17985,"longitude":-82.14652,"numPeople":12,"startTime":1795357493000,"status":"Assumed","title":"Outage"},"type":"Feature"}
 ]}
