@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.115202,31.542752],"type":"Point"},"properties":{"cause":"Equipment Failure","code":"900","crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T14:53:29.793-06:00","outageName":"","outagePoint":{"lat":31.542752299658606,"lng":-90.11520173828421},"outageRecID":"2026-11-22-1064","outageStartTime":"2026-11-22T14:52:02-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

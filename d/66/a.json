@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.858707,35.609271],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of transformer arcing.","crewAssigned":true,"id":"1726166","nbrOut":1,"planned":false,"timeOff":1795379320564},"type":"Feature"}
+{"geometry":{"coordinates":[-84.858707,35.609271],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of transformer arcing.","crewAssigned":true,"id":"1726166","nbrOut":1,"planned":false,"timeOff":1795379320564},"type":"Feature"},
+{"geometry":{"coordinates":[-84.919801,35.991799],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726167","nbrOut":1,"planned":false,"timeOff":1795380301096},"type":"Feature"}
 ]}
