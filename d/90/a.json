@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.234295,36.439465],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T08:17:37.347-06:00","outageName":"32-224","outagePoint":{"lat":36.43946506209912,"lng":-85.23429479553747},"outageRecID":"2026-11-22-0167","outageStartTime":"2026-11-22T08:17:15-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-85.625132,36.167817],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T08:22:05.377-06:00","outageName":"42-234","outagePoint":{"lat":36.16781680862522,"lng":-85.62513169585156},"outageRecID":"2026-11-22-0168","outageStartTime":"2026-11-22T08:21:29-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

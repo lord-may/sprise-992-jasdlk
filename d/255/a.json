@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-85.845259,34.491252],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Tucker, James","CaseNumber":"261122-P0006","CaseStatus":"Predicted","Cause":"","CutomersAffected":12,"ElementName":"FUS-F83002","EndTime":"/Date(-62135575200000)/","OutageTime":"11/22/2026 8:12:00 AM","PoleNumber":"F83002","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.8452591425283,"Y":34.491251770919085,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-85.789231,34.526461],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Tucker, James","CaseNumber":"261122-P0009","CaseStatus":"Predicted","Cause":"","CutomersAffected":37,"ElementName":"FUS-F81064","EndTime":"/Date(-62135575200000)/","OutageTime":"11/22/2026 8:17:00 AM","PoleNumber":"F81064","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-85.78923112475304,"Y":34.52646085215464,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
