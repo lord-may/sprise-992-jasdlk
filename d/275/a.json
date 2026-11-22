@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-83.965305,30.870481],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T12:49:53.5-05:00","outageName":"","outagePoint":{"lat":30.87048142407802,"lng":-83.9653050740516},"outageRecID":"2026-11-22-0210","outageStartTime":"2026-11-22T12:48:38-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["CHARLIE WARD BLVD"],"verified":false},"type":"Feature"}
 ]}
