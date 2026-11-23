@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.076375,33.196283],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T08:39:47-05:00","outageName":"T316965","outagePoint":{"lat":33.19628315730129,"lng":-84.0763748003638},"outageRecID":"2026-11-23-0429","outageStartTime":"2026-11-23T08:35:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"},
+{"geometry":{"coordinates":[-83.71488,33.335552],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T08:44:17-05:00","outageName":"PC-973922","outagePoint":{"lat":33.335551702843624,"lng":-83.71487950706266},"outageRecID":"2026-11-23-0431","outageStartTime":"2026-11-23T08:38:26-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
