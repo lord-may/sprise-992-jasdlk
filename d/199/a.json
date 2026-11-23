@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.825572,33.181403],"type":"Point"},"properties":{"affectedCustomers":2,"boundary":"{\"geometryType\":\"esriGeometryPolygon\",\"geometry\":{\"rings\":[[[-81.825571920000002,33.181402919999996],[-81.824821470000003,33.181818749999998],[-81.825294490000005,33.181409449999997],[-81.825571920000002,33.181402919999996]]]}}","caseNumber":"20261123-C000014","cause":null,"county":"Burke","crewStatus":null,"elementType":"TRANSFORMER","etor":null,"failure":null,"isCrewAssigned":null,"latitude":33.18140292,"longitude":-81.82557192,"messageToCustomers":"","otherReason":null,"phase":"C  ","region":"Burke","startedOn":"2026-11-23T20:57:09","state":"","status":"Predicted","totalImpactedCustomers":2,"weather":null},"type":"Feature"}
 ]}
