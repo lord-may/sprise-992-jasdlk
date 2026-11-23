@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-79.8779,32.79283],[-79.87776,32.79306],[-79.87781,32.79308],[-79.87798,32.79298],[-79.8779,32.79283]]],"type":"Polygon"},{"coordinates":[-79.87787,32.79297],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Evaluation","es-US":"Under Evaluation","orig":"Under Evaluation"},"cluster":false,"comments":"Estimate Pending.\rWhile most outages are restored within 3 hours, some outages take longer.","crew_icon":false,"crew_status":null,"cust_a":{"val":5},"etr":"ETR-NULL","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
