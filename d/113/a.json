@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.347074,33.526179],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T10:09:19.753-06:00","outageName":"2679-5L","outagePoint":{"lat":33.52617896241935,"lng":-79.34707366004184},"outageRecID":"2026-11-23-0399","outageStartTime":"2026-11-23T10:06:37-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.727774,34.095868],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T10:08:04.957-06:00","outageName":"0127-P","outagePoint":{"lat":34.09586815792062,"lng":-79.7277744392357},"outageRecID":"2026-11-23-0400","outageStartTime":"2026-11-23T10:07:11-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
