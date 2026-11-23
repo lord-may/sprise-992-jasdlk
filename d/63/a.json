@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.372336,37.302795],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"estimateTime":1795449950000,"id":"213088","nbrOut":1,"planned":true,"timeOff":1795442640101},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-85.545666,37.325972],[-85.545388,37.326115],[-85.546151,37.326601],[-85.546035,37.326329],[-85.545909,37.326058],[-85.545666,37.325972]]],"type":"Polygon"},{"coordinates":[-85.545792,37.326222],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned","crewAssigned":false,"estimateTime":1795451400000,"id":"213089","nbrOut":5,"planned":true,"timeOff":1795444254000},"type":"Feature"},
-{"geometry":{"coordinates":[-85.371734,37.305882],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"estimateTime":1795450630000,"id":"213090","nbrOut":1,"planned":true,"timeOff":1795443283000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.363164,37.283471],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"estimateTime":1795453220000,"id":"213095","nbrOut":2,"planned":true,"timeOff":1795446044000},"type":"Feature"},
-{"geometry":{"coordinates":[-85.595613,37.122883],"type":"Point"},"properties":{"cause":"None Selected","crewAssigned":true,"id":"213096","nbrOut":1,"planned":false,"timeOff":1795447339886},"type":"Feature"}
+{"geometry":{"coordinates":[-85.595613,37.122883],"type":"Point"},"properties":{"cause":"None Selected","crewAssigned":true,"id":"213096","nbrOut":1,"planned":false,"timeOff":1795447339886},"type":"Feature"},
+{"geometry":{"coordinates":[-85.355322,37.276545],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":false,"estimateTime":1795459995000,"id":"213097","nbrOut":1,"planned":true,"timeOff":1795449137064},"type":"Feature"},
+{"geometry":{"coordinates":[-85.356265,37.276209],"type":"Point"},"properties":{"cause":"None Selected","crewAssigned":false,"id":"213098","nbrOut":1,"planned":false,"timeOff":1795449238008},"type":"Feature"}
 ]}
