@@ -1,6 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.039906,35.957005],"type":"Point"},"properties":{"crewAssigned":true,"id":"1726254","nbrOut":1,"planned":false,"timeOff":1795523267948},"type":"Feature"},
-{"geometry":{"coordinates":[-85.040651,35.956773],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a vehicle accident. Thank you for your patience.","crewAssigned":true,"id":"1726257","nbrOut":9,"planned":false,"timeOff":1795523666000},"type":"Feature"},
 {"geometry":{"coordinates":[-85.106902,35.188382],"type":"Point"},"properties":{"crewAssigned":true,"id":"1726266","nbrOut":92,"planned":false,"timeOff":1795524558455},"type":"Feature"},
-{"geometry":{"coordinates":[-85.106651,35.189593],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726270","nbrOut":1,"planned":false,"timeOff":1795524861180},"type":"Feature"}
+{"geometry":{"coordinates":[-85.106651,35.189593],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726270","nbrOut":1,"planned":false,"timeOff":1795524861180},"type":"Feature"},
+{"geometry":{"coordinates":[-84.91689,35.357099],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area. This outage is necessary to allow crews to safely complete a task. Thank you for your patience.","crewAssigned":true,"id":"1726283","nbrOut":3,"planned":false,"timeOff":1795526005154},"type":"Feature"},
+{"geometry":{"coordinates":[-85.047056,35.960387],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a vehicle accident. Thank you for your patience.","crewAssigned":true,"id":"1726288","nbrOut":1711,"planned":false,"timeOff":1795526180000},"type":"Feature"},
+{"geometry":{"coordinates":[-84.944226,35.942628],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726290","nbrOut":1,"planned":false,"timeOff":1795526404155},"type":"Feature"},
+{"geometry":{"coordinates":[-85.009507,35.964015],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726291","nbrOut":1,"planned":false,"timeOff":1795526452141},"type":"Feature"}
 ]}
