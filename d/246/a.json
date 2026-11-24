@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-84.447764,38.227623],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T13:02:00.447-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T10:06:49.44-05:00","outageName":"2026-11-24-1440","outagePoint":{"lat":38.22762295043624,"lng":-84.44776355382348},"outageRecID":"2026-11-24-1440","outageStartTime":"2026-11-24T10:01:13-05:00","outageWorkStatus":"","streetsAffected":["PARIS PK (BARN)"],"verified":false},"type":"Feature"}
 ]}
