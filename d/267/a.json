@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.551815,34.810781],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-11-24T12:35:18-05:00","outageName":"TR: 350-38L-9","outagePoint":{"lat":34.81078135836883,"lng":-79.55181524573437},"outageRecID":"2026-11-24-0379","outageStartTime":"2026-11-24T12:29:42-05:00","streetsAffected":null,"verified":true},"type":"Feature"},
+{"geometry":{"coordinates":[-79.704378,34.953859],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-11-24T12:33:16-05:00","outageName":"TR: 8AB-51-7A","outagePoint":{"lat":34.95385882020463,"lng":-79.70437832857576},"outageRecID":"2026-11-24-0380","outageStartTime":"2026-11-24T12:32:40-05:00","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
