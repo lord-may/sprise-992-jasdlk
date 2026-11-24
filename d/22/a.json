@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-85.288671,34.970555],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":34.970555,"longitude":-85.288671},"type":"Feature"},
-{"geometry":{"coordinates":[-85.106976,35.038021],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":3,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.038021,"longitude":-85.106976},"type":"Feature"}
+{"geometry":{"coordinates":[-85.292271,34.970855],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":1,"incident_status":"OUTAGE_REPORTED","latitude":34.970855,"longitude":-85.292271},"type":"Feature"},
+{"geometry":{"coordinates":[-85.120614,35.014887],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":2,"incident_status":"OUTAGE_REPORTED","latitude":35.014887,"longitude":-85.120614},"type":"Feature"},
+{"geometry":{"coordinates":[-85.109676,35.036721],"type":"Point"},"properties":{"crew_qty":1,"customer_qty":3,"incident_status":"REPAIR_IN_PROGRESS","latitude":35.036721,"longitude":-85.109676},"type":"Feature"}
 ]}
