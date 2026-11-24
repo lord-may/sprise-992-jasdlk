@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.959354,35.573082],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1726371","nbrOut":1,"planned":false,"timeOff":1795555209235},"type":"Feature"},
-{"geometry":{"coordinates":[-85.202564,36.042232],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a vehicle accident that has broke two power poles. Thank you for your patience.","crewAssigned":true,"id":"1726379","nbrOut":37,"planned":false,"timeOff":1795556249744},"type":"Feature"}
+{"geometry":{"coordinates":[-85.205286,36.04213],"type":"Point"},"properties":{"crewAssigned":true,"id":"1726382","nbrOut":7,"planned":false,"timeOff":1795562430172},"type":"Feature"}
 ]}
