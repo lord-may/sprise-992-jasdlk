@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.7938,36.32232],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 10"]},{"property":"AREA_SERVICE","value":["Parkwood - Union Hill"]},{"property":"premise_hash","value":"0da05e6a3979f10b4686c79dd04d665abf96bbdc"}],"cause":"","etrTime":1795537800000,"id":2255717,"identifier":"2715455","latitude":36.32232,"longitude":-86.7938,"numPeople":1,"startTime":1795526262000,"status":"Unassigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-86.82281,36.18192],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY","value":["Davidson"]},{"property":"AREA_MUNICIPALITY","value":["Council District 21"]},{"property":"AREA_SERVICE","value":["North Nashville"]},{"property":"premise_hash","value":"0da05e6a3979f10b4686c79dd04d665abf96bbdc"}],"cause":"","etrTime":1795537800000,"id":2255718,"identifier":"2715456","latitude":36.18192,"longitude":-86.82281,"numPeople":1,"startTime":1795526275000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
