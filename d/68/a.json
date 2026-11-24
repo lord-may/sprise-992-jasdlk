@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.487235,35.902436],"type":"Point"},"properties":{"cause":"UNKNOWN","crewAssigned":false,"estimateTime":1795517100000,"id":"741134","nbrOut":1,"planned":false,"timeOff":1795509134000},"type":"Feature"}
+{"geometry":{"coordinates":[-78.487235,35.902436],"type":"Point"},"properties":{"cause":"UNKNOWN","comment":"A crew has been assigned to the outage affecting your area.","crewAssigned":true,"estimateTime":1795516334000,"id":"741134","nbrOut":1,"planned":false,"timeOff":1795509134000},"type":"Feature"}
 ]}
