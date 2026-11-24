@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-82.355605,36.296975],"type":"Point"},"properties":{"cause":"Auto Accident","estimateTime":1795541728000,"id":"1381900","nbrOut":15,"planned":false,"timeOff":1795525105000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.411857,36.214815],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1795539298000,"id":"1381907","nbrOut":2,"planned":false,"timeOff":1795531147000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.411857,36.214815],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1795539298000,"id":"1381907","nbrOut":2,"planned":false,"timeOff":1795531147000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.475862,36.42413],"type":"Point"},"properties":{"cause":"Construction Scheduled < 10","estimateTime":1795541309000,"id":"1381911","nbrOut":2,"planned":false,"timeOff":1795533170000},"type":"Feature"}
 ]}
