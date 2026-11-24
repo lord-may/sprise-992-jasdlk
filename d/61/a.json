@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.209032,31.535461],"type":"Point"},"properties":{"cause":"EQUIP-MATERIAL OR EQUIP FAILURE           ","crewAssigned":true,"estimateTime":1795492800000,"id":"694100","nbrOut":68,"planned":false,"timeOff":1795479266340},"type":"Feature"}
+{"geometry":{"coordinates":[-91.209032,31.535461],"type":"Point"},"properties":{"cause":"EQUIP-MATERIAL OR EQUIP FAILURE           ","crewAssigned":true,"estimateTime":1795492800000,"id":"694100","nbrOut":68,"planned":false,"timeOff":1795479266340},"type":"Feature"},
+{"geometry":{"coordinates":[-90.873844,31.800397],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795500000000,"id":"694102","nbrOut":1,"planned":false,"timeOff":1795488732040},"type":"Feature"}
 ]}
