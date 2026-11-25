@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-84.883554,35.417548],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of a low power line.","crewAssigned":true,"id":"1726404","nbrOut":1,"planned":false,"timeOff":1795613611932},"type":"Feature"},
 {"geometry":{"coordinates":[-84.877643,35.769689],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of balloons in the power lines.","crewAssigned":true,"id":"1726407","nbrOut":1,"planned":false,"timeOff":1795614947302},"type":"Feature"},
 {"geometry":{"coordinates":[-85.004476,35.948148],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1726414","nbrOut":50,"planned":false,"timeOff":1795615949566},"type":"Feature"},
-{"geometry":{"coordinates":[-84.896499,35.907769],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726415","nbrOut":1,"planned":false,"timeOff":1795616549554},"type":"Feature"}
+{"geometry":{"coordinates":[-84.896148,35.90897],"type":"Point"},"properties":{"comment":"We are aware of your outage. A crew will be dispatched to begin troubleshooting the cause of this outage.","crewAssigned":false,"id":"1726418","nbrOut":7,"planned":false,"timeOff":1795616549554},"type":"Feature"}
 ]}
