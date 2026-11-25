@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.883554,35.417548],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726404","nbrOut":1,"planned":false,"timeOff":1795613611932},"type":"Feature"}
+{"geometry":{"coordinates":[-84.883554,35.417548],"type":"Point"},"properties":{"comment":"A crew is assigned and will be working to verify report of a low power line.","crewAssigned":true,"id":"1726404","nbrOut":1,"planned":false,"timeOff":1795613611932},"type":"Feature"},
+{"geometry":{"coordinates":[-84.898098,35.256175],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726406","nbrOut":4,"planned":false,"timeOff":1795614410426},"type":"Feature"}
 ]}
