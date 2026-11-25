@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-85.129162,36.064623],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a possible tree on a line. Thank you for your patience.","crewAssigned":true,"id":"1726429","nbrOut":5,"planned":false,"timeOff":1795627895015},"type":"Feature"},
-{"geometry":{"coordinates":[-85.008941,35.334069],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a broke pole. Thank you for your patience.","crewAssigned":true,"id":"1726435","nbrOut":1,"planned":false,"timeOff":1795634154765},"type":"Feature"}
+{"geometry":{"coordinates":[-85.008941,35.334069],"type":"Point"},"properties":{"comment":"A crew is assigned and working to restore the power outage in your area due to a broke pole. Thank you for your patience.","crewAssigned":true,"id":"1726435","nbrOut":1,"planned":false,"timeOff":1795634154765},"type":"Feature"},
+{"geometry":{"coordinates":[-84.917259,36.395732],"type":"Point"},"properties":{"comment":"A crew is assigned and will be checking the reported line down.","crewAssigned":true,"id":"1726437","nbrOut":1,"planned":false,"timeOff":1795639172510},"type":"Feature"},
+{"geometry":{"coordinates":[-84.794028,35.055824],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726438","nbrOut":1,"planned":false,"timeOff":1795639685908},"type":"Feature"}
 ]}
