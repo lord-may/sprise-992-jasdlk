@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.413398,37.655108],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":43,"customersOutNow":43,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T11:01:07-05:00","outageName":"","outagePoint":{"lat":37.65510760792857,"lng":-86.41339844349572},"outageRecID":"2026-11-25-4704","outageStartTime":"2026-11-25T10:55:21-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["JACK GALLOWAY LN","JACK GALLOWAY RD","JCT HWY 259 & MCCOY ROFF RD","LAKE FOREST LN","LITTLE BEAR LN","MCCOY ROFF RD           ","ODONOGHUE KIPER LN","ODONOGHUE KIPER RD","S HIGHWAY 259","WHIPPOORWILL LN"],"verified":false},"type":"Feature"}
 ]}
