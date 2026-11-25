@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.41266,34.916944],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-11-25T18:30:39-05:00","outageName":"TR: F-132-R1-1","outagePoint":{"lat":34.9169436956781,"lng":-80.41265975996991},"outageRecID":"2026-11-25-0405","outageStartTime":"2026-11-25T18:28:09-05:00","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-79.789009,35.176598],"type":"Point"},"properties":{"cause":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":null,"outageEndTime":null,"outageModifiedTime":"2026-11-25T18:37:03-05:00","outageName":"FS: 3AB-14","outagePoint":{"lat":35.17659801068967,"lng":-79.78900861102983},"outageRecID":"2026-11-25-0406","outageStartTime":"2026-11-25T18:33:55-05:00","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
