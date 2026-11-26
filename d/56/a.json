@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-76.87007,37.002548],[-76.867599,37.014385],[-76.873591,37.01833],[-76.8728,37.006171],[-76.87007,37.002548]]],"type":"Polygon"},{"coordinates":[-76.870896,37.011006],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"146581","nbrOut":8,"planned":false,"timeOff":1795689995770},"type":"Feature"},
-{"geometry":{"coordinates":[-77.344784,37.045121],"type":"Point"},"properties":{"id":"146606","nbrOut":1,"planned":false,"timeOff":1795724435000},"type":"Feature"},
-{"geometry":{"coordinates":[-77.215678,37.160034],"type":"Point"},"properties":{"cause":"MAJOR EVENT                   ","id":"146607","nbrOut":1,"planned":false,"timeOff":1795724676000},"type":"Feature"},
-{"geometry":{"coordinates":[-76.969405,37.081328],"type":"Point"},"properties":{"id":"146611","nbrOut":1,"planned":false,"timeOff":1795726800000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-76.87007,37.002548],[-76.867599,37.014385],[-76.873591,37.01833],[-76.8728,37.006171],[-76.87007,37.002548]]],"type":"Polygon"},{"coordinates":[-76.870896,37.011006],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"146581","nbrOut":8,"planned":false,"timeOff":1795689995770},"type":"Feature"}
 ]}
