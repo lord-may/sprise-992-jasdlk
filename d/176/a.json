@@ -1,3 +1,10 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-88.762426,35.931989],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.766351,35.93354],"type":"Point"},"properties":{"customURL":"","outage_type":"AMI"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.75889,35.934572],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.762845,35.930809],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.769069,35.928759],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.769909,35.925885],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.771385,35.931984],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-88.771504,35.926317],"type":"Point"},"properties":{"customURL":"","outage_type":"YES_POWER"},"type":"Feature"}
 ]}
