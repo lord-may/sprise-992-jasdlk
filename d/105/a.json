@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.560888,36.256949],"type":"Point"},"properties":{"cause":"Tree in ROW ","estimateTime":1795742490000,"id":"1381960","nbrOut":1,"planned":false,"timeOff":1795727160000},"type":"Feature"},
-{"geometry":{"coordinates":[-82.593766,36.319402],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1795741306926,"id":"1381961","nbrOut":1,"planned":false,"timeOff":1795733506882},"type":"Feature"}
+{"geometry":{"coordinates":[-82.593766,36.319402],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1795741306926,"id":"1381961","nbrOut":1,"planned":false,"timeOff":1795733506882},"type":"Feature"},
+{"geometry":{"coordinates":[-82.373167,36.319307],"type":"Point"},"properties":{"cause":"Overhanging Limb/Tree ","estimateTime":1795742100000,"id":"1381963","nbrOut":8,"planned":false,"timeOff":1795733964000},"type":"Feature"}
 ]}
