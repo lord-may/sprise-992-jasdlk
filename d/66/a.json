@@ -1,3 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-84.785781,35.104203],"type":"Point"},"properties":{"comment":"We are aware of the possible broke pole. A crew will be dispatched to begin assessing the damage.","crewAssigned":true,"id":"1726447","nbrOut":1,"planned":false,"timeOff":1795648494534},"type":"Feature"}
+{"geometry":{"coordinates":[-84.785781,35.104203],"type":"Point"},"properties":{"comment":"We are aware of the possible broke pole. A crew will be dispatched to begin assessing the damage.","crewAssigned":true,"id":"1726447","nbrOut":1,"planned":false,"timeOff":1795648494534},"type":"Feature"},
+{"geometry":{"coordinates":[-84.60063,35.658911],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726454","nbrOut":1,"planned":false,"timeOff":1795665752189},"type":"Feature"},
+{"geometry":{"coordinates":[-84.603917,35.669472],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726455","nbrOut":1,"planned":false,"timeOff":1795665773403},"type":"Feature"},
+{"geometry":{"coordinates":[-84.601815,35.66775],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726456","nbrOut":1,"planned":false,"timeOff":1795665805290},"type":"Feature"},
+{"geometry":{"coordinates":[-84.608957,35.660831],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726457","nbrOut":1,"planned":false,"timeOff":1795665873300},"type":"Feature"},
+{"geometry":{"coordinates":[-84.602238,35.658918],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726461","nbrOut":37,"planned":false,"timeOff":1795665706820},"type":"Feature"},
+{"geometry":{"coordinates":[-84.602543,35.668297],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726462","nbrOut":1,"planned":false,"timeOff":1795666038979},"type":"Feature"}
 ]}
