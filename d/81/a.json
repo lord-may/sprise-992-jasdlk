@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.996976,34.665064],"type":"Point"},"properties":{"cause":"Equipment Failure","code":"34","crewAssigned":false,"customersOutInitially":576,"customersOutNow":576,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T13:29:31.983-05:00","outageName":"2026-11-26-1255","outagePoint":{"lat":34.665064171014194,"lng":-82.99697574913839},"outageRecID":"2026-11-26-1255","outageStartTime":"2026-11-26T13:26:22-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
