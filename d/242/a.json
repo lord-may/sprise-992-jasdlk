@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.045433,33.966131],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T04:08:31.347-05:00","outageName":"16DD-3","outagePoint":{"lat":33.966131019733226,"lng":-79.0454332027555},"outageRecID":"2026-11-26-0455","outageStartTime":"2026-11-26T04:07:00-05:00","outageWorkStatus":"","streetsAffected":["BENTON DR","HORSE CREEK DR","HORSECREEK RD","HORSECREEK RD GREENHSE"],"verified":false},"type":"Feature"}
 ]}
