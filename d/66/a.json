@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-84.936914,35.581871],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1726564","nbrOut":103,"planned":false,"timeOff":1795719163204},"type":"Feature"},
-{"geometry":{"coordinates":[-84.938189,35.58155],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":false,"id":"1726565","nbrOut":1,"planned":false,"timeOff":1795719271786},"type":"Feature"},
+{"geometry":{"coordinates":[-84.938189,35.58155],"type":"Point"},"properties":{"comment":"A crew is assigned and is working to troubleshoot the cause of this outage. Thank you for your patience.","crewAssigned":true,"id":"1726565","nbrOut":1,"planned":false,"timeOff":1795719271786},"type":"Feature"},
 {"geometry":{"coordinates":[-84.935126,36.404546],"type":"Point"},"properties":{"comment":"We are aware of the blinks you are experiencing. Crews are currently riding lines to try to find the cause. This may be due to the wind gusts that are picking up. Thank you for your patience.","crewAssigned":true,"id":"1726576","nbrOut":1098,"planned":false,"timeOff":1795724244239},"type":"Feature"},
 {"geometry":{"coordinates":[-84.893301,36.390808],"type":"Point"},"properties":{"crewAssigned":false,"id":"1726578","nbrOut":1,"planned":false,"timeOff":1795725148000},"type":"Feature"}
 ]}
