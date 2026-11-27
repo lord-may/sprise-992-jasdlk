@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-86.742602,30.805931],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-27T17:30:17-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T15:32:01.06-06:00","outageName":"10316S03","outagePoint":{"lat":30.805931177884716,"lng":-86.74260161718844},"outageRecID":"2026-11-27-0758","outageStartTime":"2026-11-27T15:30:17-06:00","outageWorkStatus":"","streetsAffected":["Brooks Rd"],"verified":false},"type":"Feature"}
 ]}
