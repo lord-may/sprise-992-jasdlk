@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-81.88134,27.9483],[-81.88088,27.94839],[-81.88088,27.94874],[-81.88111,27.94875],[-81.88211,27.94875],[-81.88204,27.94831],[-81.88134,27.9483]]],"type":"Polygon"},{"coordinates":[-81.88149,27.94854],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"BLOWN FUSE/JACK OPEN","ES-ES":"FUSIBLE BLOWN / JACK ABIERTO","orig":"BLOWN FUSE/JACK OPEN"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"En Route","ES-ES":"En Ruta","orig":"En Route"},"cust_a":{"val":12},"etr":"2026-11-27T23:29:14Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-27T21:13:05Z","title":"Area Outage"},"type":"Feature"}
 ]}
