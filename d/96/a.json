@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.8639,35.15304],"type":"Point"},"properties":{"cause":{"EN-US":"Assessing Outage Cause","ES-ES":"Evaluación de la causa de la interrupción","orig":"Unknown"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"mask":5,"val":4},"etr":"2026-11-27T10:12:44Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-27T07:27:44Z","title":"Area Outage"},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-78.86441,35.15059],[-78.86322,35.15423],[-78.86461,35.15222],[-78.86468,35.15205],[-78.86499,35.15091],[-78.86441,35.15059]]],"type":"Polygon"},{"coordinates":[-78.86423,35.15206],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Assessing Outage Cause","ES-ES":"Evaluación de la causa de la interrupción","orig":"Unknown"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":6},"etr":"2026-11-27T09:42:44Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-27T07:27:44Z","title":"Area Outage"},"type":"Feature"}
 ]}
