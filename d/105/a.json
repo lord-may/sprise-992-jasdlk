@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-82.593766,36.319402],"type":"Point"},"properties":{"cause":"No Outage On Tantalus","estimateTime":1795741306000,"id":"1381961","nbrOut":1,"planned":false,"timeOff":1795733506882},"type":"Feature"},
-{"geometry":{"coordinates":[-82.372008,36.324475],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1795744740000,"id":"1381964","nbrOut":1,"planned":false,"timeOff":1795736597000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.593766,36.319402],"type":"Point"},"properties":{"cause":"No Outage On Tantalus","estimateTime":1795748506000,"id":"1381961","nbrOut":1,"planned":false,"timeOff":1795733506882},"type":"Feature"},
+{"geometry":{"coordinates":[-82.372008,36.324475],"type":"Point"},"properties":{"cause":"House Fire","estimateTime":1795744740000,"id":"1381964","nbrOut":1,"planned":false,"timeOff":1795736597000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.371864,36.324359],"type":"Point"},"properties":{"cause":"Overhanging Limb/Tree ","estimateTime":1795745850000,"id":"1381965","nbrOut":1,"planned":false,"timeOff":1795737720000},"type":"Feature"}
 ]}
