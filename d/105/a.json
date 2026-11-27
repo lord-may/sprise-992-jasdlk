@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-82.593766,36.319402],"type":"Point"},"properties":{"cause":"No Outage On Tantalus","estimateTime":1795748506000,"id":"1381961","nbrOut":1,"planned":false,"timeOff":1795733506882},"type":"Feature"},
-{"geometry":{"coordinates":[-82.372008,36.324475],"type":"Point"},"properties":{"cause":"House Fire","estimateTime":1795744740000,"id":"1381964","nbrOut":1,"planned":false,"timeOff":1795736597000},"type":"Feature"}
+{"geometry":{"coordinates":[-82.372008,36.324475],"type":"Point"},"properties":{"cause":"House Fire","estimateTime":1795744740000,"id":"1381964","nbrOut":1,"planned":false,"timeOff":1795736597000},"type":"Feature"},
+{"geometry":{"coordinates":[-82.398347,36.300421],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1795747581215,"id":"1381968","nbrOut":1,"planned":false,"timeOff":1795739781181},"type":"Feature"},
+{"geometry":{"coordinates":[-82.572809,36.366412],"type":"Point"},"properties":{"cause":"Outage Reported","estimateTime":1795747663696,"id":"1381970","nbrOut":21,"planned":false,"timeOff":1795739558000},"type":"Feature"}
 ]}
