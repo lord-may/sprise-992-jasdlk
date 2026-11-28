@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-81.767468,31.320485],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":30,"customersOutNow":30,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T13:23:42-05:00","outageName":"F2089","outagePoint":{"lat":31.320485191118557,"lng":-81.76746847968491},"outageRecID":"2026-11-28-0421","outageStartTime":"2026-11-28T13:16:07-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["BAKER HILL RD","BAKERS HILL RD"],"verified":true},"type":"Feature"}
 ]}
