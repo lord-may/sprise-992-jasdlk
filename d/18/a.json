@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-82.330274,28.178854],"type":"Point"},"properties":{"_source":{"customerCount":16,"estimatedTimeOfRestoration":"2026-11-28T01:00:00","incidentId":"A202633104852","polygonCenter":[-82.3302736773856,28.178853609843763],"reason":"Under investigation","status":"We're working onsite","updateTime":"2026-11-27T21:05:08"}},"type":"Feature"},
+{"geometry":{"coordinates":[-82.561088,28.055835],"type":"Point"},"properties":{"_source":{"customerCount":31,"estimatedTimeOfRestoration":"2026-11-28T00:50:00","incidentId":"A202633104784","polygonCenter":[-82.5610884628388,28.055834996388718],"reason":"Pending Investigation","status":"We're working onsite","updateTime":"2026-11-27T21:05:08"}},"type":"Feature"}
 ]}
