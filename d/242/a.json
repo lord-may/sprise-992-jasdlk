@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.945499,34.103724],"type":"Point"},"properties":{"cause":"Customer-caused","code":"700","crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-28T16:00:05-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T13:50:04.547-05:00","outageName":"PC-65786","outagePoint":{"lat":34.10372407485875,"lng":-78.94549908514682},"outageRecID":"2026-11-28-0476","outageStartTime":"2026-11-28T13:48:56-05:00","outageWorkStatus":"","streetsAffected":["PAGES PASS","PAGE'S PASS RHETT"],"verified":true},"type":"Feature"}
 ]}
